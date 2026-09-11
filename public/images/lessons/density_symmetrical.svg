@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 220" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#070f1e" />
+      <stop offset="100%" stop-color="#0b1b35" />
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#bgGrad)" rx="12" stroke="#1e293b" stroke-width="2"/>
+  
+  <text x="20" y="30" font-family="system-ui, sans-serif" font-size="13" font-weight="bold" fill="#38bdf8">1. Symmetrical Covalent Overlap (Cl₂)</text>
+  <text x="20" y="48" font-family="system-ui, sans-serif" font-size="10" fill="#94a3b8">Even distribution of electron density between identical atoms</text>
+
+  <!-- ==================== Electron Density Contours (Nested Ovals) ==================== -->
+  <g transform="translate(-100, -55) scale(1.5)">
+    <!-- Outer contour -->
+    <ellipse cx="200" cy="120" rx="90" ry="45" fill="none" stroke="#22c55e" stroke-width="1" opacity="0.2" />
+    <!-- Middle contours -->
+    <ellipse cx="200" cy="120" rx="80" ry="38" fill="none" stroke="#22c55e" stroke-width="1.2" opacity="0.4" />
+    <ellipse cx="200" cy="120" rx="70" ry="32" fill="none" stroke="#22c55e" stroke-width="1.5" opacity="0.6" />
+    
+    <!-- Inner contours wrapping individual nuclei and merging in middle -->
+    <path d="M 120,120 C 120,105 150,100 200,108 C 250,100 280,105 280,120 C 280,135 250,140 200,132 C 150,140 120,135 120,120 Z" fill="none" stroke="#22c55e" stroke-width="1.8" opacity="0.8" />
+    <path d="M 130,120 C 130,110 150,106 200,112 C 250,106 270,110 270,120 C 270,130 250,134 200,128 C 150,134 130,130 130,120 Z" fill="none" stroke="#22c55e" stroke-width="2" opacity="0.9" />
+
+    <!-- Inner tight circles around each nucleus -->
+    <circle cx="150" cy="120" r="18" fill="none" stroke="#22c55e" stroke-width="1.5" opacity="0.7" />
+    <circle cx="250" cy="120" r="18" fill="none" stroke="#22c55e" stroke-width="1.5" opacity="0.7" />
+
+    <!-- ==================== Nuclei (Drawn on top to block contours) ==================== -->
+    <circle cx="150" cy="120" r="15" fill="#0b1b35" stroke="#6366f1" stroke-width="2" />
+    <text x="150" y="124" font-family="system-ui, sans-serif" font-size="10" font-weight="bold" fill="#e0e7ff" text-anchor="middle">Cl</text>
+    
+    <circle cx="250" cy="120" r="15" fill="#0b1b35" stroke="#6366f1" stroke-width="2" />
+    <text x="250" y="124" font-family="system-ui, sans-serif" font-size="10" font-weight="bold" fill="#e0e7ff" text-anchor="middle">Cl</text>
+  </g>
+</svg>

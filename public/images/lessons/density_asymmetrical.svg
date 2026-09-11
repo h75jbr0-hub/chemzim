@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 220" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#070f1e" />
+      <stop offset="100%" stop-color="#0b1b35" />
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#bgGrad)" rx="12" stroke="#1e293b" stroke-width="2"/>
+  
+  <text x="20" y="30" font-family="system-ui, sans-serif" font-size="13" font-weight="bold" fill="#38bdf8">2. Asymmetrical Covalent Overlap (HCl)</text>
+  <text x="20" y="48" font-family="system-ui, sans-serif" font-size="10" fill="#94a3b8">Electron density distorted towards the more electronegative Cl atom</text>
+
+  <!-- ==================== Electron Density Contours ==================== -->
+  <g transform="translate(-107.5, -55) scale(1.5)">
+    <!-- Outer contour -->
+    <path d="M 100,120 C 100,90 180,75 295,85 C 310,100 310,140 295,155 C 180,165 100,150 100,120 Z" fill="none" stroke="#22c55e" stroke-width="1" opacity="0.2" />
+    
+    <!-- Middle contours -->
+    <path d="M 110,120 C 110,95 180,82 285,92 C 298,103 298,137 285,148 C 180,158 110,145 110,120 Z" fill="none" stroke="#22c55e" stroke-width="1.2" opacity="0.4" />
+    <path d="M 120,120 C 120,100 180,90 275,100 C 286,108 286,132 275,140 C 180,150 120,140 120,120 Z" fill="none" stroke="#22c55e" stroke-width="1.5" opacity="0.6" />
+    
+    <!-- Inner tight contours around Cl -->
+    <ellipse cx="250" cy="120" rx="35" ry="30" fill="none" stroke="#22c55e" stroke-width="1.8" opacity="0.8" />
+    <ellipse cx="250" cy="120" rx="20" ry="18" fill="none" stroke="#22c55e" stroke-width="2" opacity="0.9" />
+
+    <!-- Inner tight contour around H -->
+    <circle cx="130" cy="120" r="12" fill="none" stroke="#22c55e" stroke-width="1.5" opacity="0.7" />
+
+    <!-- ==================== Nuclei (Drawn on top to block contours) ==================== -->
+    <!-- Hydrogen Nucleus (Smaller) -->
+    <circle cx="130" cy="120" r="11" fill="#0b1b35" stroke="#94a3b8" stroke-width="1.5" />
+    <text x="130" y="124" font-family="system-ui, sans-serif" font-size="9" font-weight="bold" fill="#f8fafc" text-anchor="middle">H</text>
+    <text x="130" y="102" font-family="system-ui, sans-serif" font-size="9" font-weight="bold" fill="#f43f5e" text-anchor="middle">δ+</text>
+    
+    <!-- Chlorine Nucleus (Larger) -->
+    <circle cx="250" cy="120" r="15" fill="#0b1b35" stroke="#6366f1" stroke-width="2" />
+    <text x="250" y="124" font-family="system-ui, sans-serif" font-size="10" font-weight="bold" fill="#e0e7ff" text-anchor="middle">Cl</text>
+    <text x="250" y="99" font-family="system-ui, sans-serif" font-size="9" font-weight="bold" fill="#38bdf8" text-anchor="middle">δ-</text>
+  </g>
+</svg>

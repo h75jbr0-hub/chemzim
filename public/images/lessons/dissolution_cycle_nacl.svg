@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 360" width="100%" height="100%" style="background: linear-gradient(135deg, #070f1e 0%, #0b1b35 100%); border: 1px solid #1e293b; border-radius: 8px;">
+  <!-- Definitions -->
+  <defs>
+    <marker id="arrow-blue" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 2 L 10 5 L 0 8 z" fill="#38bdf8"/>
+    </marker>
+    <marker id="arrow-rose" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 2 L 10 5 L 0 8 z" fill="#f43f5e"/>
+    </marker>
+  </defs>
+
+  <!-- Level lines -->
+  <!-- Gaseous ions -->
+  <line x1="100" y1="60" x2="700" y2="60" stroke="#38bdf8" stroke-width="4"/>
+  <text x="400" y="45" fill="#e2e8f0" font-family="Inter, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">Na⁺(g) + Cl⁻(g)</text>
+
+  <!-- Aqueous ions -->
+  <line x1="400" y1="260" x2="700" y2="260" stroke="#38bdf8" stroke-width="4"/>
+  <text x="520" y="245" fill="#e2e8f0" font-family="Inter, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">Na⁺(aq) + Cl⁻(aq)</text>
+
+  <!-- Solid -->
+  <line x1="100" y1="300" x2="400" y2="300" stroke="#38bdf8" stroke-width="4"/>
+  <text x="290" y="320" fill="#e2e8f0" font-family="Inter, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">NaCl(s)</text>
+
+  <!-- Arrows -->
+  <!-- Lattice formation (downwards) -->
+  <line x1="180" y1="60" x2="180" y2="292" stroke="#f43f5e" stroke-width="2.5" marker-end="url(#arrow-rose)"/>
+  <text x="195" y="180" fill="#f43f5e" font-family="Inter, sans-serif" font-size="13" font-weight="bold">ΔHlatt°[NaCl(s)] = -780</text>
+
+  <!-- Hydration enthalpies (downwards) -->
+  <line x1="650" y1="60" x2="650" y2="252" stroke="#f43f5e" stroke-width="2.5" marker-end="url(#arrow-rose)"/>
+  <text x="635" y="145" fill="#f43f5e" font-family="Inter, sans-serif" font-size="13" font-weight="bold" text-anchor="end">ΔHhyd°(Na⁺) + ΔHhyd°(Cl⁻)</text>
+  <text x="635" y="168" fill="#f43f5e" font-family="Inter, sans-serif" font-size="13" font-weight="bold" text-anchor="end">= -406 + (-363) = -769</text>
+
+  <!-- Enthalpy of solution (upwards) -->
+  <line x1="380" y1="300" x2="380" y2="268" stroke="#38bdf8" stroke-width="2.5" marker-end="url(#arrow-blue)"/>
+  <text x="365" y="288" fill="#38bdf8" font-family="Inter, sans-serif" font-size="13" font-weight="bold" text-anchor="end">ΔHsol° = +11</text>
+</svg>

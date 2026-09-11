@@ -1,0 +1,2065 @@
+=== PDF PAGE 31 ===
+Three: Medical aspects of patient care
+22
+   Physical examination 
+   Sufficient information can usually be obtained by obtain-
+ing a thorough history such that a physical examination 
+is unnecessary outside the hospital setting. However, 
+if a sedation technique is being considered, then it may 
+be appropriate to undertake a limited examination as 
+follows. 
+    Observe the patient in general  . Is the patient clinically 
+well or are there any obvious generalised clinical signs 
+such as cyanosis, pallor or jaundice? Is the patient unusually 
+anxious? Are they talking continuously? Do they appear 
+calm but have sweaty palms? Weigh the patient and also 
+take note of any excessive fat under the chin, particularly 
+in a retrognathic mandible as this may indicate a less than 
+ideal airway. 
+    Check the cardiovascular system . The radial pulse should 
+be checked for rate, rhythm, volume and character. The 
+arterial blood pressure may be measured using a sphyg-
+momanometer on the upper arm of the patient while they 
+are sitting. This limited examination is the minimum that 
+should be carried out for adult patients for whom intra-
+venous sedation is proposed. 
+    Social history . Social factors also affect the patient’s abil-
+ity to cope with treatment. The patient’s age, the distance 
+they have to travel for treatment, and the availability of 
+an escort if considering sedation or general anaesthesia 
+should be determined. 
+   Hospital setting 
+   A full physical examination may be required in a hospi-
+tal setting if patients require GA for surgical or extensive 
+dental treatment. The appropriateness and extent will 
+depend on the history. The aim is to establish the baseline 
+condition of the patient and to identify any problems that 
+may have an effect on the treatment or anaesthesia.    
+  3.2     Dental relevance of the 
+medical condition 
+   The cardiovascular system 
+   Congenital and rheumatic heart disease 
+        Learning objectives  
+      You should:
+        know when to use antibiotic cover and suitable regimens  
+      know the prerequirements for dental treatment in medical 
+conditions in terms of control and stabilisation of the 
+condition  
+      know how to monitor such patients during treatment  
+      understand how to deal with medical problems arising 
+during treatment.         
+   Valvular anomalies and damage may predispose to coloni-
+sation and subsequent potentially fatal infective endocar-
+ditis following a bacteraemia caused by dental treatments 
+such as subgingival periodontal therapies or surgical pro-
+cedures including dental extraction. This risk has been 
+reduced in the past by providing antibiotic prophylaxis 
+•
+•
+•
+•
+for such dental procedures (Box 3). A cardiologist should 
+have confirmed the presence of valve damage. However, 
+there is lack of consensus on the precise clinical conditions 
+that indicate a need for antibiotic cover. Current guidelines 
+should always be checked and institutional recommenda-
+tions followed. Indeed, it  has been suggested that the risk 
+of endocarditis may actually be very small following den-
+tal treatment and therefore it would be sensible to restrict 
+antibiotic prophylaxis for dental treatment to patients in 
+whom the risk of developing endocarditis is the highest. 
+The recommendations of one group (Working Party of 
+the British Society for Antimicrobial Chemotherapy) sug-
+gested that high-risk patients were those that  had a his-
+tory of endocarditis, cardiac valve replacement surgery, or 
+a surgically constructed systemic or pulmonary shunt or 
+conduit. Good oral hygiene is the most important factor in 
+reducing the risk of endocarditis in susceptible individuals 
+and antibiotic cover may not be required at all.  
+   Hypertension 
+   The risk of stroke and myocardial infarction associated 
+with GA is known to be increased when the diastolic pres-
+sure is persistently above 110  mmHg. 
+   Local anaesthetic (LA) solutions containing adrenaline 
+(epinephrine) may be used safely providing that aspirating 
+syringes are used to reduce the incidence of intravascular 
+injection (which may cause hypertension or arrhythmia, or 
+trigger angina in susceptible patients). 
+   Treatment 
+   Blood pressure should be controlled before sedation/GA 
+for elective treatment and patients should continue to 
+take their antihypertensive drugs up to and on the day of 
+sedation/GA. 
+   Blood pressure should be monitored during treatment 
+involving conscious sedation techniques.   
+   Cardiac failure 
+   Diuretics are the usual treatment. Cardiac failure should 
+be controlled before sedation/GA. 
+   Exercise tolerance gives useful information about the 
+severity of the disease.  
+   Arrhythmias 
+   The patient may give a history of palpitations or have 
+irregular pulse, but arrhythmias are only diagnosed 
+accurately from an electrocardiogram. 
+   Treatment 
+   Arrhythmias should be controlled before sedation/GA, for 
+example atrial fibrillation ( Fig. 14   ) treated with digoxin. 
+   Additional monitoring and supplemental oxygen therapy 
+are required when using conscious sedation techniques.   
+   Angina and myocardial infarction 
+   About 5% of patients have a myocardial infarction  during 
+GA if they have already had a myocardial infarction in the 
+past. The death rate of myocardial infarction associated 
+with GA is 50%. GA is particularly dangerous for patients 
+who have had an infarction in the previous 6 months. 
+   Angina should be controlled before sedation/GA. 
+
+=== PDF PAGE 32 ===
+Three
+23
+ Box 3    Antibiotic protocol for prevention of endocarditis from dental procedures       
+Cardiac risk factors for 
+antibiotic prophylaixis
+Dental procedures requiring 
+antibiotic prophylaxis
+Antibiotic regimens for endocarditis 
+prophylaxis
+Previous infective endocarditis  
+Cardiac valve replacement 
+surgery,   i.e. mechanical or 
+biological prosthetic valves  
+Surgically constructed systemic 
+or pulmonary shunt or conduit
+All dental procedures involving 
+dento-gingival manipulation. Simple 
+and complex dental treatment  
+A simple dental examination with or 
+without radiographs does  not  need 
+antibiotic prophylaxis
+Amoxicillin 3  g orally 1 hour before the dental procedure  
+≥ 5 < 10 years of age 1.5  g  
+< 5 years of age 750  mg  
+ If allergic to penicillin:   
+clindamycin 600  mg orally 1 hour before the dental 
+procedure  
+≥ 5 < 10 years of age 300  mg  
+< 5 years of age 150  mg  
+ Patients allergic to penicillin and unable to swallow 
+capsules:   
+a single dose of azithromycin 500  mg orally 1 hour before 
+the dental procedure  
+< 5 years of age 200  mg  
+≥ 5 < 10 years of age 300  mg
+  Intravenous regimens for dental treatment (when considered expedient) 
+   A single IV dose of 1g amoxicillin (< 5 years of age 250  mg, ≥ 5 < 10 years of age 500  mg) given just before the procedure 
+or at induction of anaesthesia. 
+    If allergic to penicillin:  
+   A single IV dose of 300  mg clindamycin (given over at least 10 minutes) is recommended. 
+   (< 5 years of age 75  mg, ≥ 5 < 10 years of age 150  mg) 
+   There is a continuing case for the use of preoperative mouth rinsing with chlorhexidine gluconate (10  ml for 1 minute). 
+   Where a course of treatment involves several visits the antibiotic regimen should alternate between amoxicillin and clindamycin.    
+   LA solutions containing adrenaline (epinephrine) may 
+be used safely. Aspirating syringes are recommended to 
+reduce the incidence of intravascular injection, which may 
+theoretically lead to an increase in hypertension. 
+   Treatment 
+   Preoperative glyceryl trinitrate should be considered for 
+patients with angina receiving treatment under LA. 
+   Patients may be treated using conscious sedation tech-
+niques but require additional monitoring and should 
+receive supplemental oxygen therapy.    
+   The respiratory system 
+   The upper airway 
+   Abnormalities between the lips and the trachea such as 
+swelling, trismus or tumours of the mouth or pharynx 
+may compromise the airway and make intubation of GA 
+difficult. Nasal obstruction may contraindicate dental 
+treatment as the patient needs to breathe through their 
+nose for many procedures. Certainly, upper respiratory 
+tract infections would contraindicate dentistry performed 
+under relative analgesia.  
+   Chronic obstructive airways 
+disease 
+   Chronic obstructive airways disease (COAD) is defined as 
+the presence of a productive cough for at least 3 months 
+in 2 successive years.  Figure 15    shows a chest radiograph 
+of a patient with COAD. A frequent cause is smoking. 
+The severity may be assessed from the patient’s exercise 
+tolerance, together with drug usage and the frequency of 
+related hospital admissions. 
+Dental relevance of the medical condition
+ Fig. 14    Atrial fibrillation as seen on an electrocardiogram.    
+
+=== PDF PAGE 33 ===
+Three: Medical aspects of patient care
+24
+   LA may be used safely. The patient may be more com-
+fortable in a semi-supine or upright position, as they can 
+become increasingly breathless in the supine position. 
+   Intravenous conscious sedation techniques are likely 
+to further compromise respiratory function and should 
+be undertaken in hospital. Similarly, GA involves risk of 
+respiratory impairment.  
+   Asthma 
+   Frequency and severity of attacks gives an indication of 
+the severity of the disease. 
+   Asthma may occasionally be precipitated by anxiety 
+or emotional stress. Patients with asthma are more likely 
+to be allergic to drugs such as penicillin. Non-steroidal 
+anti-inflammatory drugs (NSAIDs) should be prescribed 
+only if the patient has taken the drug before on more 
+than one occasion without a hypersensitivity reaction. 
+   LA may be used safely. 
+   Treatment 
+   Conscious sedation techniques may be indicated in mild 
+asthma to reduce anxiety and avoid an attack. 
+   It is important to avoid GA drugs that release histamine 
+such as atracurium and morphine.   
+   Other respiratory diseases 
+    Upper or lower respiratory tract infections . These do not con-
+traindicate dental treatment under LA or conscious seda-
+tion although the nasal obstruction of the common cold 
+may make treatment with an open mouth uncomfortable 
+for the patient. Similarly, patients may find it difficult to 
+inhale nitrous oxide. It is usually preferable to postpone 
+treatment, especially if the patient is pyrexial. Elective 
+GA treatment should be postponed because of the risk 
+of causing much more serious infection as a consequence 
+of a reduced immune response or intubation transferring 
+microorganisms further into the respiratory tract. 
+    Cystic fibrosis . The best time for sedation/GA for patients 
+with cystic fibrosis should be discussed with the patient’s 
+physician. Sedation should be undertaken in hospital. 
+    Pulmonary tuberculosis . If active and open, this is highly 
+infective and dental treatment should be postponed.   
+   Haematological disorders 
+   Anaemia 
+   Low haemoglobin levels owing to decreased red-cell mass 
+imply a reduced oxygen-carrying capacity of the blood. 
+There may be associated oral signs and symptoms such as 
+sore mouth or angular stomatitis. 
+   Elective sedation/GA treatment should be postponed 
+until the anaemia has been treated by the patient’s GP or 
+specialist. Patients are at risk of hypoxia when respiratory 
+depressant sedatives are administered and during induc-
+tion and recovery of GA. Such a risk is more significant if 
+the patient’s oxygen-carrying capacity is already reduced. 
+    Sickle-cell anaemia  . Red cells sickle and cause infarcts 
+or, rarely, haemolysis in sickle-cell anaemia. Sickling 
+tests detect the specific haemoglobin form (HbS). 
+Electrophoresis distinguishes homozygous (SS), heterozygous 
+(AS) states and other haemoglobin variants. Sickle-cell crisis 
+is precipitated by hypoxia, dehydration, pain and infection.  
+   Leukaemia 
+   The acute leukaemias pose problems of oral infections, 
+gingival swelling and ulceration, anaemia, bleeding and 
+immunocompromise. The chronic leukaemias pose similar 
+problems to the acute leukaemias. 
+   Elective dental treatment other than preventive should 
+be postponed until a remission period. 
+   Infections should be treated aggressively with antibi-
+otics and antifungal agents. NSAIDs should be avoided 
+because of the increased risk of gastrointestinal bleeding. 
+Local anaesthetic blocks should be avoided. Patients may 
+be anaemic, may have hepatitis B or C or HIV , or may be 
+receiving corticosteroid treatment.  
+   Lymphoma 
+   Hodgkin’s and non-Hodgkin’s lymphomas may present 
+as enlargement of the cervical lymph nodes. They pose 
+problems of oral infections, anaemia, bleeding and immu-
+nocompromise in similar way to patients with leukaemia. 
+Patients may also suffer cardiac disease and impaired 
+respiratory function following mediastinal irradiation.  
+   Bleeding disorders 
+   Haemostasis consists of vessel constriction, platelet plug 
+formation and the coagulation cascade. Defects of any of 
+the components of haemostasis will be of significance in 
+dentistry. 
+   Patients should be investigated and managed in the 
+hospital setting even for treatment under LA. The hae-
+matologist should be involved. Local anaesthetic blocks 
+should be avoided. 
+    Thrombocytopenia . Patients with platelet counts below 
+50 × 10 9 /L will require platelet transfusion before any 
+ Fig. 15    Chest radiograph of patient with chronic obstructive airways disease.    
+
+=== PDF PAGE 34 ===
+Three
+25
+ invasive dental treatment coagulation. One unit of platelets 
+may raise the count by 10 × 10 9 /L. 
+    Specific coagulation defects  . Coagulation factor replace-
+ment is required. 
+    Emergency management of a bleeding patient  . This may 
+consist of giving fresh frozen plasma and vitamin K. 
+   Anticoagulant therapy 
+   Anticoagulants are used in the treatment of deep-vein 
+thrombosis, pulmonary embolism, following heart valve 
+replacement and for those with atrial fibrillation who are 
+at risk of embolisation. Treatment for deep-vein thrombo-
+sis may last only 3 to 6 months but will continue for life for 
+atrial fibrillation and for those with mechanical prosthetic 
+heart valves. The anticoagulant of choice is warfarin which 
+antagonises vitamin K. Warfarin takes 36 hours or longer to 
+peak anticoagulant effect which is measured by prolonged 
+prothrombin time (PT) and activated partial thromboplastin 
+time (APTT). The international normalised ratio (INR) com-
+paring the patients’ PT with that of a control is increased 
+with warfarinisation. An INR near 1 is normal and patients 
+taking anticoagulants are usually in the range 2–4. 
+   In the past, patients have had their warfarin dose 
+adjusted to reduce the risk of bleeding during and after 
+oral surgery but more recently the research evidence has 
+indicated that this might not be necessary. The risk of 
+thromboembolic event after withdrawal of warfarin out-
+weighs the risk of bleeding after oral surgery. Patients 
+within the normal range may not require any change to 
+their warfarin dose at all for minor surgery but should be 
+warned that there is an increased risk of bleeding after 
+surgery. If possible a single extraction should be under-
+taken in the first instance with further extractions at subse-
+quent visits to limit the extent of surgery. An international 
+normalisation ratio (INR) measurement should be car-
+ried out within 24 hours of surgery and preferably on the 
+day of surgery. Patients should receive appropriate ver-
+bal and written information about postoperative care and 
+how to access assistance should there be any postopera-
+tive bleeding, as should any other patient. Local measures 
+for haemostasis are likely to be adequate. Patients who do 
+bleed should be transferred to hospital for haematological 
+management including the administration of vitamin K 
+by slow intravenous injection or fresh frozen plasma. 
+   Patients undergoing more major surgery are likely to 
+require reduction in their anticoagulation and this should 
+be done in discussion with a haematologist who will 
+advise. Similarly haematological collaboration is required 
+even for minor surgery for patients whose anticoagulation 
+is not stable. 
+   Intramuscular injections should be avoided in all 
+patients with a haemostasis disorder or on anticoagu-
+lants, and local anaesthetic regional nerve blocks should 
+be avoided if possible and infiltration or intraligamentary 
+injection techniques used instead. Metronidazole interacts 
+with warfarin and should be avoided, as should erythro-
+mycin which has unpredictable effect. Amoxycillin inter-
+feres less with warfarin but patients should be warned to 
+look out for bleeding. Apirin and to a lesser extent other 
+NSAIDS should be avoided. The anticoagulant effect of 
+warfarin is not usually affected by paracetamol.    
+   Endocrine disease 
+   Diabetes mellitus 
+   Patients with diabetes mellitus are immunocompromised 
+and require early vigorous treatment of infections. Where 
+surgery is being performed patients may need antibiotic 
+prophylaxis. It should be established whether the patient 
+is controlled with diet alone, tablets or insulin injections. 
+If the patient is not to be starved (LA or sedation), then 
+treatment is arranged so as to interfere least with meal-
+times, such as within 2 hours of breakfast, and the patient 
+is instructed to take medications and food as normal. 
+   Treatment 
+         The patient should be reasonably well controlled 
+before sedation/GA. When the patient is starved prior 
+to a GA they must have their oral hypoglycaemic drug 
+or insulin adjusted. Non-insulin-dependent diabetes 
+mellitus patients can usually withstand a short period 
+of starvation but may need insulin if undergoing 
+prolonged surgery. Their oral hypoglycaemic should 
+be stopped the day before surgery.  
+      Patients with insulin-dependent diabetes mellitus 
+should have their long-acting insulin omitted the night 
+before surgery and blood glucose monitored 4 hourly 
+and then 2 hourly. Insulin and glucose therapy is 
+started using a variable-rate insulin infusion (soluble 
+insulin 50 i.u. in 50  ml normal saline by syringe driver) 
+and adjusted as required. The patient also receives 
+carbohydrate. Alternatively the Alberti regime may 
+be used if the patient is usually well controlled. This 
+consists of an infusion of glucose 10% 500  ml; human-
+soluble insulin 10 i.u.; KCl 10  ml, over 5 hours via a 
+dedicated cannula. The insulin and KCl concentrations 
+are adjusted according to the results, aiming for a 
+blood glucose of 6–10  mmol/L.  
+      Hypoglycaemia must be avoided as it may cause brain 
+damage. Blood glucose should be measured regularly 
+with BM-Stix or blood glucose tests because control is 
+upset by surgery and anaesthesia.      
+   Hypothyroidism and hyperthyroidism 
+   Patients with hypothyroidism should avoid opioids, seda-
+tives and GA. They are, therefore, best treated using LA 
+unless well managed with thyroxine. 
+   There is a serious risk of arrhythmias if an untreated 
+hyperthyroid patient receives a GA.  
+   Hypoparathyroidism and hyperparathyroidism 
+    Hypoparathyroidism . This should be considered in patients 
+presenting with facial paraesthesia or twitching. Other signs 
+include delayed tooth eruption and enamel hypoplasia. 
+    Hyperparathyroidism . This may cause oral signs, as 
+described in  Chapter 7 . GA may be complicated by the risk 
+of arrhythmias and sensitivity to muscle relaxants.   
+   Hepatic disease 
+   Hepatic disease can cause problems with production of 
+fibrinogen and clotting factors (II, V , VII, VIII, IX, X, XI, 
+XII, XIII) and drug metabolism. There is a cross-infection 
+risk if viral hepatitis is present. 
+●
+●
+●
+Dental relevance of the medical condition
+
+=== PDF PAGE 35 ===
+Three: Medical aspects of patient care
+26
+    Clotting dysfunction . The diagnosis should be confirmed 
+and the severity of problem (by arranging for a coagula-
+tion screen) prior to treatment and especially before sur-
+gery. Patients may need vitamin K or fresh frozen plasma 
+to correct coagulation and, therefore, should be managed 
+in hospital. 
+    Drugs . Prescribing is a problem and many drugs should 
+be used with caution or avoided completely in severe 
+hepatic disease. Paracetamol, NSAIDs and sedatives are 
+among these. Any drug prescribing should include ref-
+erence to a drug formulary. It is difficult to predict the 
+impairment of drug metabolism even when using liver 
+function tests. 
+    Cross-infection . Universal precautions for cross-infection 
+control means that all patients, whether known high risk or 
+not, should be managed in the same way to minimise the 
+risk of transmission of infectious agents.  
+   Renal disease 
+   If there is renal disease, then drug doses should be reduced 
+as drug excretion may be reduced and NSAIDs should be 
+avoided. The severity of renal impairment is expressed 
+as the glomerular filtration rate (GFR), which is usually 
+measured by the creatinine clearance. 
+   Fluid balance and sodium and potassium levels may 
+be upset and platelet dysfunction (impaired production, 
+impaired conversion of prothrombin to thrombin, and 
+vasodilatation and poor platelet aggregation) may lead to 
+a bleeding tendency. 
+    Treatment 
+         Patients should receive dental treatment the day 
+following dialysis when any heparin is no longer active 
+but they are still at maximum benefit from the dialysis.  
+      Patients who have undergone renal transplantation 
+will be receiving immunosuppressive drugs and 
+will require an increase to their steroid dose prior to 
+extensive treatment or GA. They may also require 
+antibiotic prophylaxis.       
+   Gastrointestinal disease 
+   Peptic ulceration is a relatively common disease that can 
+be exacerbated by NSAIDs. These drugs should not be 
+prescribed for patients with such a history.  
+   Bone disease 
+   Bone diseases are discussed in  Chapter 7 .  
+   Neurological disorders 
+   Epilepsy 
+   Treatment 
+         Patients should be maintained on anticonvulsant 
+therapy.  
+      It may be advisable to undertake dental treatment using 
+a mouth prop in patients with poorly controlled epilepsy .       
+   Psychiatric disorders 
+   Whenever a person’s abnormal thoughts, feelings or sensory 
+impressions cause objective or subjective harm that is more 
+than transitory , a mental illness may be said to be present. 
+●
+●
+●
+●
+   There are many classification systems, some more help-
+ful than others, but the distinction between the brain and 
+the mind often provides a philosophical difficulty for 
+patients and maybe also for some dentists. Patients may 
+accept a psychiatric diagnosis that is recognised to be the 
+result of organic brain disease but less readily accept one 
+of non-organic cause. There remains prejudice about 
+conditions that relate to the mind. 
+   Acute psychiatric illness is treated in general hospital 
+units and the community and these patients may attend 
+for dental care to the general dental practitioner or com-
+munity or hospital dentist. 
+    Organic pathology  . Psychiatric disorders may lead to 
+neglect of oral health. There may be potential for drug inter-
+action between medications for illness and those used in 
+dentistry, including conscious sedation and anaesthesia. 
+    Psychological origin  . Patients may present with dental, 
+oral or facial physical symptoms that are of psychological 
+cause. The dentist should exclude organic pathology, which 
+may be responsible for the symptoms, by means of a care-
+ful history, thorough examination and appropriate special 
+tests. The general dental practitioner may need to refer 
+to a dental specialist to confirm the exclusion of organic 
+pathology. The dentist or specialist who considers that the 
+patient’s symptoms may be of psychological origin should 
+communicate with the patient’s general medical practitio-
+ner, who may be aware of multiple and variable symptoms 
+and should arrange for psychiatric assessment. 
+   The psychoses 
+   The psychoses may be organic where there is established 
+biochemical, infective or structural brain disease, or func-
+tional where no such disease process can be demonstrated. 
+   Organic psychoses may be described as acute (delirium) 
+or chronic (dementia). 
+   Functional psychoses may be divided into disorders of 
+mood, manic depressive psychosis and disorders of think-
+ing, and schizophrenia.  
+   The neuroses 
+   In the neuroses, there is no alteration of external reality but 
+rather patients try to avoid some unacceptable aspect of 
+themselves or of their internal reality. 
+   Four main patterns are: anxiety neurosis and phobia, 
+depressive neurosis, hysteria and obsessive compulsive 
+neurosis.  
+   Personality disorders 
+   Unlike psychosis and neurosis, personality disorders are not 
+an illness. They may be described as extreme personality 
+types that handicap the individual and include the paranoid, 
+schizoid, antisocial and obsessive–compulsive disorders. 
+They often coexist or may predispose to psychiatric illness.  
+   Other psychiatric disorders 
+   These include addictions to alcohol or drugs, eating dis-
+orders and sexual dysfunction and deviation.   
+   Medications 
+   Most drugs have some side effects. Check for any drug 
+interactions with drugs being used for dental treatment. 
+
+=== PDF PAGE 36 ===
+Three
+27
+    Routine medication  . It is important that patients take 
+their normal medication before dental treatment, includ-
+ing on the morning of a GA when these may be taken with 
+a sip of water. Exceptions to this are:
+       anticoagulants – discuss with haematology (warfarin 
+needs 3 days to wear off)  
+      monoamine oxidase inhibitors (MAOIs) should 
+be stopped 3 weeks before GA because of a risk of 
+interaction with opioids which have sometimes been 
+fatal.    
+    Steroid drugs  . Steroids reduce the ability of the adrenal 
+cortex to respond to physical stress and additional ste-
+roids are required prior to extensive treatment or GA. 
+This may be given as 100  mg intravenous (i.v.) hydro-
+cortisone and hydrocortisone may need to be continued 
+postoperatively after major surgery. There is some doubt 
+as to whether such steroid cover is necessary for straight-
+forward dental treatment and tooth extraction under 
+local anaesthesia. 
+    Contraceptive pill . Patients taking any oestrogen-containing 
+oral contraceptive pill are known to be at increased risk 
+of developing a deep-vein thrombosis and pulmonary 
+embolism following GA, which is associated with reduced 
+mobility in the postoperative period. To eliminate this 
+risk, the pill should be stopped 1 month before the anaes-
+thetic or, if emergency surgery is required, heparin should 
+be given. These precautions are unnecessary when minor 
+or intermediate surgery is undertaken. The progesterone-
+only oral contraceptive pill is associated with no increased 
+risk and no precautions are necessary.  
+   Allergies 
+   The patient may be aware of existing reaction to a drug, 
+which should then be avoided. Note that a true allergy is 
+an immune-mediated response comprising one or all of 
+skin rash, bronchospasm, flushing, hypotension, oedema 
+and collapse; it is not fainting after local anaesthetic injec-
+tion or gastrointestinal effects of NSAIDs. Patients may 
+need to have the difference explained so that they are not 
+denied the benefit of drugs to which they are not actually 
+allergic. 
+   Allergy to latex is now more common. It is important 
+to avoid local anaesthetic cartridges that have a latex bung 
+or stopper.  
+   Pregnancy 
+   It is preferable to avoid drug treatments during pregnancy, 
+especially during the first trimester. Some dental treat-
+ments and especially surgical procedures may be better 
+postponed until after the birth of the baby, otherwise the 
+second trimester is best. If it is necessary to prescribe anal-
+gesia or antimicrobial drugs, paracetamol and codeine and 
+penicillin, cephalosporins and erythromycin are probably 
+the safest. 
+    Treatment 
+         Elective treatment under sedation/GA is 
+contraindicated because midazolam and anaesthetics 
+may increase the risk of spontaneous abortion. In late 
+pregnancy there is a risk of regurgitation with GA.  
+●
+●
+●
+      Patients are likely to lose consciousness if placed in 
+the supine position during the third trimester because 
+venous return to the heart is compromised by the 
+fetus. Position the patient on her left side to permit 
+recovery.        
+  3.3     Medical emergencies 
+        Learning objectives  
+      You should:
+        have a logical approach to emergency management  
+      know the first-line treatment protocols  
+      understand the more comprehensive management 
+undertaken by dentists with special training, paramedics 
+or hospital staff  
+      understand when to transfer a patient to an accident and 
+emergency department.         
+   Medical emergencies require prompt assessment and 
+action. There may not be time for a detailed assessment, 
+but it is possible to buy time by using a basic protocol 
+that simultaneously assesses and supports vital functions. 
+Fortunately, serious medical emergencies in dental practice 
+are not common, but that means that they are all the more 
+likely to be alarming when they do occur. The ability to 
+stay calm and manage the situation successfully depends 
+on prior planning and rehearsal for such an event.  
+   Emergency drugs and equipment 
+   There are essential drugs and items of equipment that 
+every dental practitioner should have available for use in 
+an emergency. Some of these are based on providing sim-
+ple and uncomplicated treatments while others necessitate 
+providing early definitive treatment. Acute asthma and 
+anaphylaxis are two examples of emergencies where sim-
+ple first-aid measures are inadequate and definitive treat-
+ment should be started by the dentist while waiting for 
+the ambulance service to transfer the patient to an accident 
+and emergency (A&E) department. This essential treat-
+ment is described as  first-line treatment   in the following 
+protocols. Some drugs are available in preloaded syringes 
+for fast preparation ( Fig. 16   ). 
+   Some dentists by way of special interest and training 
+may have the skills to provide more comprehensive defin-
+itive management and may wish to instigate this while 
+waiting for the emergency services to transfer the patient. 
+These dentists would wish to hold a larger range of drugs 
+and equipment depending on their individual experience. 
+Such treatment is described by the  Further management   
+sections in the following protocols.  
+   Emergency conditions 
+   Faint   
+   Signs and symptoms 
+         May be preceded by nausea and closing in of visual 
+fields  
+●
+•
+•
+•
+•
+●
+Medical emergencies
+
+=== PDF PAGE 37 ===
+Three: Medical aspects of patient care
+28
+      Pallor and sweating  
+      Heart rate below 60 beats/min (bradycardia) during 
+attack.     
+   Cause 
+   Pain or anxiety.  
+   Principles of treatment 
+         Need to encourage oxygenated blood flow to brain as 
+rapidly as possible  
+      May need to block vagal activity with atropine and 
+allow heart rate to increase.     
+●
+●
+●
+●
+   Further management 
+   If the patient is slow to recover, consider other diagnosis or 
+give 0.3–1  mg atropine i.v.   
+   Hyperventilation   
+   Signs and symptoms 
+         Light-headed  
+      Tingling in the extremities  
+      Muscle spasm may lead to characteristic finger 
+position (carpo-pedal spasm).     
+   Causes 
+   Anxiety.  
+   Principles of treatment 
+         Reduce anxiety  
+      Over-breathing has blown off carbon dioxide, resulting 
+in brain blood vessel vasoconstriction. Return carbon 
+dioxide levels in blood to normal.      
+   Postural hypotension   
+   Signs and symptoms 
+         Light-headed  
+      Dizzy  
+      Loss of consciousness on returning to upright or 
+standing position from supine position.     
+   Causes 
+   More likely to occur if the patient is taking beta-blockers, 
+which reduce the capacity to compensate for normal 
+cardiovascular postural changes.  
+   Principles of treatment 
+   Encourage oxygenated blood flow to brain.   
+   Diabetic emergencies: hypoglycaemia   
+   Signs and symptoms 
+         Shaking and trembling  
+      Sweating  
+      Hunger  
+      Headache and confusion.     
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+ Fig. 16    Emergency drugs in preloaded syringes.    
+     Clinical box       Clinical box    First-line treatment of faint    First-line treatment of faint  
+          Lay flat  
+     Give oxygen  
+     Check pulse at carotid  
+     Expect prompt recovery.        
+•
+•
+•
+•
+     Clinical box       Clinical box    First-line treatment of   First-line treatment of 
+hyperventilation  hyperventilation  
+          Reassure  
+     Ask patient to rebreathe from cupped hands or reservoir 
+bag of inhalational sedation or general anaesthetic 
+apparatus.        
+•
+•
+     Clinical box       Clinical box    First-line treatment of postural   First-line treatment of postural 
+hypotension  hypotension  
+          Lay the patient flat and give oxygen  
+     Sit the patient up very slowly.        
+•
+•
+
+=== PDF PAGE 38 ===
+Three
+29
+   Cause 
+         Usually known diabetic  
+      Patient may have taken medication as normal but not 
+eaten before dental visit.     
+   Principles of treatment 
+   Return blood glucose level to normal by giving glucose 
+or by converting the patient’s own glycogen to glucose by 
+giving glucagon.  
+   Further management 
+         Transfer the patient to A&E  
+      Give up to 50  ml 20% glucose i.v. infusion followed by 
+0.9% saline flush as the glucose damages the vein  
+      Expect prompt recovery and give sugary drinks once 
+conscious.      
+   Grand mal epileptic seizure   
+   Signs and symptoms 
+         Sudden loss of consciousness associated with  tonic 
+phase  in which there is sustained muscular contraction 
+affecting all muscles, including respiratory and 
+mastication  
+      Breathing may cease and the patient becomes cyanosed  
+      The tongue may be bitten and incontinence occur  
+      After about 30 seconds, a  clonic phase  supervenes, with 
+violent jerking movements of limbs and trunk.     
+   Cause 
+         Usually the patient is a known epileptic  
+      Epilepsy may not be well controlled  
+      Seizure may be initiated by anxiety or by flickering 
+light tube.     
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+   Principles of treatment 
+         Maintain oxygenated blood to brain  
+      Protect from physical harm  
+      Administer anticonvulsant.     
+   Further management 
+   Risk of brain damage is increased with length of attack; 
+therefore, treatment should aim to terminate seizure as 
+soon as possible. 
+   If convulsive seizures continue for 15 minutes or longer 
+or are repeated rapidly (status epilepticus):
+       Transfer to A&E  
+      Remove dentures, insert Guedel or nasopharyngeal 
+airway  
+      Give oxygen  
+      Give 10–20  mg i.v. diazepam (2.5  mg/30  s) as 
+Diazemuls but beware of respiratory depression, 
+or diazepam solution for rectal administration in 
+hospital  
+      Check blood sugar to exclude hypoglycaemia as 
+precipitant.      
+   Hypoadrenalism   
+   Signs and symptoms 
+         Pallor  
+      Confusion  
+      Rapid weak pulse.     
+   Cause 
+   Usually the patient is known to have Addison’s disease or 
+to be taking steroids long term and has forgotten to take 
+the tablets.  
+   Principles of management 
+         Give steroid replacement  
+      Determining and managing underlying cause once the 
+crisis over.     
+   Further management 
+         Transfer to A&E  
+      Fluids and further hydrocortisone, both i.v.  
+      Glucose may be needed if hypoglycaemic.      
+   Acute asthma   
+   Signs and symptoms 
+         Persistent shortness of breath poorly relieved by 
+bronchodilators  
+      Restlessness and exhaustion  
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+     Clinical box       Clinical box    First-line treatment of   First-line treatment of 
+hypoglycaemia  hypoglycaemia  
+          If the patient is conscious, give sugar or glucose and a 
+little water or glucose oral gel; repeated if necessary in 
+10 minutes  
+     If the patient is unconscious, inject 1  mg (1 unit) glucagon 
+by any route (subcutaneous, intramuscular or i.v.).        
+•
+•
+     Clinical box       Clinical box    First-line treatment of epileptic   First-line treatment of epileptic 
+seizure  seizure  
+          Ensure patient is not at risk of injury during the 
+convulsions but do not attempt to restrain convulsive 
+movements  
+     Make no attempt to put anything in mouth or between the 
+teeth  
+     After movements have subsided, place the patient in the 
+recovery position and check airway  
+     The patient may be confused after the fit: reassure and 
+offer sympathy  
+     After full recovery, send the patient home unless the 
+seizure was atypical or prolonged or injury occurred.        
+•
+•
+•
+•
+•
+     Clinical box       Clinical box    First-line treatment for   First-line treatment for 
+hypoadrenalism  hypoadrenalism  
+          Lay flat  
+     Give oxygen  
+     Give 200  mg hydrocortisone sodium succinate by slow 
+i.v. injection.        
+•
+•
+•
+Medical emergencies
+
+=== PDF PAGE 39 ===
+Three: Medical aspects of patient care
+30
+      Tachycardia greater than 110 beats/min and low peak 
+expiratory flow  
+      Respirations may be so shallow in severe cases that 
+wheezing is absent.     
+   Cause 
+   Exposure to antigen but precipitated by many factors 
+including anxiety.  
+   Principles of treatment 
+         Oxygenation  
+      Bronchodilatation.     
+   Further management 
+         If little response, transfer to A&E  
+      Hydrocortisone sodium succinate i.v.: adults 200  mg; 
+child 100  mg  
+      Add ipratropium 0.5  mg to nebulised salbutamol  
+      Aminophylline slow i.v. injection of 250  mg in 10  ml 
+over at least 20 minutes: monitor or keep finger on 
+pulse during injection.    
+    Caution in epilepsy:   rapid injection of aminophylline may 
+cause arrhythmias and convulsions. 
+    Caution in patients already receiving theophylline:  arrhyth-
+mias or convulsions may occur.   
+●
+●
+●
+●
+●
+●
+●
+●
+   Anaphylactic shock   
+   Signs and symptoms 
+         Paraesthesia, flushing and swelling of face, especially 
+eyelids and lips ( Fig. 17   )  
+      Generalised urticaria, especially hands and feet  
+      Wheezing and difficulty in breathing  
+      Rapid weak pulse.    
+   These may develop over 15 to 30 minutes following the 
+oral administration of a drug or rapidly over a few min-
+utes following i.v. drug administration.  
+   Principles of treatment 
+   Requires prompt energetic treatment of
+       Laryngeal oedema  
+      Bronchospasm  
+      Hypotension.     
+   Further management 
+         Transfer to A&E  
+      Chlorphenamine (chlorpheniramine) 10  mg in 1  ml 
+intramuscular or slow i.v. injection  
+      Hydrocortisone sodium succinate 200  mg by slow 
+i.v. injection; valuable as action persists after that of 
+epinephrine has worn off  
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+     Clinical box       Clinical box    First-line treatment of anaphylactic   First-line treatment of anaphylactic 
+shock  shock  
+          Lay patient flat and raise feet  
+     Give oxygen  
+     Give 0.5  ml epinephrine (adrenaline) 1  mg/ml (1 in 1000) 
+intramuscular
+      0.25  ml for 6–12 years of age  
+     0.12  ml for 6 months to 6 years of age     
+     Repeated every 10  min until improvement.        
+•
+•
+•
+•
+•
+•
+ Fig. 17    Facial flushing and swelling, especially of eyelids and lips, in anaphylactic shock. A, child normally; B, after anaphylactic shock.    
+A
+ B
+     Clinical box       Clinical box    First-line treatment of acute   First-line treatment of acute 
+asthmatic attack  asthmatic attack  
+          Excluded respiratory obstruction  
+     Sit the patient up  
+     Give oxygen  
+     Salbutamol (Ventolin) via a nebuliser (2.5–5  mg of 1  mg/ml 
+nebuliser solution) or via a large-volume spacer (two puffs 
+of a metered dose inhaler 10–20 times: one puff every 
+30 seconds up to 10 puffs for a child)  
+     Reassure and allow home if recovered.        
+•
+•
+•
+•
+•
+
+=== PDF PAGE 40 ===
+Three
+31
+      Fluids i.v. (colloids) infused rapidly if shock not 
+responding quickly to adrenaline  
+      Basic and advanced life support if cardiorespiratory 
+arrest  
+      Endotracheal intubation or tracheostomy if required.      
+   Stroke  
+   Signs and symptoms 
+         Confusion followed by signs and symptoms of focal 
+brain damage  
+      Hemiplegia or quadriplegia  
+      Sensory loss  
+      Dysphasia  
+      Locked-in syndrome (aware, but unable to 
+respond).     
+   Cause 
+   Stroke results from either cerebral haemorrhage or cere-
+bral ischaemia unrelated to dental treatment.  
+   Principles of treatment 
+   Maintain and transfer for further investigation.   
+   Benzodiazepine overdose  
+   Signs and symptoms 
+         Deeply sedated  
+      Severe respiratory depression.     
+   Cause 
+   Overdose can result from a large or a fast dose of benzo-
+diazepine or can occur in a sensitive patient.  
+   Principles of treatment 
+   The action of the benzodiazepine is reversed with the 
+specific antagonist.   
+   Psychiatric emergencies 
+   Signs and symptoms 
+   Unusual/bizarre/agitated/violent behaviour.  
+   Cause 
+   Usually there is a known psychiatric illness.  
+   Principles of treatment 
+   Transfer to A&E.   
+   Angina and myocardial infarction   
+   Signs and symptoms 
+         Sudden onset of severe crushing pain across front of 
+chest, which may radiate towards the shoulder and 
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+down the left arm or into the neck and jaw; pain from 
+angina usually radiates down left arm  
+      Skin pale and clammy  
+      Shallow respirations  
+      Nausea  
+      Weak pulse and hypotension  
+      If the pain not relieved by glyceryl trinitrate (GTN) 
+then cause is myocardial infarction rather than 
+angina.     
+   Cause 
+         Angina results from reduced coronary artery 
+lumen diameter because of atheromatous plaques  
+      Myocardial infarction is usually the result of 
+thrombosis in a coronary artery.     
+   Principles of treatment 
+         Pain control  
+      Vasodilatation of blood vessels to reduce load on 
+heart.     
+   Further management for severe angina 
+or myocardial infarction 
+         Transfer to A&E  
+      Diagnosis of myocardial infarction made on basis 
+of two or three out of the history, ECG changes, 
+and enzyme changes suggestive of myocardial 
+infarction  
+      Diamorphine 5  mg (2.5  mg in older people) by slow i.v. 
+injection (1  mg/min)  
+      Early thrombolytic therapy reduces mortality.      
+   Cardiorespiratory arrest   
+   Signs and symptoms 
+         Unconscious  
+      No breathing.     
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+     Clinical box       Clinical box    First-line treatment of angina   First-line treatment of angina 
+and myocardial infarction  and myocardial infarction  
+     Allow patient to rest in position that feels most comfortable:
+      In presence of breathlessness this is likely to be the 
+sitting position, whereas syncopal patients will want to lie 
+flat  
+     Often an intermediate position will be most appropriate.    
+  Angina 
+   Angina is relieved by rest and nitrates:
+      Glyceryl trinitrate spray 400  mg metered dose (sprayed 
+on oral mucosa or under tongue and mouth then closed)  
+     Give oxygen  
+     Allow home if attack is mild and the patient recovers 
+rapidly.     
+  Myocardial infarction 
+   If a myocardial infarction is suspected:
+      Give oxygen  
+     Aspirin tablet 300  mg chewed.         
+•
+•
+•
+•
+•
+•
+•  Clinical box    Clinical box       First-line treatment       First-line treatment  
+          Flumazenil (Annexate) 200  mg over 15 seconds as 
+100  mg/ml i.v. followed by 100  mg every 1 minute up to 
+maximum of 1  mg  
+     Maintain airway with head tilt/chin lift  
+     Give oxygen.       
+•
+•
+•
+Medical emergencies
+
+=== PDF PAGE 41 ===
+Three: Medical aspects of patient care
+32
+   Cause 
+         Most cardiorespiratory arrests result from arrhythmias 
+associated with acute myocardial infarction or chronic 
+ischaemic heart disease  
+      The heart arrests in one of three rhythms ( Fig. 18   ):
+       VF (ventricular fibrillation) or pulseless VT 
+(ventricular tachycardia)  
+      asystole  
+      PEA (pulseless electrical activity) or EMD 
+(electromechanical dissociation)     
+      VF is the most common cause.     
+●
+●
+●
+●
+●
+●
+   Principles of treatment 
+         Circulation failure for 4 minutes, or less if the patient 
+is already hypoxaemic, will lead to irreversible brain 
+damage  
+      Institute early basic life support (see clinical box  below  ) 
+as holding procedure until early advanced life support 
+is available.     
+   Further management 
+         Transfer to A&E  
+      Advanced life support.     
+   Advanced life support for cardiac arrest 
+   Advanced airway management techniques and specific 
+treatment of the underlying cause of cardiac arrest consti-
+tute advanced life support (ALS). 
+   Advanced airway management 
+         A self-inflating bag and mask with attached oxygen 
+at 5–6  Lmin −1  permits ventilation with around 45% 
+oxygen. However, it is preferable also to use a reservoir 
+as oxygen can then be provided at around 90% with a 
+flow rate turned up to 10 Lmin −1  ( Fig. 24   ).  
+      The laryngeal mask airway (LMA), which seals around 
+the larynx, is becoming popular as it provides more 
+effective ventilation with a bag-valve system than with 
+a face mask.  
+      The ‘gold standard’ of airway management is 
+endotracheal intubation as it protects against 
+contamination by regurgitated gastric contents and 
+blood, allows suctioning of the respiratory tract, and 
+drugs can be administered by this route. However, its 
+use requires considerable training.  
+      A surgical airway intervention such as a needle 
+cricothyroidotomy may be necessary if it is not possible 
+to ventilate with bag-valve-mask or to intubate. This 
+may be because of maxillofacial trauma or laryngeal 
+obstruction. High-pressure oxygen is given via a 
+cannula inserted into the trachea, although this is only 
+a temporary measure lasting about 40 minutes until a 
+theatre is prepared for formal tracheostomy.     
+   Defibrillation 
+         Defibrillation is indicated in ventricular fibrillation 
+and pulseless ventricular tachycardia, which are the 
+commonest arrhythmias causing cardiac arrest and 
+●
+●
+●
+●
+●
+●
+●
+●
+●
+     Clinical box       Clinical box    Adult basic life support for cardiorespiratory arrest    Adult basic life support for cardiorespiratory arrest  
+     The following instructions are based on the UK Resuscitation Council guidelines for basic life support. The essential features are 
+remembered by ABC:  a irway,  b reathing and  c irculation. c irculation. c
+  Risks to the rescuer 
+        Before starting a resuscitation attempt, the rescuer must rapidly assess the risks: traffic, falling masonry, toxic fumes and other 
+potential hazards relevant to the environment.  
+     Mucous membrane exposure to hepatitis B virus (HBV) and human immunodeficiency virus (HIV) is less of a risk than 
+needlestick exposure, strongly suggesting that the chance of infection from mouth-to-mouth ventilation is negligible. 
+Transmission of HIV during cardiopulmonary resuscitation (CPR) has never been reported. There are no human studies to 
+address effectiveness of barrier devices during CPR but rescuers should take appropriate safety precautions where feasible, 
+especially if the victim is known to have a serious infection such as tuberculosis.     
+•
+•
+�
+�
+�
+�
+ Fig. 18    Rhythms seen in cardiac arrest. A, ventricular fibrillation (VF); 
+B, ventricular tachycardia (VT) and absent pulse; C, asystole; D, pulseless 
+electrical activity (PEA). Initially there is normal QRS complex but this 
+soon becomes more bizarre in appearance.    
+
+=== PDF PAGE 42 ===
+Three
+33
+Clinical box Clinical box Adult basic life support for cardiorespiratory arrest Cont’dAdult basic life support for cardiorespiratory arrest Cont’d
+  Basic life support 
+        Initial patient assessment, airway maintenance, expired air ventilation and chest compression constitute basic life support (BLS) 
+or CPR.  
+     BLS is a ‘holding operation’ maintaining ventilation and circulation until treatment of the underlying cause can be 
+instigated.  
+     BLS implies that no equipment is used. Where a simple airway or face mask is used, this is described as ‘basic life support with 
+airway adjunct’.    
+  Theory of chest compression 
+        The ‘thoracic pump’ theory proposes that chest compression, by increasing intrathoracic pressure, propels blood 
+out of the thorax, forward flow occurring because veins at the thoracic inlet collapse while the arteries remain 
+patent.  
+      Even when performed optimally, chest compressions do not achieve more than 30% of the normal cerebral perfusion.     
+  Basic airway management 
+        Jaw thrust rather than chin lift is the method of choice for trauma victims ( Fig. 19   ).  
+     An oropharyngeal airway such as a Guedel or nasopharyngeal airway may be used ( Fig. 20   ).  
+     A face mask used for ventilation allows oxygen enrichment ( Fig. 21   ).     
+  Sequence of actions 
+      1 .     Ensure safety of rescuer and victim (referred to below as ‘he’, for simplicity).  
+   2 .    Check whether casualty is responsive by shaking by the shoulders and shouting, ‘Are you alright?’  
+   3A.     If he responds by answering or moving:
+      Leave him in the position in which you find him (providing he is not in further danger), check his condition and get help if 
+needed  
+     Reassess him regularly.     
+   3B.     If he does  not  respond:not  respond:not
+      Shout for help  
+     Open the airway by tilting the head and lifting the chin ( Fig. 22   ).     
+   4 .    Keeping the airway open; look, listen and feel for breathing for no more than 10 seconds.  
+   5A.     If he  is  breathing:
+      Turn him into the recovery position  
+     Check for continued breathing  
+     Send someone for help or call an ambulance.     
+   5B.     If he is  not  breathing normally:not  breathing normally:not
+      Send someone to call an ambulance or if alone, leave the victim if necessary to call it yourself  
+     Start chest compression ( Fig. 23   )     
+   6A.     Combine chest compression with rescue breaths:
+      After 30 compressions open the airway again  
+     Pinch the soft part of the victim’s nose  
+     Give two breaths  
+     Provide further 30 chest compressions  
+     Continue with chest compressions and rescue breaths in a ratio of 30:2     
+   6B.     Chest-compressions-only CPR:
+      If not able to give rescue breaths  
+     Chest compressions continuously at rate of 100/minute     
+   7  .    Continue until successful, help arrives, or you become exhausted.     
+  Going for assistance 
+        A lone rescuer will have to decide whether to start resuscitation or go for help first. If the cause of unconsciousness is likely to 
+be trauma, drowning, or if the victim is an infant or a child, the rescuer should perform resuscitation for about 1 minute before 
+going for help.  
+     If the victim is an adult and the cause of unconsciousness is not trauma or drowning, the rescuer should assume that the victim 
+has a heart problem and go for help immediately it has been established that the victim is not breathing.          
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+Medical emergencies
+
+=== PDF PAGE 43 ===
+Three: Medical aspects of patient care
+34
+the most treatable. There is overwhelming scientific 
+evidence to support early defibrillation. The chances of 
+successful defibrillation decline by about 7–10% with 
+each minute of delay; therefore early management is 
+vital ( Fig. 25   ).  
+      Sudden cardiac arrest is a leading cause of death in 
+Europe affecting 700  000 individuals a year. Many 
+victims of arrest could survive if managed while in VF 
+before deteriorating to asystole.  
+      Defibrillation depolarises most or all of the cardiac 
+muscle simultaneously, allowing the natural 
+pacemaking tissues to resume control of the heart.  
+●
+●
+ Fig. 21    Pocket face mask.    
+ Fig. 22    Head tilt and chin lift airway manoeuvre.    
+ Fig. 19    The jaw thrust airway manoeuvre.    
+�
+�
+ Fig. 20     The oropharyngeal (Guedal) and nasopharyngeal airway. 
+Insertion via the mouth (A) and nose (B).    
+
+=== PDF PAGE 44 ===
+Three
+35
+      All defibrillators have two features in common: 
+a power source capable of providing direct 
+current, and a capacitor, which can be charged to a 
+predetermined level and subsequently discharged 
+through two electrodes placed on the casualty’s 
+chest.  
+      Defibrillators may be manual (the operator 
+interprets the rhythm and decides if a shock 
+is necessary), or automated (when the tasks of 
+recognising the arrhythmia and preparing for 
+defibrillation are automated). Automated external 
+defibrillators (AEDs) are sophisticated, reliable 
+computerised devices that use voice and visual 
+●
+●
+prompts to guide lay rescuers and health-care 
+professionals through safe defibrillation. All health-
+care professionals should consider the use of an 
+AED to be an integral component of basic life 
+support. A semi-automatic AED advises the need for 
+a shock but this has to be delivered by the operator 
+when prompted.     
+   Defibrillation strategy 
+         VF and pulseless VT are treated with a single shock 
+followed by immediate resumption of CPR. After two 
+minutes of CPR, the rhythm is checked and a further 
+shock is given if indicated.  
+      For biphasic defibrillators the recommended initial 
+energy is 150–200  J. Second and subsequent shocks are 
+given at 150–360  J.  
+      For monophasic defibrillators the recommended 
+energy is 360  J for both initial and subsequent 
+shocks.     
+   Epinephrine (adrenaline) 
+         Epinephrine 1  mg i.v. is given if VF/VT persists after 
+a second shock and is repeated every 3–5 minutes if 
+persists.  
+      Epinephrine 1  mg i.v. is given as soon as intravenous 
+access is achieved and repeated every 3–5 minutes in 
+pulseless electrical activity or asystole.    
+   There is no placebo-controlled trial to demonstrate that the 
+routine use of any vasopressor at any stage during human 
+cardiac arrest increases survival. There is insufficient cur-
+rent evidence to support or refute the routine use of any 
+particular drug or sequence of drugs. Despite this, epi-
+nephrine is still recommended based on experimental data 
+showing an increased myocardial and cerebral perfusion 
+pressure during cardiac arrest.     
+●
+●
+●
+●
+●
+�
+�
+ Fig. 23    Chest compressions: shown from above (A) and in cross-
+section (B).    
+ Fig. 24    Self-inflating bag and mask with reservoir.    
+ Fig. 25    Placement of defibrillator pads. One to the right of the sternum 
+below the clavicle. The other in the mid-axillary line, level with the female 
+breast but clear of breast tissue by placing sufficiently lateral. The 
+mid-axillary pad should be placed with its long axis vertical to improve 
+efficiency.    
+Medical emergencies
+
+=== PDF PAGE 45 ===
+Three: Medical aspects of patient care
+36
+  3.4     Drug delivery 
+   The administration of drugs may be required in dentistry 
+to provide analgesia, antibiotic or steroid cover, a con-
+scious sedation technique or to manage a medical collapse. 
+The usual routes are oral (p.o.), intravenous (i.v.), intra-
+muscular (i.m.) and subcutaneous (s.c.). 
+        Learning objectives  
+      You should:
+        understand how to administer drugs by the various routes  
+      know the complications that can be associated with a 
+particular method of administration.         
+   Oral administration 
+   Drugs taken by mouth are generally not absorbed until 
+they reach the small intestine and this progress may be 
+delayed if the drugs are taken after a meal. Usually about 
+75% of the drug is absorbed in 1–3 hours. Absorption is 
+also affected by gastrointestinal motility, splanchnic blood 
+flow, particle size of drug preparation and physiochemi-
+cal factors. It may be important to observe a patient while 
+they are taking a particular medication to ensure that it has 
+been taken. Drugs may be taken with a limited volume of 
+water prior to general anaesthesia but this should always 
+be discussed with the anaesthetist.  
+   Intravenous access 
+   A variety of devices can be used to secure venous access. 
+Hollow metal needles of the ‘butterfly’ variety easily 
+become displaced, leading to extravasation of drugs and 
+fluids administered through them. The cannula-over-
+needle device is more popular. 
+   The veins most commonly used are the superficial 
+peripheral veins in the upper limbs, which may appear 
+very variable in their layout but certain common arrange-
+ments are found. The veins draining the fingers unite on the 
+back of the hand to form three dorsum metacarpal veins. 
+The cephalic vein is found along the radial border of the 
+forearm, with the basilic vein passing up the ulnar border 
+of the forearm. There is often a large vein in the middle of 
+the ventral (anterior) aspect of the forearm, the median vein 
+of the forearm. In the antecubital fossa, the cephalic vein on 
+the lateral side and the basilic vein medially are joined by 
+the median cubital or antecubital vein. Although the veins 
+in this area are prominent and easily cannulated, there are 
+many other adjacent vital structures that can be damaged 
+( Fig. 26   ). These include the brachial artery , median nerve and 
+the medial and lateral cutaneous nerves of the forearm. 
+   Complications 
+   There are a large number of early and late complications 
+associated with venous cannulation. Fortunately, most of 
+them are relatively minor. 
+   Early complications 
+         Failed cannulation: usually as a result of pushing the 
+needle completely through the vein; it is experience 
+related  
+•
+•
+●
+      Haematomas  
+      Extravasation of fluid or drugs  
+      Damage to other local structures  
+      Shearing of the cannula  
+      Fracture of the needle.     
+   Late complications 
+         Inflammation of the vein (thrombophlebitis)  
+      Inflammation of the surrounding skin (cellulitis).       
+   Intramuscular route 
+   The intramuscular route is used to deposit a drug into mus-
+cle. Absorption is faster than with the subcutaneous route 
+because muscle is very vascular. However, systemic effect 
+may take 15 to 30 minutes after injection to occur. This site 
+is, therefore, not appropriate for drug delivery in cardiac 
+arrest, although it is useful for other medical emergencies. 
+   Intramuscular injections are generally given at one of 
+five sites: mid-deltoid, gluteus medius, gluteus minimus, 
+rectus femoris and vastus lateralis ( Fig. 27   ). The muscles of 
+the buttock offer a large injection site and are, therefore, fre-
+quently used for elective drug administration such as anti-
+biotics and analgesics in the hospital situation. However, 
+they have the lowest drug absorption rate. One of the main 
+considerations in a medical emergency in dentistry is ease 
+of access in a clothed patient and therefore the mid-deltoid 
+site is preferable. 
+   Complications 
+    Sciatic nerve damage  . This nerve arises from spinal nerves 
+and is the largest nerve in the lower limb, supplying the 
+entire limb except for the gluteal structures and the medial 
+and anterior compartments of the thigh. Damage to this 
+nerve is avoided by injecting into the upper and outer 
+quadrant of the buttock ( Fig. 28   ). 
+    Intravascular injection . The superior gluteal artery enters 
+the buttock and divides into a superficial branch, supplying 
+the overlying gluteus maximus, and two deep branches, an 
+upper and lower, which supply gluteus medius and min-
+imus. The accompanying veins form an extensive plexus 
+between the muscles. Failure to aspirate prior to injection 
+could result in i.v. injection. 
+    Leakage of drug into subcutaneous tissues . 
+    Fracture of needle . This is unlikely to occur if one-third of 
+the needle shaft is left exposed; it therefore depends on the 
+correct assessment of muscle bulk and needle length.   
+●
+●
+●
+●
+●
+●
+●
+�
+�
+�
+�
+�
+�
+�������������
+������������
+�����������
+�������������������
+������������
+���������������
+�
+�
+�
+�
+�
+�
+ Fig. 26    Cubital fossa and forearm anatomy.    
+
+=== PDF PAGE 46 ===
+Three
+37
+   Subcutaneous route 
+   In subcutaneous injection, the drug is placed into the fat 
+and connective tissues below the dermis but above the 
+muscle layer. Absorption is more rapid from this layer 
+than from the intradermal layer because of the increased 
+capillary supply, though it is slower than absorption by the 
+intramuscular route. This characteristic is desirable when 
+a sustained drug effect is needed. Such factors as periph-
+eral oedema, vasoconstriction and the presence of burns 
+can slow absorption; therefore, subcutaneous injections 
+should not be administered to patients with hypotension, 
+oedema in the injection areas, severe skin lesions such as 
+burns and psoriasis, or severe arterial occlusive disease in 
+the affected extremity. 
+   The lateral aspect of the upper arms and thighs, the 
+abdomen below, above and lateral to the umbilicus, and 
+the upper back are the sites of injection. 
+   Only small volumes (0.5 to 1.5  ml) of soluble, well-
+diluted, non-irritating drugs should be given. 
+   Complications 
+    Intramuscular injection  . This may occur with a faulty 
+technique such that the needle tip enters deeper tissues.      
+�������
+������
+���������������
+��������������
+������������ ��
+� ���������������
+� �
+ Fig. 27    Intramuscular injection sites in the arm (A) and buttocks (B).    
+��������������
+���������������
+�������������
+ Fig. 28    Sciatic nerve anatomy.    
+Drug delivery
+
+=== PDF PAGE 47 ===
+Three: Medical aspects of patient care
+38
+  Multiple choice questions 
+      1 .    Intramuscular injections:
+    a.     Should not be given to patients with a bleeding 
+disorder  
+   b.     Are not appropriate for drug delivery in 
+emergencies because of the slow absorption into the 
+circulation by this route  
+   c.     Produce the fastest absorption when a gluteal 
+muscle is used because these muscles have the 
+greatest blood flow of the muscles used  
+   d.     Of hydrocortisone can be used to mimic cortisol 
+secretion in patients on long-term treatment with 
+corticosteroids who may suffer from adrenocortical 
+suppression  
+   e.     Of vitamin K may be used in hospital for acute 
+haemorrhage caused by liver disease     
+   2 .    Anaphylaxis:
+    a.     Is mediated by IgE antibodies, which cause release 
+of histamine and other vasoactive mediators to be 
+released  
+   b.     Is most frequently caused by non-steroidal anti-
+inflammatory drugs (NSAIDs) in dentistry  
+   c.     Treatment includes administration of intravenous 
+fluids, using sodium chloride in the first instance  
+   d.     First-line management should be the immediate 
+transfer of the patient to a hospital accident 
+department  
+   e.     Is particularly associated with antibiotics, blood 
+products, vaccines, aspirin and other NSAIDs, 
+heparin and neuromuscular blocking agents     
+   3 .    A pregnant woman:
+    a.     Who faints should be placed in the supine position  
+   b.     With dental pain should be prescribed paracetamol 
+rather than an NSAID  
+   c.     Who suffers a fracture of her mandible should have 
+reduction and fixation carried out using a conscious 
+sedation technique and local anaesthesia rather than 
+general anaesthesia  
+   d.     May develop an aggravation of gingivitis or a 
+pyogenic granuloma at the gingival margin  
+   e.     Should not work in an environment where she 
+might be exposed to nitrous oxide     
+   4 .    Anaemia:
+    a.     Is said to be present in an adult male if the 
+haemoglobin concentration is less than 13.5  g/dl 
+(8.4  mmol/l) and in an adult female if less than 
+11.5  g/dl (7.4  mmol/l)  
+   b.     Is most commonly caused by a shortened red cell 
+lifespan  
+   c.     Will result in elective surgery under general 
+anaesthesia being cancelled if the haemoglobin 
+concentration is less than 10  g/dl (6.2  mmol/l)  
+   d.     Is not associated with oral ulceration  
+   e.     Of the sickle cell type contraindicates dental 
+treatment under general anaesthesia     
+   5 .    A patient who suffers from angina:
+    a.     May be safely treated using intravenous sedation  
+   b.     Is likely to be taking daily aspirin and, therefore, 
+may be at risk of postoperative haemorrhage  
+   c.     May be taking drugs that cause oral signs  
+   d.     Suffers from a pressing chest pain that may radiate 
+to the jaw and left arm and is not relieved by 
+nitrates  
+   e.     During dental treatment should be placed in the 
+supine position and given oxygen immediately        
+  Extended matching items    
+  EMI 1. Theme: Medical emergency drugs 
+    Options: 
+   A     Adrenaline (epinephrine) 1:1000 (1  mg/ml)  
+  B     Adrenaline (epinephrine) 1:10  000 (1  mg/10  ml)  
+  C     Glucagon  
+  D     Glucose  
+  E     Hydrocortisone  
+  F     Aspirin  
+  G     Atropine  
+  H     Glyceryl trinitrite (GTN) spray  
+  I     Fresh frozen plasma  
+  J     Salbutamol    
+    Lead in:   Select the most appropriate drug from the list 
+above for each of the following cases. Each option can be 
+used once, more than once or not at all.
+   1 .    A 60-year-old patient develops chest pain during the 
+administration of local anaesthetic. His pain does not 
+improve despite returning the patient to a semi-supine 
+position and providing oxygen and glyceryl trinitrate 
+spray.  
+  2 .    A patient, not known to be diabetic, loses 
+consciousness. He does not regain consciousness 
+despite being put in a supine position and receiving 
+oxygen via a therapy mask.  
+  3 .    Just prior to the administration of nitrous oxide 
+and oxygen inhalational sedation a 10-year-old girl 
+becomes irritable and develops shortness of breath.  
+  4 .    A 65-year-old patient about to have a tooth removed 
+under local anaesthesia becomes confused and sweaty. 
+She chose not to have her usual breakfast alongside 
+her insulin injection as she believed that she should be 
+starved before a tooth extraction.  
+  5 .    A short time after receiving 3  g amoxicillin orally an 
+18-year-old man complains of feeling unwell. He then 
+develops a red skin rash and describes some difficulty 
+in getting his breath.     
+  EMI 2. Theme: Cardiorespiratory arrest 
+    Options: 
+   A     Chest-compression-only CPR at a rate of 100/minute  
+  B     Chest compression and rescue breaths in a ratio of 30:2  
+  C     Jaw thrust  
+   Self-assessment: questions  
+Three: Medical aspects of patient care
+
+=== PDF PAGE 48 ===
+39
+  D     Head tilt and chin lift  
+  E     Five initial breaths before starting chest 
+compressions  
+  F     Automated external defibrillator (AED)  
+  G     Manual defibrillator  
+  H     1  mg epinephrine (adrenaline) IV  
+  I     3  mg atropine IV  
+  J     4  ml magnesium sulphate 50% solution IV    
+    Lead in:  Select the most appropriate management from the 
+list above for each of the following cases. Each option can 
+be used once, more than once or not at all.
+   1 .    A 20-year-old male suffers cardiorespiratory arrest 
+shortly after arriving in the accident and emergency 
+department with serious facial trauma.  
+  2 .    A layperson is anxious about the possibility of 
+infection when performing basic life support.  
+  3 .    A collapsed patient makes infrequent noisy gasps.  
+  4 .    The appearance of asystole is observed on the ECG 
+rhythm strip during CPR.  
+  5 .    A child suffers cardiorespiratory arrest.      
+  Case history question  
+   Discuss the management of this patient.  
+  Viva questions 
+     1 .    What do we mean by antibiotic prophylaxis?  
+  2 .    How in general terms may a collapsed patient be 
+diagnosed and managed?  
+  3 .    How should a patient taking warfarin be managed 
+prior to dental extractions?  
+  4 .    What is a common cause of faint in dentistry? Describe 
+the underlying mechanism of the collapse.  
+  5 .    Discuss the management of a patient who is an insulin-
+dependent diabetic and presents with an acute dento-
+alveolar abscess.       
+Self-assessment: questions
+   Mrs Walker is an energetic 68-year-old lady. She is fit    Mrs Walker is an energetic 68-year-old lady. She is fit 
+and well apart from hypertension, which is well controlled and well apart from hypertension, which is well controlled 
+with atenolol. Two large upper anterior composite fillings with atenolol. Two large upper anterior composite fillings 
+are unsightly and she has decided to go ahead with are unsightly and she has decided to go ahead with 
+the crowns that you have advised. At the end of crown the crowns that you have advised. At the end of crown 
+preparation treatment, you press the auto-return button of preparation treatment, you press the auto-return button of 
+the dental chair to sit Mrs Walker up. She starts to say that the dental chair to sit Mrs Walker up. She starts to say that 
+she feels a little dizzy and then loses consciousness.she feels a little dizzy and then loses consciousness.
+
+=== PDF PAGE 49 ===
+Three: Medical aspects of patient care
+40
+  Self-assessment: answers  
+  Multiple choice answers 
+     1 .      a.      True.  This would cause formation of a large 
+haematoma. Similarly, an inferior alveolar nerve 
+block injection could cause bleeding into the 
+pterygomandibular space, which at this site could 
+be particularly dangerous as the airway could 
+be obstructed by the swelling. Infiltration type 
+injections of local anaesthetic are much safer.  
+    b.      False.  Whilst not appropriate for drug 
+administration in the management of cardiac 
+arrest, the intramuscular route is suitable for many 
+other medical emergencies. It is preferable to give 
+epinephrine (adrenaline) by the intramuscular route 
+in anaphylaxis, for example, rather than by the 
+intravenous route, when arrhythmias may lead to 
+cardiac arrest.  
+    c     . False.  The gluteal muscles have the lowest 
+absorption rate of the muscles used for 
+intramuscular injections but are appropriate for the 
+administration of some drugs, such as morphine 
+for postoperative analgesia. It would only be 
+appropriate to use this injection site in hospital 
+dentistry.  
+    d.      True.  Steroid cover attempts to replicate the 
+normal rise in cortisol that occurs in stress in those 
+patients that are unable to mount this response 
+because of adrenocortical suppression. This may 
+be accomplished by giving steroids orally or by 
+intramuscular or intravenous injection; however, 
+steroids are least well absorbed when given by the 
+intramuscular route. There is some debate about 
+what constitutes a significant physiological stress 
+in dentistry. It is likely that conservative dentistry 
+or minor surgery under local anaesthesia do not 
+require steroid cover. However, more significant 
+surgery or a general anaesthetic does constitute 
+a significant stress and it is important that cover 
+is provided. Adrenocortical suppression may be 
+assumed if the patient is currently taking systemic 
+steroids or has taken more than a 1-month course 
+during the previous year. Hydrocortisone 100  mg 
+may be required 6 hourly for 72 hours for major 
+surgery under general anaesthesia.  
+    e.      False.  Liver disease can lead to bleeding disorders, 
+as a consequence of reduced synthesis of clotting 
+factors, reduced absorption of vitamin K and 
+abnormalities of platelet function. Vitamin K is 
+needed for the synthesis of factors II, VII, IX and X. 
+Acute haemorrhage in a patient with liver disease 
+may be treated with intravenous vitamin K or fresh 
+frozen plasma. Intramuscular injections must be 
+avoided as the patient has a coagulation problem and 
+the injection into muscle will lead to a haematoma.     
+   2 .      a.      True.  These mediators are released from mast cells 
+and basophils, producing respiratory, circulatory, 
+cutaneous and gastrointestinal effects. Increased 
+vascular permeability and peripheral vasodilatation 
+reduce venous return and cardiac output.  
+    b.      False.  The penicillin antibiotics are the most 
+common cause of anaphylaxis in dentistry. NSAIDs 
+such as ibuprofen are recognised as causing 
+hypersensitivity, such as rashes, angio-oedema and 
+bronchospasm, but anaphylaxis is rare compared 
+with penicillin.  
+    c     . False.  The hypotension of anaphylaxis may well 
+need management but it is preferable to use a 
+plasma substitute. Sodium chloride will leave the 
+vascular compartment much more rapidly than a 
+macromolecular plasma substitute substance such 
+as gelatin (Gelofusine or Haemaccel). It is, therefore, 
+better to use a plasma substitute initially when 
+attempting to maintain blood pressure in shock 
+arising in conditions such as anaphylaxis.  
+    d.      False.  First-line treatment of anaphylaxis includes 
+restoration of blood pressure by laying the patient 
+flat, the administration of oxygen by therapy mask 
+and epinephrine (adrenaline) by intramuscular 
+injection. This treatment must be carried out by the 
+dentist as soon as the diagnosis is made as death 
+can occur within minutes. Thus treatment begins 
+while awaiting the emergency services to transfer 
+the patient.  
+    e.      True.  Anaphylactic reactions are particularly 
+associated with all of these medicinal products.     
+   3 .      a.      False.  Pressure on the inferior vena cava from the 
+pregnant uterus can reduce venous return and 
+cardiac output and cause the patient to collapse 
+if placed supine during the third trimester. It is 
+important, therefore, to provide dental treatment 
+in a semi-supine position. Management of a faint 
+requires the patient to be moved onto the left side to 
+relieve the pressure on the vena cava.  
+    b.      True.  Most manufacturers advise avoiding NSAIDs 
+during pregnancy. Drugs should be prescribed 
+during pregnancy only if the expected benefit to 
+the mother is thought to be greater than the risk to 
+the fetus. All drugs should be avoided if possible 
+during the first trimester.  
+    c.      False.  General anaesthesia is best avoided during 
+pregnancy and elective treatment postponed. 
+However, the nature of the emergency surgery may 
+dictate that general anaesthesia has to be used, in 
+which case this will be safest after the first trimester 
+and before the last month. Conscious sedation 
+techniques using nitrous oxide or an intravenous 
+benzodiazepine such as midazolam are not without 
+risk themselves.  
+    d.      True.  These conditions usually resolve after the 
+birth of the baby.  
+    e.      True.  The literature relating to nitrous oxide 
+exposure and risk to health professionals has been 
+
+=== PDF PAGE 50 ===
+41
+controversial. To date, there is no direct evidence of 
+any causal relationship between chronic low-level 
+exposure to nitrous oxide and potential biological 
+effects. However, every attempt should be made to 
+reduce the level of trace nitrous oxide to exposed 
+health-care staff and women should avoid the 
+setting during the first trimester.     
+   4 .      a.      True.  These concentrations are typical of the lower 
+limits of normal for adult males and females.  
+    b.      False.  The haemolytic anaemias (subdivided into 
+inherited and acquired types) are not the most 
+common. Iron-deficiency anaemia is the most 
+common and may result from an inadequate diet 
+or chronic blood loss through gastrointestinal or 
+menstrual bleeding.  
+    c.      True.  While a haemoglobin concentration of 
+10  g/dl is less than the lower normal limit, most 
+anaesthetists use this figure to decide when elective 
+surgery should be postponed.  
+    d.      False.  Oral ulceration is amongst several oral 
+changes that may be associated with anaemia. 
+Others include glossitis, sore tongue, candidiasis 
+and angular stomatitis, although it is important to 
+remember that these conditions may have other 
+causes.  
+    e.      False.  Of the haemoglobinopathies, haemoglobin 
+S is the most clinically significant. The S gene is 
+carried by 10% of patients of African origin but 
+is also seen in Italy, Greece, Arabia and Indian 
+subcontinent. Homozygous patients usually 
+have anaemia (6–10  g/dl). Heterozygotes are 
+almost asymptomatic and sickling only occurs 
+when oxygen tensions are low. The presence or 
+absence of haemoglobin S should be determined 
+before general anaesthesia in risk groups. General 
+anaesthesia, while not absolutely contraindicated, 
+will require special precautions and may 
+even require exchange transfusion to raise the 
+percentage of haemoglobin A.     
+   5 .      a.      True.  If angina is mild. A conscious sedation 
+technique may be preferable in this situation if the 
+patient is anxious as this will minimise the activity 
+of the sympathetic nervous system and reduce 
+the stress on the cardiovascular system. However, 
+angina should be controlled before elective 
+treatment. The clinician should only proceed with 
+methods with which he or she feels competent. 
+Generally, patients of the American Society of 
+Anesthetists (ASA) physical status I (see Table 8, 
+p. 51 ) are suitable for sedation and also some status 
+II patients, although the latter may require referral 
+to the hospital service.  
+    b.      True.  Angina patients are usually prescribed aspirin 
+(75 or 150  mg daily) to prevent future myocardial 
+infarction, unless contraindicated by allergy, 
+intolerance or active peptic ulceration. Low-dose 
+aspirin antiplatelet therapy is of value in preventing 
+arterial thrombosis and also protects against venous 
+thromboembolism. The clinical significance of 
+postoperative bleeding depends on the severity 
+of the surgery. Some recent research indicates that 
+low-dose aspirin may lengthen the bleeding time 
+but only within normal limits. It has been reported 
+that intraoperative bleeding is more common but 
+postoperative haemorrhage is not.  
+    c.      True.  Calcium channel blockers reduce myocardial 
+contractility and may cause lichenoid reactions and 
+gingival overgrowth.  
+    d.      False.  Angina is typically an exercise-related 
+pressing precordial chest pain, radiating to the jaw 
+and left arm, but it is relieved by nitrates.  
+    e.      False.  Many patients are more comfortable in an 
+upright or semi-reclined position than supine. Intra-
+oral glyceryl trinitrate spray and oxygen should be 
+administered.        
+  Extended matching items answers    
+  EMI 1 
+     1 .    F . If a patient’s chest pain does not respond to GTN 
+sublingual spray and oxygen therapy , then it is likely that 
+he or she is having a myocardial infarction rather than 
+angina pectoralis. Early thrombolysis has been shown 
+by systematic reviews to greatly improve the outcome 
+from myocardial infarction. On transfer to accident and 
+emergency care, the patient will receive thrombolytic 
+therapy and oral aspirin will initiate this effect.  
+  2 .    G. In the event of a non-pregnant patients’ vasovagal 
+syncope not responding within a few minutes to 
+placement in the supine position and administration 
+of oxygen, the clinician should consider alternative 
+causes of the collapse. Hypoglycaemia is a possibility 
+in this situation but some syncopes are more 
+significant and occasionally require atropine to aid 
+recovery. Not knowing that a patient is diabetic does 
+not of course mean that the patient isn’t diabetic. It 
+is always worth rechecking the medical history with 
+the patient or people that may have accompanied the 
+patient.  
+  3 .    J. A young patient having inhalational sedation may 
+be assumed to be anxious about the dental treatment 
+and so an expression of irritability may be related 
+to this. It is possible that she is hyperventilating but 
+this would be accompanied by light-headedness, but 
+more likely if she is ‘short of breath’ then she has some 
+bronchoconstriction. An asthma attack may be induced 
+by anxiety and occur in this situation. Airway obstruction 
+is unlikely as dental treatment has not started.  
+  4 .    C. It sometimes happens that a patient wrongly 
+believes that he or she should starve themselves before 
+an anaesthetic even when this is to be local rather than 
+general anaesthesia. If a patient suffering from Type 
+I diabetes takes their insulin as usual but then omits 
+food then hypoglycaemia will ensue. Glucagon should 
+be the first option although there is the possibility that 
+this will be ineffective in a patient who may have used 
+up all reserves of glycogen stores during the night and 
+they may require intravenous glucose on transfer to 
+accident and emergency care.  
+Self-assessment: answers
+
+=== PDF PAGE 51 ===
+Three: Medical aspects of patient care
+42
+  5 .    A. The diagnosis of anaphylaxis is clear because of the 
+combination of respiratory distress and the red rash 
+and the association of these in time with the ingestion 
+of a penicillin antibiotic. The more concentrated dose 
+of epinephrine of the two listed is appropriate for the 
+intramuscular injection route of administration.     
+  EMI 2 
+     1 .    C. The jaw thrust is an alternative manoeuvre to head 
+tilt and chin lift for opening the airway useful when 
+there is a potential neck injury. The index and other 
+fingers are placed behind the angle of the mandible 
+and steady pressure is applied to lift the mandible and 
+obstruction by the tongue.  
+  2 .    A. Whilst the risk to the rescuer is remote some lay 
+people may be unwilling to carry out mouth-to-mouth 
+ventilation. In this situation the rescuer should give 
+chest compressions only.  
+  3 .    B. Agonal gasps are present in up to 40% of cardiac 
+arrest victims. They are an indication to start CPR 
+immediately and should not be confused with normal 
+breathing.  
+  4 .    I. There is no conclusive evidence that atropine is of 
+value in asystole cardiac arrest but asystole carries a 
+grave prognosis and there are anecdotal accounts of 
+success after giving atropine. Atropine antagonises 
+the action of the parasympathetic neurotransmitter 
+acetylcholine at muscarinic receptors. It blocks the 
+effect of the vagus nerve on both the sinoatrial (SA) 
+node and the atrioventricular (AV) node.  
+  5 .    E. For ease of teaching and retention laypeople 
+should be taught that the adult sequence may also 
+be used for children who are not responsive and not 
+breathing. It is far better that the adult sequence is 
+used rather than nothing because of unfounded fear 
+of causing harm. However, minor modifications to 
+the sequence make it more suitable for children. Five 
+initial breaths before starting chest compressions 
+are helpful. Also, if alone to perform CPR for one 
+minute before going for help. Compress the chest by 
+approximately one-third of its depth and use only 
+two fingers for an infant under 1 year.      
+  Case history answer 
+   The patient should be placed in the supine position 
+again and her airways, breathing and circulation (ABC) 
+checked. Resuscitate as appropriate. If the patient 
+is unconscious but breathing and has a circulation, 
+then provide oxygen therapy and move into the 
+recovery position. If the patient has fainted, then a 
+prompt recovery could be expected. Knowledge of 
+the patient’s medication might suggest a diagnosis of 
+postural hypotension, and the patient should recover 
+spontaneously within a minute or so. Atenolol is a 
+ β -adrenoceptor blocking drug commonly prescribed for 
+hypertension. As the heart and peripheral vasculature 
+are less responsive to the sympathetic reflex on changing 
+to an upright posture, the dental chair should be moved 
+slowly to allow the patient time to compensate.  
+  Viva answers 
+     1 .    Antibiotics may be used to treat bacterial infections 
+or to prevent infections occurring, when treatment is 
+described as prophylactic. Antibiotic prophylaxis may 
+be used in three situations:
+    a.     to prevent postoperative infection in a healthy 
+patient undergoing invasive treatment such as 
+major surgery or even when a wisdom tooth is 
+surgically removed  
+   b.     to prevent an immunocompromised patient 
+developing a postoperative infection following a 
+straightforward treatment such as dental extraction  
+   c.     to prevent a serious infection occurring following 
+a bacteraemia such as patients at risk of subacute 
+bacterial endocarditis although no longer 
+considered necessary.     
+  2 .    When confronted with a collapsed patient, the 
+diagnosis may not be instantly apparent. However, 
+the ABC (airways, breathing and circulation) of 
+resuscitation is the mainstay of primary assessment 
+and treatment. This should always be the first step. 
+Once confirmation of satisfactory airway, breathing 
+and circulation has been obtained, further assessment 
+may provide a working diagnosis that permits 
+appropriate emergency treatment. Conditions such as 
+acute asthma, anaphylaxis and hypoglycaemia may be 
+identified at this stage. Further evaluation will lead to 
+a definitive diagnosis and care.  
+  3 .    Anticoagulants are used in the treatment of 
+deep-vein thrombosis, following heart valve 
+replacement and atrial fibrillation. Anticoagulant 
+activity is monitored using a prothrombin time test, 
+and is expressed as the international normalised ratio 
+(INR) by comparing it with a control and adjusting 
+for laboratory variation. An INR near 1 is normal and 
+patients taking anticoagulants are usually in the range 
+2–4. Patients have in the past had their INR brought 
+down to 2.5 or less before dental extractions. However, 
+current evidence suggests that no change need be 
+made as long as the INR is within normal range. 
+There is evidence of rebound thromboses caused by 
+reducing warfarin dosage. There is no doubt that the 
+INR should be reduced for major surgery . However, 
+drug dosage  must only  be adjusted on the advice of the 
+haematologist. Occasionally , rather than reducing the 
+warfarin dose prior to treatment, the haematologist may 
+recommend replacing the warfarin with heparin. This is 
+usually for patients with less stable coagulation status.  
+  4 .    Anxiety is the usual cause. There is an increase 
+in sympathetic activity and release of adrenaline, 
+which causes an increase in heart rate and force of 
+contraction, vasodilatation of blood vessels in skeletal 
+muscle and vasoconstriction in skin, in preparation for 
+fight or flight. Venous return to the heart is reduced 
+because of blood pooling in skeletal muscles not being 
+used for fight or flight and cannot sustain cardiac 
+filling. This triggers a reflex vagal activity that causes 
+bradycardia. The massive drop in blood pressure 
+results in reduced blood flow to the brain and loss of 
+consciousness.  

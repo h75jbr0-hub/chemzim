@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 290" width="100%" height="100%">
+  <!-- Background with dark gradient to match project styling -->
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#070f1e" />
+      <stop offset="100%" stop-color="#0b1b35" />
+    </linearGradient>
+  </defs>
+  
+  <rect width="100%" height="100%" fill="url(#bgGrad)" rx="12" stroke="#1e293b" stroke-width="2"/>
+  
+  <!-- Title -->
+  <text x="20" y="35" font-family="system-ui, sans-serif" font-size="14" font-weight="bold" fill="#38bdf8">Ozone Molecule (O₃)</text>
+  <text x="20" y="55" font-family="system-ui, sans-serif" font-size="11" fill="#94a3b8">Dative bond: central O donates pair to terminal O</text>
+
+  <!-- Key / Legend -->
+  <rect x="290" y="20" width="90" height="45" fill="#1e293b" opacity="0.6" rx="4" />
+  <line x1="298" y1="32" x2="318" y2="32" stroke="#475569" stroke-width="2" />
+  <text x="324" y="35" font-family="system-ui, sans-serif" font-size="9" fill="#94a3b8">Covalent</text>
+  
+  <path d="M 298,48 L 312,48" stroke="#10b981" stroke-width="2" />
+  <polygon points="318,48 312,44 312,52" fill="#10b981" />
+  <text x="324" y="51" font-family="system-ui, sans-serif" font-size="9" fill="#10b981" font-weight="bold">Dative (O➔O)</text>
+
+  <g transform="translate(0, 40)">
+    <!-- Central Oxygen Atom -->
+    <circle cx="200" cy="110" r="28" fill="#1e1b4b" stroke="#6366f1" stroke-width="2" />
+    <text x="200" y="115" font-family="system-ui, sans-serif" font-size="16" font-weight="bold" fill="#e0e7ff" text-anchor="middle">O</text>
+
+    <!-- Central Oxygen Lone Pair (1 pair) -->
+    <g transform="rotate(-90, 200, 110)">
+      <ellipse cx="235" cy="110" rx="10" ry="6" fill="#6366f1" opacity="0.25" />
+      <circle cx="235" cy="105" r="2" fill="#e0e7ff" />
+      <circle cx="235" cy="115" r="2" fill="#e0e7ff" />
+    </g>
+
+    <!-- Left Oxygen (Double Covalent Bonded) -->
+    <line x1="180" y1="125" x2="135" y2="165" stroke="#475569" stroke-width="2" />
+    <line x1="188" y1="133" x2="143" y2="173" stroke="#475569" stroke-width="2" />
+    <circle cx="120" cy="180" r="26" fill="#0f172a" stroke="#94a3b8" stroke-width="1.5" />
+    <text x="120" y="185" font-family="system-ui, sans-serif" font-size="14" fill="#f8fafc" text-anchor="middle">O</text>
+
+    <!-- Left Oxygen Lone Pairs (2 pairs) -->
+    <g transform="rotate(180, 120, 180)">
+      <ellipse cx="153" cy="180" rx="9" ry="5" fill="#94a3b8" opacity="0.2" />
+      <circle cx="153" cy="176" r="1.5" fill="#f8fafc" />
+      <circle cx="153" cy="184" r="1.5" fill="#f8fafc" />
+    </g>
+    <g transform="rotate(-90, 120, 180)">
+      <ellipse cx="153" cy="180" rx="9" ry="5" fill="#94a3b8" opacity="0.2" />
+      <circle cx="153" cy="176" r="1.5" fill="#f8fafc" />
+      <circle cx="153" cy="184" r="1.5" fill="#f8fafc" />
+    </g>
+
+    <!-- Right Oxygen (Dative Covalent Bonded) -->
+    <!-- Highlighted Dative Arrow pointing from central O to right O -->
+    <line x1="218" y1="122" x2="252" y2="152" stroke="#10b981" stroke-width="2.5" />
+    <polygon points="260,158 248,153 254,146" fill="#10b981" />
+    <circle cx="280" cy="180" r="26" fill="#064e3b" stroke="#10b981" stroke-width="2" />
+    <text x="280" y="185" font-family="system-ui, sans-serif" font-size="14" font-weight="bold" fill="#ecfdf5" text-anchor="middle">O</text>
+
+    <!-- Right Oxygen Lone Pairs (3 pairs) -->
+    <g transform="rotate(45, 280, 180)">
+      <ellipse cx="313" cy="180" rx="9" ry="5" fill="#10b981" opacity="0.25" />
+      <circle cx="313" cy="176" r="1.5" fill="#ecfdf5" />
+      <circle cx="313" cy="184" r="1.5" fill="#ecfdf5" />
+    </g>
+    <g transform="rotate(-45, 280, 180)">
+      <ellipse cx="313" cy="180" rx="9" ry="5" fill="#10b981" opacity="0.25" />
+      <circle cx="313" cy="176" r="1.5" fill="#ecfdf5" />
+      <circle cx="313" cy="184" r="1.5" fill="#ecfdf5" />
+    </g>
+    <g transform="rotate(180, 280, 180)">
+      <ellipse cx="313" cy="180" rx="9" ry="5" fill="#10b981" opacity="0.25" />
+      <circle cx="313" cy="176" r="1.5" fill="#ecfdf5" />
+      <circle cx="313" cy="184" r="1.5" fill="#ecfdf5" />
+    </g>
+  </g>
+</svg>

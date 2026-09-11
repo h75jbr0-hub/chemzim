@@ -1,0 +1,1614 @@
+=== PDF PAGE 219 ===
+Thirteen: Salivary gland disease
+210
+   Hypersalivation may be a feature of certain neurologi-
+cal disorders. Sometimes it is confused with dribbling from 
+the angle of the mouth caused by loss of neuromuscular 
+control. Most often, hypersalivation is linked to a psycho-
+logical disorder, when it is difficult to treat. It is sometimes 
+seen in sialosis, which most commonly presents as pain-
+less bilateral parotid gland swelling. 
+   Dry mouth is a frequent complaint and there may be 
+a sensation of dry mouth with no objective reduction in 
+flow. Sialometry is a simple first-line investigation that can 
+help to identify reduced salivary flow (xerostomia). The 
+most common cause of true xerostomia is the unwanted 
+effects of drugs with sympathomimetic or antimuscarinic 
+effect (e.g. tricyclic antidepressants and antihistamines). 
+Treatment of xerostomia is discussed below with Sjögren’s 
+syndrome.  
+   Sialometry 
+   Normal whole unstimulated salivary flow rates can be 
+assessed by asking the patient to gently dribble any saliva 
+produced over a 5-minute period into a container. The 
+normal flow rate is 0.3–0.4  ml/min; a flow rate of less than 
+0.1  ml/min indicates a clinically significant xerostomia.  
+   Radiology 
+   Selection of imaging methods in suspected or known sali-
+vary gland disease is determined for each patient on the 
+basis of the question which the imaging investigation is 
+expected to answer. 
+   Is there a calculus present? 
+    Plain radiographs . These are first choice for all glands. 
+    Parotid glands . Intra-oral plain radiographs of the cheek 
+(dental film placed in the buccal sulcus over the parotid ori-
+fice) and an antero-posterior radiograph of the face, with 
+the patient requested to inflate the cheek, are required. 
+Additional, lateral views are often taken, but any calculus 
+may be superimposed upon bone or teeth and obscured. 
+    Submandibular gland . The plain radiographic examina-
+tion consists of a true occlusal radiograph of the floor of 
+mouth ( Fig. 169   ) and a ‘special’ (oblique occlusal) radio-
+graph with the beam angled antero-superiorly while 
+centred on the gland itself. Lateral views may be useful, 
+although again a calculus may be superimposed upon 
+bone and be difficult to identify. 
+    Ultrasound . Alternatively, ultrasound examination may 
+be used to identify calculi in either gland.  
+   Is there an obstruction in the duct system? 
+What is the condition of the duct system? 
+    Sialography . Both these questions are best answered with 
+sialography. Sialography is the introduction of a radio-
+opaque contrast medium into the orifice of one of the 
+major salivary glands via a cannula. The media used are all 
+iodine-containing solutions (usually low-osmolality aque-
+ous solutions of iodine salts). The contrast is introduced 
+slowly until discomfort is felt by the patient. Alternatively, 
+the procedure is performed under fluoroscopic screening, 
+allowing ‘real-time’ imaging. Usually two images are made 
+at different angles (e.g. lateral and antero-posterior views). 
+After this, the cannula is removed and a ‘drainage’ image 
+obtained, usually after stimulation using a sialogogue (e.g. 
+citric acid solution, lemon juice). Digital subtraction may 
+be used to remove bone and tooth images, leaving the 
+contrast image in isolation ( Fig. 170   ).  
+   Is there a mass present? 
+    Ultrasound . This is the ‘first line’ investigation for a mass 
+( Fig. 171   ). A high-frequency transducer is used to obtain 
+images in several planes of the gland. Bony superimposi-
+tion may prevent complete imaging of the deep lobe of the 
+parotid and that part of the submandibular gland imme-
+diately adjacent to the mandible. Where a lesion is com-
+pletely visualised on ultrasound and where there is no 
+suggestion of malignancy an ultrasound examination is 
+often sufficient for surgical planning. 
+    Computed tomography (CT) or magnetic resonance imaging 
+(MRI) . Where the above criteria are not met (incomplete 
+visualisation and/or evidence of malignancy), either CT 
+or MRI is recommended.  
+   Is there an abnormality of gland function? 
+    Radioisotope imaging . This is a question usually asked in 
+relation to Sjögren’s syndrome. The only radiological 
+ Fig. 169    True occlusal radiograph of the floor of mouth showing a small, 
+well-calcified calculus close to the orifice of the left submandibular duct.    
+ Fig. 170    Digital subtraction sialogram of a normal parotid gland. Digital 
+subtraction removes the image of superimposed bone, allowing a clear 
+image of the typically fine ducts of the normal gland.    
+
+=== PDF PAGE 220 ===
+Thirteen
+211
+technique that can assess function is radioisotope imag-
+ing (nuclear medicine). This uses a radiopharmaceutical 
+injected intravenously. The radiopharmaceutical is a mol-
+ecule containing the isotope  99  m technetium as the pertech-
+nate (a gamma ray emitter). Once in the bloodstream, this 
+is handled by the body in the same way as iodine and is 
+taken up by the salivary glands and then secreted in saliva. 
+The gamma rays are detected by a gamma camera to pro-
+duce an image representing the functional activity of the 
+glands ( Fig. 172   ). It is possible to quantify activity in addi-
+tion to subjective assessment of images. This technique is 
+also employed in rare cases where aplasia of one or more 
+major glands is suspected.   
+   Biopsy 
+   Biopsy of labial minor salivary lobules is sometimes 
+used to assess overall salivary function. Incisional biop-
+sies of intra-oral salivary masses are undertaken through 
+mucosa that will be later removed as a planned surgical 
+procedure. 
+   On no account should a discrete salivary gland mass in 
+a major gland be subjected to incisional biopsy as this may 
+lead to recurrence and is usually unnecessary. For exam-
+ple, there is a 9 in 10 chance that a single parotid mass is a 
+pleomorphic adenoma and so the only acceptable biopsy 
+is a superficial parotidectomy. This will ensure removal of 
+the tumour together with a surrounding margin of nor-
+mal tissue. Fine-needle aspiration or needle core biopsy is 
+acceptable and is without the risk of implantation of malig-
+nant cells in the needle tract. Frozen section may be useful 
+at surgery for tumours in parotid gland that are thought 
+likely to be malignant, to establish whether the facial nerve 
+may be preserved.   
+  13.3     Salivary gland disorders 
+       Learning objectives  
+     You should:
+       know the features, investigations and management of 
+salivary gland disorders.         
+   Obstructive salivary disorders 
+   Obstructive salivary disease can be acute or chronic. The 
+clinical features are characteristically pain and swelling 
+of the affected gland just before meals. Astringent stimuli 
+produce severe symptoms. Sometimes the swelling slowly 
+subsides as saliva leaks past the obstruction, and a bad 
+taste is suggestive of associated sialadenitis ( Fig. 173   ). 
+   Extraductal obstruction 
+   Extraductal obstruction is caused by disease outside the 
+duct wall. The most important cause is neoplasia, particu-
+larly squamous carcinoma in the floor of mouth or salivary 
+neoplasms. Trauma may also lead to displacement of soft 
+or hard tissue, resulting in duct obstruction.  
+   Duct wall thickening 
+   Duct wall obstruction may be related to fibrosis, leading to 
+stricture. The orifices can become stenosed through trauma 
+from dentures or teeth. Rarely, intraduct papillomas arise 
+from the duct wall and obstruct the lumen.  
+   Intraductal obstruction 
+   Salivary calculus is the most common type of obstruc-
+tive disorder ( Fig. 174   ). The submandibular gland is most 
+•
+Salivary gland disorders
+ Fig. 171    Axial ultrasound image of a parotid gland containing a 
+pleomorphic adenoma. The skin surface is at the top. The lesion is mainly 
+hypoechoic with some areas of relatively higher echogenicity within. There 
+is posterior enhancement.    
+ Fig. 172    Radioisotope scan of the salivary glands. Each image is taken 
+with the patient facing the gamma camera, giving a ‘face-on’ image. The 
+highly active bilobed area of activity at the bottom of each image is the 
+thyroid gland. In this particular patient, the problem illustrated by the 
+quantitative study was underactivity of the right parotid. Lt, left; Rt, right; 
+subman., submandibular.    
+
+=== PDF PAGE 221 ===
+Thirteen: Salivary gland disease
+212
+frequently involved (around 80% of cases), followed by 
+parotid and, rarely, minor glands. The calculi (sialoliths) 
+tend to be hard, yellowish and often have a lamellated, 
+concentric-ring structure. They are composed of calcium 
+phosphates, thought to be nucleated on microcalculi, 
+which are commonly found in the major and minor 
+glands. Salivary calculi may form in ducts within the 
+gland substance.   
+   Acute sialadenitis 
+   Viral sialadenitis 
+   Viral sialadenitis (mumps) is an acute contagious infection 
+caused by a paramyxovirus. Spread is by direct contact 
+with infected saliva and by droplets. There is a 2–3 week 
+incubation period, and fever and malaise are followed by 
+sudden, painful swelling of one or both parotid glands. In 
+adults, viraemia results in involvement of internal organs 
+such as the central nervous system and gonads.  Orchitis  
+(gonadal swelling) occurs in around 20% of affected adult 
+males. Diagnosis is made on clinical grounds and bed-
+rest is advised. As the disease occurs in minor epidemics, 
+infected persons should avoid contact with those at risk. 
+Virus is present in the saliva when symptoms commence 
+and remains for approximately 6 weeks. One episode 
+usually confers lifelong immunity.  
+   Bacterial sialadenitis 
+   Acute bacterial sialadenitis principally involves the parotid 
+glands and is caused by bacteria entering the ductal system 
+against the salivary flow. Reduced flow is a common pre-
+disposing factor and is a feature of many conditions, includ-
+ing chronic sialadenitis, Sjögren’s syndrome and unwanted 
+effects of drugs.  Streptococcus pyogenes, Staphylococcus 
+aureus, Haemophilus  species, black-pigmented bacteroides 
+and other oral bacteria may be detected in mucopurulent 
+discharge from the duct opening, which is an important 
+clinical sign. It is accompanied by swelling, pain, fever 
+and erythema of the overlying skin. Treatment is by antibi-
+otic therapy and gentle massage to encourage flow. Warm, 
+salty mouthrinses may be helpful, and patients should be 
+advised against placing a hot-water bottle over the gland 
+as this may lead to a pointing abscess.   
+   Chronic sialadenitis 
+   Bacterial sialadenitis 
+   Chronic bacterial sialadenitis is related to low-grade bac-
+terial invasion through the duct system and often follows 
+chronic obstructive disease. The submandibular salivary 
+gland is most commonly affected. Typically, there is recur-
+rent, painful swelling associated with eating or drinking. 
+The duct orifice appears inflamed and a mucopurulent 
+discharge may be seen on examination. Patients may com-
+plain of a salty or foul taste in the mouth. The gland may 
+become firm and fibrotic at the end stage. Pathologically 
+there may be duct ectasia, mucous metaplasia of duct 
+epithelium, periductal fibrosis and elastosis, acinar atro-
+phy and a chronic inflammatory infiltration. Interlobular 
+fibrosis results in fusion of the lobules. Surgical removal is 
+indicated in intractable disease. On sialograms, there are 
+combinations of sialectasis (ductal dilatation), strictures, 
+filling defects with calculi or stagnant secretions, and 
+atrophy of minor salivary ducts ( Fig. 175   ). In advanced 
+ disease, large abscess cavities may form.  
+   Relapsing parotitis 
+   Relapsing (recurrent) parotitis is an uncommon disorder 
+affecting children and sometimes adults. Typically, sialog-
+raphy shows normal main ducts but punctate sialectasis 
+ Fig. 174    A submandibular calculus in the oral cavity.    
+ Fig. 173    An obstructive swelling of a parotid gland.  A,  extra-oral view;  B,  intra-oral view.    
+A
+ B
+
+=== PDF PAGE 222 ===
+Thirteen
+213
+peripherally. Some cases are bilateral, suggesting a con-
+genital duct abnormality or tendency to reduced flow.  
+   Radiation sialadenitis 
+   Radiation sialadenitis occurs mostly after radiotherapy, 
+particularly when given for head and neck cancers. There 
+is acinar damage and progressive fibrous replacement. 
+Depending on dose, some recovery may be seen. The 
+glands are shielded where possible to avoid this unwanted 
+effect ( Fig. 176   ). See Sjögren’s syndrome for treatment of 
+xerostomia.   
+   Sjögren’s syndrome 
+   Sjögren’s syndrome is an autoimmune chronic inflamma-
+tory disease involving the salivary and lacrimal glands. 
+It is characterised by polyclonal B-cell proliferation, proba-
+bly as a result of loss of T-cell regulation. There is lympho-
+cytic infiltration and destruction of glandular parenchyma 
+( Fig. 177   ). Sjögren’s syndrome can have widespread mani-
+festations and is classified into:
+       primary Sjögren’s syndrome: association of xerostomia 
+(dry mouth) and xerophthalmia (dry eyes)  
+●
+      secondary Sjögren’s syndrome: association of either 
+xerostomia or xerophthalmia and an autoimmune 
+connective tissue disease.    
+   There is some overlap between the two forms, though in 
+general oral and ocular dryness is more severe in primary 
+Sjögren’s syndrome. Widespread symptoms may be expe-
+rienced in both types, including nasal and vaginal dryness, 
+dysphagia and dry skin. Fatigue syndrome is commonly 
+present. Autoimmune connective tissue diseases that may 
+be associated with secondary Sjögren’s syndrome are 
+given in  Box 13   . Rheumatoid disease (arthritis) is the most 
+commonly associated disorder. 
+   Clinically, middle-aged females are most commonly 
+affected, though Sjögren’s syndrome may occur in child-
+hood. Sjögren-like features can be seen in other T-cell 
+dysfunctions including HIV (human immunodeficiency 
+virus) infection, therapeutic immunosuppression and 
+graft-versus-host disease. Patients often complain of dif-
+ficulty in eating dry foods and the tongue adhering to the 
+palate. Symptoms are usually worst during the night and 
+sleep may be disturbed. Difficulty in swallowing, speak-
+ing and wearing dentures may be experienced. The oral 
+mucosa appears glazed and the tongue may become lobu-
+lated and beefy-red. Oral candidiasis is common and there 
+may be patches of erythema or even ulceration. The major 
+salivary glands may be enlarged. Sudden expansion may 
+be a result of obstruction, acute infection or transformation 
+to malignant lymphoma. 
+●
+ Fig. 175    Chronic sialadenitis of the parotid gland. The main duct has a 
+reasonably normal diameter and course, but beyond the point of junction 
+with an accessory gland (seen passing vertically upwards from the main 
+duct) the gland is abnormal. The ducts are dilated and there is some 
+atrophy of the peripheral ducts (compare with  Fig. 169 ). A filling defect 
+is visible centrally, indicating the presence of a substantial mucus plug or 
+calculus.    
+ Fig. 176    A patient with radiation-related dry mouth, showing carious 
+lesions.    
+ Fig. 177    Histopathological section of a labial gland biopsy in a patient 
+with Sjögren’s syndrome.    
+  Box 13    Autoimmune diseases in secondary 
+Sjögren’s syndrome  
+          Rheumatoid disease (arthritis)  
+      Systemic lupus erythematosus  
+      Progressive systemic sclerosis  
+      Primary biliary cirrhosis  
+      Renal tubular acidois  
+      Mixed connective tissue disorder     
+•
+•
+•
+•
+•
+•
+Salivary gland disorders
+
+=== PDF PAGE 223 ===
+Thirteen: Salivary gland disease
+214
+  Box 14    Diagnosis of Sjögren’s syndrome  
+    Diagnostic criteria 
+  I .  Ocular symptoms 
+   A positive patient response to at least one of the three 
+selected questions:
+   1 .    Have you had daily, persistent, troublesome dry eyes for 
+more than 3 months?  
+  2 .    Do you have a recurrent sensation of sand or gravel in the 
+eyes?  
+  3 .    Do you use tear substitutes more than three times a day?     
+  II .  Oral symptoms 
+   A positive result to at least one of the three selected questions:
+   1 .    Have you had a daily feeling of dry mouth for more than 
+3 months?  
+  2 .    Have you had recurrently or persistently swollen salivary 
+glands as an adult?  
+  3 .    Do you frequently drink liquids to aid swallowing dry food?     
+  III .  Ocular signs 
+   Objective evidence of ocular involvement deﬁ  ned as a positive 
+result in at least one of the following two tests:
+   1 .    Schirmer’s test (≤ 5  mm in 5 minutes) *   
+  2 .    Rose Bengal score (≥ 4 according to van Bijsterveld’s 
+scoring system).     
+  IV .  Histopathology 
+   A focus score ≥ 1 in a minor salivary gland biopsy. A focus is 
+deﬁ  ned as an agglomerate of at least 50 mononuclear cells; 
+the focus score is deﬁ  ned by the number of foci in 4  mm 2  
+glandular tissue.  
+  V .  Salivary gland involvement 
+ Objective evidence of salivary involvement deﬁ  ned by a positive 
+result in at least one of the following three diagnostic tests:
+   1 .    Salivary scintigraphy  
+  2 .    Parotid sialography  
+  3 .    Unstimulated salivary ﬂ  ow (≤ 1.5  ml in 15 minutes) *      
+  VI.   Autoantibodies 
+   Presence in the serum of the following antibodies:
+   1 .    Antibodies to Ro (SS-A) or La (SS-B) antigens, or both.      
+  Classification criteria 
+   In patients without any potentially associated disease, the 
+presence of any four of the six items is indicative of primary 
+Sjögren’s syndrome. 
+   In patients with a potentially associated disease (for 
+instance another connective tissue disease) item I or item II 
+plus any two from among items III–V is indicative of secondary 
+Sjögren’s syndrome.  
+  Exclusion criteria 
+   Pre-existing lymphoma, acquired immunodeﬁ  ciency disease 
+(AIDS), sarcoidosis, graft-versus-host disease, sialoadenosis; 
+use of antidepressant and antihypertensive drugs, neuroleptics 
+or parasympatholytic drugs. 
+ *   As it has been demonstrated that this test may be reduced in normal  subjects 
+older than 60 years of age, it should be excluded from the criteria or not con-
+sidered indicative for a diagnosis of Sjögren’s syndrome in elderly subjects.      
+   Diagnosis 
+   Sjögren’s syndrome is a clinical diagnosis and a number of 
+investigations may aid in diagnosis. The ethics and costs of 
+laboratory and clinical tests should be considered, particu-
+larly if results do not affect management. 
+   Estimation of salivary flow (sialometry test) and lacri-
+mal flow (Schirmer test;  Fig. 178   ) are inexpensive simple 
+tests. Often, detection of autoantibodies against SS-A(Ro) 
+and SS-B(La) extractable nuclear antigens can be used as 
+reasonably sensitive and specific tests. Other autoantibod-
+ies may be detected by arranging a panel of tests, as deter-
+mined by evidence-based laboratory medicine. Tests that 
+may be utilised for the diagnosis of Sjögren’s syndrome are 
+shown in  Box 14   . Sialographically, the classic features are 
+varying degrees of punctate and globular sialectasis with 
+fairly normal main ducts. However, secondary obstruction 
+and infection means that changes often become similar to 
+chronic sialadenitis ( Fig. 179   ). 
+   Labial gland biopsy is used sometimes to provide a his-
+topathological diagnosis of Sjögren’s syndrome. Infiltration 
+of lymphocytes around intralobular ducts may be present 
+resulting in focal lymphocytic sialadenitis. In major glands 
+progressive lymphocytic infiltration is accompanied by aci-
+nar destruction and proliferation of residual ducts result-
+ing in epimyoepithelial islands. Extensive change of this 
+type results in a salivary lymphoepithelial lesion (SLEL) 
+which in some cases progress to lymphoma.  
+   Management 
+   Sjögren’s syndrome is generally managed by a multidisci-
+plinary team. Dry mouth can be treated by:
+       salivary stimulants if there is residual salivary 
+function, such as chewing sugar-free gum, sucking 
+specially formulated sugar-free pastilles (e.g. Salivix) 
+or tablets (e.g. SST); sweets must be avoided because of 
+the high caries risk  
+      saliva substitutes: these fall into three main groups
+       carboxymethylcellulose based, e.g. luborant  
+      mucin based, e.g. Saliva Orthana  
+      gels containing enzymes normally present in saliva, 
+e.g. BioXtra     
+      preventive advice relating to the high risk of caries and 
+periodontal disease; in dentate individuals the use of a 
+fluoride mouthwash may be recommended  
+●
+●
+●
+●
+●
+●
+ Fig. 178    Schirmer’s test.    
+
+=== PDF PAGE 224 ===
+Thirteen
+215
+     where xerostomia is severe but residual salivary gland 
+function is present on stimulation, pilocarpine may 
+be of benefit in radiation-induced xerostomia and 
+Sjögren’s syndrome.      
+   Salivary gland tumours 
+   Salivary tumours account for around 3% of human tumours 
+but malignancy is comparatively rare. Most arise in the 
+parotid gland, where around 90% of tumours are benign 
+adenomas and only 10% are malignant. There is a higher 
+relative proportion of malignant tumours in the subman-
+dibular and minor salivary glands; for example around 
+45% of salivary neoplasms arising in the palate ( Fig. 180   ) 
+prove to be malignant. 
+   Many histopathological types have been classified and 
+biological behaviour is variable. Only the most common 
+types are described. 
+   Benign tumours 
+    Pleomorphic adenoma . Pleomorphic salivary adenoma is the 
+most commonly encountered neoplasm, accounting for 
+around 80–90% of all salivary tumours. In the major sali-
+vary glands, they present as slow-growing, painless nod-
+ules, often detected on routine extra-oral examination or 
+palpation. The nodule can be soft or firm in texture and 
+●
+is freely moveable. In the minor glands, pleomorphic ade-
+noma typically presents as a rubbery nodule, principally 
+in the palate and upper lip submucosa. Palatal lesions may 
+be secondarily ulcerated. 
+   Suspected pleomorphic adenomas are normally 
+removed by excision biopsy with a margin of normal tis-
+sue. The adenomas are variable in appearance microscopi-
+cally ( Fig. 181   ) but are distinctive in having characteristic 
+cellular and stromal elements. The cellular component 
+is of ductal epithelial and myoepithelial cells, and these 
+are arranged in sheets and strands. Ducts may form and 
+sometimes squamous differentiation is present. The stro-
+mal component is rich in proteoglycans and can be organ-
+ised as loose (myxoid) tissue or cartilage-like (chondroid) 
+tissue; both types may be present. An important pathologi-
+cal feature to be aware of is that a capsule of compressed 
+fibrous tissue forms around pleomorphic adenoma. 
+Islands of tumour cells may extend beyond the capsule 
+and ‘shelling out’ the adenoma in the past led to multifo-
+cal recurrence. 
+    Warthin’s tumour . Warthin’s tumour (adenolymphoma) 
+affects predominantly older men and arises almost exclu-
+sively in the parotid. Approximately 10% of cases are bilat-
+eral and the tumour presents as a discrete nodule, rarely 
+exceeding 3  cm in diameter. Microscopically, they have 
+a papillary cystic structure comprising double layered, 
+eosinophilic ductal cells supported by a lymphoid stroma. 
+Smoking is thought to be an important aetiological factor. 
+    Other adenomas . Other adenomas with varying patterns 
+arise. These include basal cell, canalicular, trabecular and 
+oncocytic types. Treatment is the same as for pleomorphic 
+adenoma.  
+   Malignant tumours 
+   Outcome in malignant salivary gland tumours depends 
+on histological type and grade as well as stage. Advanced 
+malignant tumours with extensive spread or metastasis 
+have a far worse prognosis than early stage tumours. 
+    Adenoid cystic carcinoma  . Adenoid cystic carcinoma 
+affects middle-aged or elderly patients and accounts for 
+ Fig. 179    Sialogram in Sjögren’s syndrome. This patient has fairly classic 
+radiological appearances in the parotid gland. The main ducts are fairly 
+normal (although the main duct anteriorly is slightly dilated), but a striking 
+feature is the presence of numerous small collections of contrast medium 
+(‘snow storm’) overlying the gland.    
+ Fig. 180    A mucoepidermoid tumour arising in the palate.    
+  Fig. 181    Histopathological section of a pleomorphic adenoma.    
+Salivary gland disorders
+
+=== PDF PAGE 225 ===
+Thirteen: Salivary gland disease
+216
+around 30% of minor gland tumours. It is slow growing but 
+may cause pain, palsy or paraesthesia because of its partic-
+ular tendency to invade and spread along nerve pathways. 
+Histopathologically, it shows a ‘Swiss-cheese’ appearance 
+owing to microcysts filled by basement membrane mate-
+rial. Small darkly staining cells with indistinct outlines are 
+typical ( Fig. 182   ). It is infiltrative; metastasis develops as 
+a late event and it has a poor long-term prognosis. It is 
+treated by surgery, often with adjuvant radiotherapy. 
+    Mucoepidermoid carcinoma . Mucoepidermoid carcinoma 
+affects younger and middle-aged patients and it accounts 
+for around 5% of minor gland tumours. Histopathologically, 
+it shows mucous and squamous differentiation. Clinically, 
+it shows a range of behaviour, from low-grade to highly 
+malignant types. 
+    Acinic-cell carcinoma . The acinic-cell carcinoma is uncom-
+mon. It shows differentiation towards salivary acinar cells; 
+it is generally low grade but can be aggressive. 
+    Polymorphous low-grade adenocarcinoma  . Typically poly-
+morphous adenocarcinoma occurs on the palate; it is a low-
+grade malignant tumour with a good prognosis despite its 
+infiltrative growth pattern. 
+    Other carcinomas . Carcinomas can arise in long-standing 
+pleomorphic adenomas; when they invade adjacent tissues 
+the prognosis is very poor. 
+   Salivary duct carcinoma, basal-cell adenocarcinoma, 
+sebaceous carcinoma and other rare types of carcinoma 
+occur. Prognosis depends on both type and stage. 
+    Other malignant tumours  . Salivary glands can also 
+develop malignant melanoma, lymphoma (sometimes 
+arising in Sjögren’s syndrome), metastases, myoepithelial 
+tumours and rare types.   
+   Salivary gland cysts 
+   The most common salivary cysts occur in the minor sali-
+vary glands as a result of trauma. They present as blue, 
+fluctuant swellings, which typically have a relapsing 
+ history. There are two types. 
+    Mucous extravasation mucocoele . This is the most frequent 
+type and it occurs in the lower labial mucosa ( Fig. 183   ), 
+buccal mucosa and rarely at other sites. Trauma results in 
+tearing of the duct, with leakage of saliva into the connec-
+tive tissue. A granulation tissue capsule forms and mucin-
+filled, foamy macrophages are typically seen in the cyst 
+fluid. Chronic inflammatory infiltration is usually seen 
+also. 
+    Mucous retention mucocoele  . This type occurs less fre-
+quently and tends to be found in the upper labial mucosa. 
+Trauma results in duct stricture and then expansion, form-
+ing a cyst lined by ductal epithelium. The cyst contains 
+clear saliva, with minimal inflammatory or macrophage 
+reaction. 
+   Bilateral and multiple lymphoepithelial parotid cysts 
+can be a feature of HIV infection. The cysts occur early in 
+HIV disease and are not typically seen in advanced AIDS. 
+Diagnosis is based on fine-needle aspiration and imag-
+ing. No intervention is normally required but if lympho-
+matous infiltration is suspected surgical excision may be 
+performed.   
+  13.4     Surgery 
+       Learning objectives  
+     You should:
+       know the principles of surgery to remove salivary glands.         
+   Surgical removal of minor salivary glands is the treatment 
+of choice for mucous extravasation and retention cysts 
+and tumours. Surgery of the major salivary glands is car-
+ried out when there is neoplastic disease, obstruction and 
+sometimes in inflammatory disease. 
+   Minor salivary glands 
+   Excision of a cyst with associated glands and duct may be 
+undertaken under local anaesthesia. Swellings thought to 
+be tumours because of their history, site and appearance 
+require wider excision. Ranulae (mucocoeles arising from 
+the sublingual gland) should be excised together with the 
+associated lingual gland. If large in size, then this may be 
+more readily performed under general anaesthesia. 
+•
+ Fig. 182    Histopathological section of an adenoid cystic carcinoma.    
+ Fig. 183    A mucous extravasation mucocoele.    
+
+=== PDF PAGE 226 ===
+Thirteen
+217
+   Cryosurgery, in which subzero cooling is used to destroy 
+tissues, may be used to remove small cysts. The probe of 
+a liquid nitrogen apparatus is placed on the cyst for two 
+to five cycles of about 30 seconds at −100  °C. The extreme 
+cold results in an acute inflammatory response and tissue 
+damage. The technique, which is very simple to use, results 
+in significant postoperative swelling but excellent healing 
+without a surgical scar. The disadvantage is that there is no 
+histopathological examination. Cryosurgery may also be 
+used for small vascular lesions such as haemangiomas.  
+   Submandibular salivary gland 
+   Surgical removal of a calculus from the anterior part of the 
+duct of the submandibular salivary gland may be under-
+taken under local anaesthesia. A suture is placed about the 
+duct behind the calculus to prevent it moving back into 
+the gland and then the duct is dissected and opened via 
+an intra-oral approach. The calculus is removed and the 
+duct sutured open to prevent stricture. Should the calculus 
+be sited more proximally, then removal of the gland may 
+be necessary. In the case of surgical removal of the sub-
+mandibular gland for this or another reason, the patient is 
+advised of the following risks of the operation:
+       possible facial nerve damage resulting in weakness of 
+the lower lip  
+      possible lingual nerve damage resulting in lingual 
+paraesthesia.    
+   Surgical removal of the submandibular gland is under-
+taken under general anaesthesia with the patient supine 
+and the head turned to the opposite side and extended. 
+The skin is prepared and the submandibular incision made 
+2.5  cm below the mandible to avoid the facial nerve ( Fig. 
+184   ). During dissection, vessels are identified and ligated 
+before the gland is removed. A vacuum drain is placed to 
+minimise haematoma formation and the wound is closed 
+with sutures. 
+●
+●
+   An alternative to surgery for calculus removal is radio-
+logically guided retrieval of the calculus through the duct 
+orifice using a basket retrieval catheter. This works best 
+with small, freely moving calculi. Lithotripsy and balloon 
+dilation may also be used and 70% of obstructed glands 
+can be treated conservatively.  
+   Parotid salivary gland 
+   A calculus in the anterior part of the parotid salivary duct 
+may be removed by an intra-oral approach under local 
+anaesthesia, again with a suture placed behind to pre-
+vent the calculus slipping back into the gland. In the case 
+of a calculus sited further back, or non-malignant disease 
+in the superficial lobe, the glandular tissue superficial to 
+the facial nerve may be removed (superficial parotidec-
+tomy), thus preserving the nerve. In the case of a malig-
+nant tumour, the whole gland may be removed (total 
+parotidectomy) with sacrifice of the nerve. Non-malignant 
+disease occurring in the deep lobe will require removal of 
+the whole gland with preservation of the nerve. A patient 
+undergoing parotidectomy is advised of the risks of the 
+operation:
+       possible facial weakness or expected facial paralysis 
+depending on the type of surgery planned  
+      numbness of the ear on the side of surgery as the great 
+auricular nerve has to be divided during surgery.    
+   Much less likely complications are:
+       sweating around the ear when the patient eats because 
+of regrowth of secretomotor parasympathetic nerve 
+fibres (Frey’s syndrome)  
+      salivary fistula.    
+   Surgery is undertaken under general anaesthesia with the 
+patient supine and the head turned to the opposite side. 
+The skin is prepared and a preauricular incision made and 
+extended behind the ear lobe over the mastoid process and 
+down to the submandibular area ( Fig. 185   ). A skin flap 
+●
+●
+●
+●
+Surgery
+ Fig. 184    Surgical approach for removal of a submandibular gland.    
+��������� ����������
+�����������
+����������� ��
+���������� ��� �
+�� ������������ ��
+��������� ����������
+������������������
+��������� ���������
+����� ���� �������
+�������������������
+��� �������������
+�������������������
+����� � ����������
+
+=== PDF PAGE 227 ===
+Thirteen: Salivary gland disease
+218
+is raised to expose the gland and the facial nerve trunk. 
+An electric nerve stimulator may be used to help to iden-
+tify the nerve if the patient has not been given a muscle 
+relaxant drug as part of the anaesthetic technique at this 
+stage. The gland may then be dissected above the nerve 
+and removed. A vacuum drain is placed and the wound 
+closed. 
+   As with the submandibular gland, under certain cir-
+cumstances calculi may be removed via the duct orifice by 
+consevative methods (see above).    
+Thirteen: Salivary gland disease
+ Fig. 185    Surgical approach for removal of a parotid gland.    
+
+=== PDF PAGE 228 ===
+219
+   Self-assessment: questions   
+  Multiple choice questions 
+      1 .    Mumps (epidemic parotitis):
+    a .    Is caused by an adenovirus  
+   b.     Is transmitted by droplets spread from infected 
+saliva  
+   c.     In adults may involve the central nervous system, 
+pancreas, testes and ovaries  
+   d.     Bilateral parotid involvement is more common 
+than unilateral involvement  
+   e.     Recurrent attacks are not uncommon     
+   2 .    The following are likely causes of a localised swelling 
+in the upper labial submucosa:
+    a.     Mucous extravasation mucocoele  
+   b.     Mucous retention mucocoele  
+   c.     Basal-cell adenoma  
+   d.     Capillary haemangioma  
+   e.     Warthin’s tumour     
+   3 .    Adenoid cystic carcinoma:
+    a.     May arise in the paranasal sinuses  
+   b.     Arises from the adenoids  
+   c .    Has a progressively worse survival at 5, 10 and 
+20 years, respectively  
+   d.     Often exhibits perineural spread  
+   e.     Has microcystic spaces containing basement 
+membrane-like material     
+   4 .    In Sjögren’s syndrome:
+    a.     Secondary Sjögren’s syndrome comprises dry eyes, 
+dry mouth and a connective tissue (autoimmune) 
+disorder  
+   b.     Uptake of  99  m [Tc]-pertechnate by salivary glands is 
+increased in Sjögren’s syndrome  
+   c    . Fatigue syndrome is associated with Sjögren’s 
+syndrome  
+   d.     Salivary duct antibody is the most useful 
+diagnostic immunotest for Sjögren’s syndrome  
+   e.     Polyclonal B-cell expansion is a feature of Sjögren’s 
+syndrome     
+   5 .    Dry mouth:
+    a.     Caused by reduced salivary flow can be inferred 
+when the resting rate falls below 5  ml/min  
+   b.     Can be a feature of cystic fibrosis  
+   c    . Typically is associated with cervical or root caries  
+   d.     May be caused by anxiety  
+   e.     Is an uncommon unwanted effect of drug therapy     
+   6 .    Radiation effects on the salivary glands:
+    a.     Are more apparent in mucous acini than serous 
+acini  
+   b.     Some recovery is possible  
+   c.     Include fibrosis after high exposure  
+   d.     Can cause duct ectasia and squamous metaplasia  
+   e.     Include endarteritis obliterans     
+   7 .    Bilateral parotid swelling may be a feature of:
+    a.     Sarcoidosis  
+   b.     Warthin’s tumour  
+   c.     Primary Sjögren’s syndrome  
+   d.     HIV (human immunodeficiency virus) infection  
+   e.     Chronic lymphocytic leukaemia (CLL)     
+   8 .    Salivary calculi (sialoliths):
+    a.     Of very small size (microliths) are commonly 
+found in the major glands  
+   b.     Form around nanobacteria that infect the ducts  
+   c.     Can result in the submandibular saliva being 
+supersaturated with respect to calcium and 
+phosphate ions  
+   d.     May be forced into the submandibular gland from 
+the anterior duct during removal under local 
+anaesthesia  
+   e.     May not give rise to symptoms     
+   9 .    Pleomorphic salivary adenoma:
+    a.     Carcinoma arising in pleomorphic salivary 
+adenoma has a worse prognosis than 
+mucoepidermoid carcinoma  
+   b .    May contain myxoid and chondroid stroma  
+   c .    May contain plasmacytoid or spindle-shaped 
+myoepithelial cells  
+   d .    May arise in the maxillary sinus and nasal 
+septum  
+   e .    Shows marked nuclear and cellular 
+pleomorphism     
+   10 .    Mucous extravasation mucocoele:
+    a.     Most commonly occurs in the buccal mucosa  
+   b.     Has a granulation tissue capsule  
+   c.     Often contains foamy macrophages  
+   d.     May undergo spontaneous resolution  
+   e.     Tends to have a relapsing clinical course        
+  Extended matching items 
+  EMI 1. Theme: Salivary gland disorders 
+    Options: 
+    A     Mucous extravasation mucocoele  
+   B     Mucous retention mucocoele  
+   C     Heerfordt’s syndrome  
+   D     Warthin’s tumour  
+   E     Pleomorphic adenoma  
+   F     Facial nerve palsy due to perineural invasion  
+   G     Salivary lymphoepithelial lesion  
+   H     Sialosis  
+   I     Carcinoma in pleomorphic adenoma  
+   J     Mucoepidermoid carcinoma    
+    Lead in:   Match the case from the list below that is most 
+appropriate for each diagnosis above. 
+ Self-assessment: questions
+
+=== PDF PAGE 229 ===
+Thirteen: Salivary gland disease
+220
+    1 .    A 55-year-old woman presented to her dentist with 
+carious cavities that had occurred since her last 
+check-up. The patient had noticed that her mouth 
+was dry and on examination her parotid glands 
+were enlarged. At the dental hospital her consultant 
+performed a needle core biopsy, which was reported 
+as containing confluent sheets of non-caseating 
+granulomas. She was referred on to an ophthalamic 
+specialist who found that she had uveitis on slit-
+lamp examination.  
+   2 .    A long-standing tumour was removed from the 
+parotid gland. The pathologist reported that the 
+tumour was composed of sheets, strands and islands 
+of ductal cells separated by myxochondroid tumour. 
+Plasmacytoid myoepithelial cells were present in 
+some areas and islands of squamous cells were 
+also present. The tumour was enclosed by an intact 
+pseudo-capsule formed by compressed fibrous 
+tissue into which tumour pseudopodia extended.  
+   3 .    A 15-year-old girl presented with a relapsing 
+swelling on the lower labial mucosa. The pathologist 
+reported that the lesion was a cyst that was lined 
+internally by granulation tissue. The lumen 
+contained foamy macrophages.  
+   4 .    An elderly man presented with bilateral swellings 
+of the parotid gland. On ultrasound the tumours 
+were cystic and were up to 3  cm in diameter. A fine-
+needle aspirate showed lymphocytes and clusters 
+of oncocytes. Following the aspiration the gland 
+became painful but after 2 weeks the tumour had 
+reduced in size considerably.  
+   5 .    A 62-year-old woman developed a rapidly growing 
+swelling of the left parotid gland which was fixed 
+to skin. A biopsy was reported as showing multiple 
+patterns of carcinoma, including salivary duct 
+carcinoma. Hyaline and myxoid scar tissue was also 
+present.  
+   6 .    A 42-year-old woman presented with a parotid 
+tumour. A needle core biopsy showed a tumour 
+composed of cells with hyperchromatic, angular 
+nuclei and scant basophilic cytoplasm. The features 
+were those of adenoid cystic carcinoma. A worrying 
+sign of salivary malignancy was present.  
+   7 .    A 13-year-old boy presented with a swelling of the 
+right parotid gland that had steadily enlarged and 
+which had not improved after a course of antibiotics. 
+Ultrasound showed a fairly well circumscribed 
+cystic tumour which was removed. The pathologist 
+reported that the tumour contained goblet cells, 
+squamous cells, clear cells and ‘intermediate’ cells.  
+   8 .    An overweight 56-year-old man developed type II 
+diabetes. His parotid glands became enlarged over a 
+2-year period and he felt that his mouth was too full 
+of saliva. The dentist noticed that he had acid erosion 
+on the palatal surfaces of his upper anterior teeth.  
+   9 .    A 70-year-old patient who suffered from Sjogren’s 
+syndrome for many years experienced enlargement 
+of one of her parotid glands. A superficial 
+parotidectomy was performed and the pathologist 
+reported that the parotid parenchyma was expanded 
+by a lymphoid infiltrate and epi-myoepithelial 
+islands were present.  
+   10 .    A 15-year-old girl presented with a relapsing 
+swelling on the upper labial mucosa. The pathologist 
+reported that the lesion was a cyst that was lined 
+internally by ductal epithelium. The lumen was filled 
+with mucoid fluid and a small lamellated calculus 
+was present.    
+  EMI 2. Theme: Salivary gland disorders 
+    Options: 
+    A     Xerostomia  
+   B     Hypersalivation  
+   C     Cystic HIV salivary disease  
+   D     Canalicular adenoma  
+   E     Obstuctive sialadenitis  
+   F     Mumps  
+   G     Relapsing childhood parotitis  
+   H     Acute bacterial sialadenitis  
+   I     Ranula  
+   J     Sialoblastoma    
+    Lead in:   Match the case from the list below that is most 
+appropriate for each diagnosis above. 
+     1 .    A 21-week-old infant developed an enlarging mass 
+in her right parotid gland that encroached onto the 
+sternomastoid and elevated the ear.  
+   2 .    A dentist noticed that one of his 60-year-old patients 
+developed fresh carious lesions between each visit 
+and had recently developed cervical cavities in the 
+anterior incisor teeth.  
+   3 .    A 7-year-old boy experienced facial swelling and a 
+febrile illness. His mother described his face as ‘being 
+out like a box’ and thought that he had a dental 
+abscess.  
+   4 .    A 57-year-old patient developed a fluctuant swelling 
+in the floor of the mouth that was translucent on 
+transillumination.  
+   5 .    A 60-year-old man developed a cystic lump in the 
+submucosa of the upper lip. Smaller lumps were 
+found adjacent the main lesion and were removed.  
+   6 .    A 32-year-old man presented with pain and swelling 
+under the angle of the mandible at meal times. 
+Afterwards there was an unpleasant taste in the 
+mouth.  
+   7 .    A 78-year-old man complained of producing too 
+much saliva. It leaked onto his pillow and he was 
+constantly swallowing.  
+   8 .    A 28-year-old man developed gross bilateral 
+parotid swelling. On imaging he had multiple 
+cystic changes and a fine-needle aspirate showed 
+lymphoid cells.  
+   9 .    A 14-year-old girl presented with acute parotid 
+swelling and pain. She had experienced two previous 
+attacks, one on the other side.  
+   10 .    A 37-year-old man experienced pain and swelling 
+of his right parotid gland 2 days after blowing up a 
+balloon.      
+
+=== PDF PAGE 230 ===
+221
+  Case history questions 
+  Case history 1  
+     1 .    Which investigations are available to the oral and 
+maxillofacial surgeon for preoperative diagnosis of a 
+lump in the parotid gland?  
+  2 .    What is the rationale of undertaking a superficial 
+parotidectomy for this benign neoplasm?  
+  3 .    What are the key histopathological features of 
+pleomorphic salivary adenoma?  
+  4 .    Why is it advantageous to remove this benign 
+neoplasm as soon as practicable after diagnosis?     
+  Case history 2  
+     1 .    What is the most likely diagnosis?  
+  2 .    Sialography is avoided in children unless essential; 
+what features would be expected in a patient with this 
+disorder?  
+  3 .    How should the condition be managed?     
+  Case history 3  
+     1 .    Does the patient suffer from primary or secondary 
+Sjögren’s syndrome?  
+  2 .    What is the most likely cause of the recent parotid 
+swelling?  
+  3 .    How may this diagnosis be confirmed?     
+  Case history 4  
+     1 .    Which investigations on the swab should be 
+requested?  
+  2 .    Which bacterial agents are most likely to be involved?  
+  3 .    Which predisposing factors may be present?  
+  4 .    How should the case be managed?     
+  Case history 5  
+     1 .    What diagnosis is most likely?  
+  2 .    Which predisposing factors can be associated with this 
+disorder?  
+  3 .    What histopathological features are seen in this 
+condition?     
+  Case history 6  
+     1 .    What is the most likely diagnosis?  
+  2 .    Which features should be looked for particularly on 
+examination?  
+  3 .    How may imaging help to provide useful clinical 
+information?  
+  4 .    Which histopathological features might be expected in 
+the submandibular salivary gland?      
+  Viva questions 
+     1 .    Suggest some common causes of dry mouth  
+  2 .    What types of tumour commonly affect the salivary 
+glands?  
+  3 .    What are the possible causes of obstruction of the 
+submandibular salivary gland?  
+  4 .    What are the possible complications of the surgical 
+removal of a parotid salivary gland?  
+  5 .    What is a labial gland biopsy? How is it undertaken?       
+   A 24-year-old woman attended for dental care. She    A 24-year-old woman attended for dental care. She 
+mentioned that she had found a small lump just in front mentioned that she had found a small lump just in front 
+of her left ear. On examination there was a freely of her left ear. On examination there was a freely 
+moveable, rubbery nodule, 1  cm in diameter, just moveable, rubbery nodule, 1  cm in diameter, just 
+below and anterior to the tragus of the left ear. She below and anterior to the tragus of the left ear. She 
+was referred to an oral and maxillofacial surgeon who was referred to an oral and maxillofacial surgeon who 
+undertook some investigations and subsequently undertook some investigations and subsequently 
+performed a superficial parotidectomy. The performed a superficial parotidectomy. The 
+histopathologist reported the nodule as a pleomorphic histopathologist reported the nodule as a pleomorphic 
+salivary adenoma.salivary adenoma.
+   A 9-year-old boy presents with unilateral parotid swelling    A 9-year-old boy presents with unilateral parotid swelling 
+of a few days’ duration. He had suffered a previous of a few days’ duration. He had suffered a previous 
+similar episode, which was thought to be mumps similar episode, which was thought to be mumps 
+although not entirely typical. Antibiotic therapy was although not entirely typical. Antibiotic therapy was 
+prescribed and the swelling subsided within a few days. prescribed and the swelling subsided within a few days. 
+The symptoms recurred a few weeks later and again The symptoms recurred a few weeks later and again 
+after 3 months. His mother mentioned at that time that after 3 months. His mother mentioned at that time that 
+he occasionally made a ‘funny face’ by blowing out his he occasionally made a ‘funny face’ by blowing out his 
+cheeks.cheeks.
+   A 73-year-old woman with a long history of Sjögren’s    A 73-year-old woman with a long history of Sjögren’s 
+syndrome developed rapid enlargement of the left parotid syndrome developed rapid enlargement of the left parotid 
+gland. She suffered from rheumatoid arthritis. The swelling gland. She suffered from rheumatoid arthritis. The swelling 
+had been present for 5 weeks before she attended her had been present for 5 weeks before she attended her 
+dentist. On examination, the left parotid gland is enlarged dentist. On examination, the left parotid gland is enlarged 
+and feels both thickened and firm on bimanual palpation. and feels both thickened and firm on bimanual palpation. 
+Ipsilateral non-tender cervical lymph nodes are also Ipsilateral non-tender cervical lymph nodes are also 
+palpable.palpable.
+   A 38-year-old woman presents with swelling and pain for    A 38-year-old woman presents with swelling and pain for 
+3 days involving the left parotid gland. On examination, 3 days involving the left parotid gland. On examination, 
+the overlying skin appears erythematous and the gland is the overlying skin appears erythematous and the gland is 
+tender on palpation. A mucopurulent discharge from the tender on palpation. A mucopurulent discharge from the 
+left parotid duct is seen. A diagnosis of acute bacterial left parotid duct is seen. A diagnosis of acute bacterial 
+sialadenitis is made and a swab of the discharge was sent sialadenitis is made and a swab of the discharge was sent 
+to the microbiology department.to the microbiology department.
+   A 34-year-old man working as a chef complains that his    A 34-year-old man working as a chef complains that his 
+face is swollen at the angles of the jaw, making him look face is swollen at the angles of the jaw, making him look 
+like a hamster! He is obese and has recently been found to like a hamster! He is obese and has recently been found to 
+be diabetic. On examination, there is bilateral, symmetrical be diabetic. On examination, there is bilateral, symmetrical 
+enlargement of the parotid glands. They are not tender and enlargement of the parotid glands. They are not tender and 
+a copious flow of clear saliva could be obtained from the a copious flow of clear saliva could be obtained from the 
+ducts.ducts.
+   A 47-year-old man presents with intermittent pain and    A 47-year-old man presents with intermittent pain and 
+swelling in the left submandibular area for 4 months. swelling in the left submandibular area for 4 months. 
+Symptoms were worst just before eating and persisted Symptoms were worst just before eating and persisted 
+throughout the meal. He noticed an unpleasant taste throughout the meal. He noticed an unpleasant taste 
+in the mouth for some time after eating, as the swelling in the mouth for some time after eating, as the swelling 
+subsided.subsided.
+ Self-assessment: questions
+
+=== PDF PAGE 231 ===
+Thirteen: Salivary gland disease
+222
+  Multiple choice answers 
+     1 .     a.      False.  Mumps is caused by a paramyxovirus. It is 
+difficult to detect this directly but the virus can be 
+grown from throat swabs or saliva. Serology will 
+show a rise in antibody titre between acute and 
+convalescent specimens.  
+    b.      True.  Direct contact and droplet spread from 
+saliva are the principal routes of transmission. 
+Virus is present in saliva during the prodromal 
+phase and for about a week after resolution of the 
+sialadenitis.  
+    c.      True.  Orchitis is the most common manifestation. 
+It is thought to occur in about 20% of adult 
+mumps in males and has been linked to infertility. 
+Meningitis and meningoencephalitis are rare 
+complications.  
+    d.      True.  Bilateral parotitis is seen in around 70% of 
+cases. Submandibular glands are occasionally 
+involved also, resulting in a ‘box-like’ facies.  
+    e.      False.  Long-lasting immunity is generally 
+conferred and recurrent infection is extremely 
+rare.     
+  2 .     a.      False.  Mucous extravasation mucocoeles are 
+common in the lower lip, especially in the occlusal 
+plane, but are very rare in the upper lip.  
+    b.      True.  Mucous retention mucocoeles tend to 
+occur in the upper lip and buccal mucosa, most 
+commonly in older patients.  
+    c.      True.  Basal cell, trabecular and canalicular 
+adenomas are found in the upper lip. Some may 
+show cystic change and some are multifocal.  
+    d.      True.  The lips are richly vascular, and vascular 
+malformations are not uncommon in the 
+submucosa. They typically blanche on pressure 
+and may be pulsatile.  
+    e.      False.  Warthin’s tumour (adenolymphoma) is a 
+parotid lesion, though ectopic examples have been 
+described.     
+  3 .     a.      True.  Adenoid cystic carcinoma can arise in the 
+paranasal sinuses, including the maxillary sinus, 
+lacrimal gland, trachea and in more distant 
+glandular tissues.  
+    b.      False.  The word ‘adenoids’ is a lay term for 
+nasopharyngeal tonsillar tissue or thickened 
+nasal/antral mucosa.  
+    c.      True.  In a meta-analysis of survival data, survival 
+rates were quoted at approximately 75% at 5 years, 
+40% at 10 years and 15% at 20 years.  
+    d.      True.  Perineural invasion often leads to palsy, pain 
+or paraesthesia as presenting signs.  
+    e.      True.  The microcystic spaces impart the Swiss-
+cheese appearance. They contain ‘connective tissue 
+mucin’, which stains with Alcian blue. It includes 
+basement membrane constituents.     
+  4 .     a.      False.  Some textbooks do give this definition, but 
+most clinicians recognise that either dry mouth or 
+dry eyes with a connective tissue disorder can be 
+defined as secondary Sjögren’s syndrome.  
+    b.      False.  Scintiscanning can be used but uptake is 
+decreased.  
+    c.      True.  This is common.  
+    d.      False.  Antibodies against extractable nuclear 
+antigens are the most sensitive and specific 
+indicators, particularly SSA and SSB.  
+    e.      True.  Polyclonal B-cell expansion may result from 
+loss of T-cell regulation.     
+  5 .     a.      False.  The lower limit of normal resting salivary 
+flow is approximately 0.1  ml/min.  
+    b.      True.  Cystic fibrosis is a genetic disorder where 
+secretion is abnormal.  
+    c.      True.  Preventive advice should be given to those 
+with xerostomia as increased caries rates are seen.  
+    d.      True.  It is a consequence of adrenergic hormone 
+release.  
+    e.      False.  Unwanted effects of drug therapy are 
+one of the most common causes of dry mouth. 
+Patients must not be advised to discontinue their 
+medication but the responsible physician may be 
+contacted for advice.     
+  6 .     a.      False.  Both mucous and serous acini are equally 
+sensitive.  
+    b.      True.  Some recovery of function is possible after 
+low-dose irradiation.  
+    c.      True.  This can cause stricture of the duct.  
+    d.      True.  Particularly when head and neck cancers are 
+treated.  
+    e.      True.  This is proliferation of the intimal layer and 
+results in narrowing or obliteration of the vascular 
+lumen.     
+  7 .     a.      True.  Sarcoidosis is a multisystem chronic 
+granulomatous inflammatory disorder that can 
+involve the salivary glands and cause swelling 
+and dry mouth. Parotitis, facial palsy, uveitis in 
+sarcoidosis is known as Heerfordt syndrome.  
+    b.      True.  Up to 10% of Warthin’s tumour are bilateral 
+cases.  
+    c.      True.   
+    d.      True.  Bilateral lymphoepithelial cysts of the 
+parotid gland, Sjögren-like syndrome and 
+malignant lymphoma may occur.  
+    e.      True.  CLL may infiltrate any organ. Bilateral 
+parotid enlargement and dry mouth are rare 
+manifestations.     
+  8 .     a.      True.  Microcalculi are commonly seen 
+histologically.  
+    b.      False.  It has been claimed that renal calculi form 
+around ‘nanobacteria’ but even the existence of 
+these organisms is debatable.  
+   Self-assessment: answers  
+
+=== PDF PAGE 232 ===
+223
+    c.      True.  The saliva will be in dynamic equilibrium 
+with the calcium- and phosphate-containing 
+calculi.  
+    d.      True.  A suture may be placed to avoid this well-
+recognised hazard.  
+    e.      True.  Sometimes calculi are found incidentally 
+on routine examination. Treatment may not be 
+necessary.     
+   9 .     a.      True.  Carcinoma arising in pleomorphic adenoma 
+is a very aggressive neoplasm; mucoepidermoid 
+carcinoma has a range of clinical behaviour.  
+    b.      True.  Both loose (myxoid) tissue and cartilage-like 
+(chondroid) tissue can occur in the stroma.  
+    c.      True.  Plasmacytoid (hyaline) myoepithelial cells 
+are a key feature.  
+    d.      True.   
+    e.      False.  ‘Pleomorphic’ in pleomorphic salivary 
+adenoma refers to the variety of features which 
+may be encountered; it is cytologically bland.     
+  10 .     a.      False.  It is most common in the lower labial 
+mucosa.  
+    b.      True.  It occurs around saliva that leaks from a tear 
+in a salivary duct into connective tissue.  
+    c.      True.  They occur in cyst and fluid.  
+    d.      True.  However, they can relapse.  
+    e.      True.         
+  Extended matching items answers 
+  EMI 1 
+      1 .     C.  Sarcoidosis is a chronic granulomatous condition 
+that may affect the parotid and cause uveitis. Facial 
+nerve palsy and fever may be present. This is 
+Heerfordt’s syndrome (uveo-parotid fever).  
+   2 .     E.  Pleomorphic adenoma is sometimes referred to 
+as ‘mixed tumour’ because the neoplasms contain 
+both epithelial ductal and myxochondroid stromal 
+elements. The hyaline plasmacytoid myoepithelial cell 
+is a characteristic feature.  
+   3 .    A. Mucous extravasation mucocoele is most common 
+on the lower lip. The duct of a minor salivary 
+gland is ruptured by trauma. Saliva leaks out and 
+granulation tissue walls this off forming a cyst. Foamy 
+macrophages are commonly present.  
+   4 .    D. Warthin’s tumours are benign and typically 
+present in the parotid gland. There is a strong link 
+with smoking and 10% are bilateral.  
+   5 .    I. Carcinoma can arise from pleomorphic adenoma, 
+usually after several years. Multiple patterns of 
+carcinoma are suggestive of this diagnosis. Often a 
+‘ghost’ or scarred remnant of the original pleomorphic 
+adenoma can be found embedded in the tumour.  
+   6 .    F. Facial nerve palsy is a sign of malignancy when a 
+salivary tumour is present in the parotid gland.  
+   7 .    J. Mucoepidermoid carcinoma tends to occur in a 
+younger age group than other salivary cancers. The 
+features in this case suggest a low-grade carcinoma. 
+High-grade mucoepidermoid carcinoma is more 
+infiltrative and tends to be solid.  
+   8 .    H. Sialosis is caused by salivary acinar hyperplasia 
+and is known to occur in a variety of disorders 
+including diabetes, alcoholism, sympathomimetic 
+drug use, obesity and endocrine disorders. The acid 
+erosion of the palatal enamel suggests bulimia which 
+is also a cause of sialosis.  
+   9 .    G. Sjogren syndrome is an autoimmune condition 
+in which B cells accumulate in the salivary tissue. 
+As the condition advances the salivary acini are 
+destroyed, the ducts form epimyoepithelial islands 
+and lymphoid cells accumulate. This lesion is termed 
+a salivary lymphoepithelial lesion (SLEL). It is known 
+that SLEL can progress to malignant lymphoma.  
+  10 .    B. Mucous retention mucocoele is less common that 
+extravasation cyst and tends to occur in the upper lip. 
+The duct is blocked, sometimes by calculus and the 
+duct expands to produce an epithelial lined cyst.     
+  EMI 2 
+      1 .    J. Sialoblastoma is a rare salivary tumour that 
+presents in the neonatal period.  
+   2 .    A. Caries is a feature of xerostomia (dry mouth) due 
+to loss of buffering power and the protective effect of 
+saliva on enamel. Patients sometimes do not complain 
+of dry mouth clinically even when it is severe. 
+Xerostomia is a common unwanted effect of drugs, 
+but may also be caused by underlying diseases such 
+as Sjogren syndrome.  
+   3 .    F. Mumps virus causes swelling of the parotid and 
+submandibular glands. Unilateral disease can be 
+confused with dental abscess when carious teeth are 
+present.  
+   4 .    I. The term ranula is used to describe a mucous 
+extravasation mucocoele arising from the main 
+submandibular duct.  
+   5 .    D. Canalicular adenoma is a salivary neoplasm 
+typically found in the upper lip. It shows a loose 
+structure with beading of the tumour cell strands. 
+Multiple tumours may be present.  
+   6 .    E. Obstructive sialadenitis is most commonly seen in 
+the submandibular gland but the parotid may also be 
+affected. Calculus forms in the main duct and chronic 
+infection may contribute to progressive fibrosis and 
+loss of functional elements.  
+   7 .    B. Hypersalivation (ptyalism) is a sensation of 
+producing too much saliva. Many patients with 
+this complaint have normal flow rates on testing. 
+Sometimes the condition is due to drooling because of 
+loss of muscle action and surgery can help.  
+   8 .    C. Bilateral multicystic salivary disease is a recognised 
+manifestation of HIV infection.  
+   9 .    G. Relapsing childhood parotitis is an unusual 
+condition characterised by duct ectasia. Acute 
+episodes are managed by antibiotic therapy, warm 
+mouthrinses and gentle massage. The condition often 
+resolves after puberty.  
+  10 .    H. Acute parotitis is caused by oral bacteria that 
+ascend the parotid duct. The gland should be gently 
+pressed and mucopurulent saliva from the parotid 
+ Self-assessment: answers
+
+=== PDF PAGE 233 ===
+Thirteen: Salivary gland disease
+224
+papilla sampled for microbial analysis. Broad 
+spectrum antibiotics may be useful in combination 
+with gentle massage and mouthrinses.      
+  Case history answers 
+  Case history 1 
+     1 .    History and clinical examination including palpation 
+of the swelling are most informative. Ultrasound, 
+sialography, computed tomography, magnetic 
+resonance imaging and positron emission tomography 
+are useful imaging modalities. Fine-needle aspiration 
+biopsy (FNAB) or narrow-cutting core biopsy can 
+be used for pathological diagnosis. Final tumour 
+diagnosis is sometimes made after excision biopsy.  
+  2 .    Pleomorphic salivary adenoma cells tend to extend 
+into the capsule surrounding the tumour and 
+enucleation may be followed by multifocal recurrence. 
+Extracapsular dissection, superficial parotidectomy or 
+other procedures aim to remove the adenoma with a 
+margin of normal tissue to avoid this problem.  
+  3 .    Key histopathological features are sheets, strands 
+and islands of ductal epithelial and myoepithelial 
+cells; myxoid or chondroid stroma; plasmacytoid 
+(hyaline) myoepithelial cells; cytological blandness; 
+extracapsular extension; and variability in appearance.  
+  4 .    Early removal of pleomorphic adenoma is advised 
+(a) to reduce morbidity; (b) to avoid the risk of 
+malignant transformation; and (c) to allow thorough 
+histopathological sampling for diagnosis.     
+  Case history 2 
+     1 .    The most likely diagnosis is recurrent childhood 
+sialadenitis.  
+  2 .    Childhood sialadenitis is characterised by main duct 
+ectasia and strictures with destruction of secretory tissue.  
+  3 .    Acute episodes of infection may necessitate antibiotic 
+therapy; gentle external massage may help to 
+encourage salivary flow. Habits such as inflating the 
+cheeks should be discouraged, as infection arises from 
+bacteria ascending the ducts.     
+  Case history 3 
+     1 .    Secondary Sjögren’s syndrome; around 10% of patients 
+with rheumatoid arthritis have been estimated to have 
+Sjögren’s syndrome.  
+  2 .    Malignant lymphoma. There is a progression from 
+B-cell infiltration, through lymphoepithelial lesion to 
+malignant lymphoma in some cases. Low-grade B-cell 
+lymphoma is the most common type. Acute infection 
+or obstruction may also cause sudden swelling of the 
+parotid gland.  
+  3 .    Imaging studies may reveal a space-occupying mass but 
+biopsy is needed if malignant lymphoma is suspected.     
+  Case history 4 
+     1 .    Culture and sensitivity.  
+  2 .     Streptococcus pyogenes, Staphylococcus aureus, Haemophilus  
+species and other normal oral flora may be isolated.  
+  3 .    Reduced salivary flow such as in chronic sialadenitis, 
+HIV infection, Sjögren’s syndrome, obstructive disease, 
+postirradiation changes and side effects of drugs.  
+  4 .    Antibiotic therapy should follow current guidelines, 
+such as those in the British National Formulary, 
+taking into account the microbiology findings. 
+Patients should be advised to avoid applying heat to 
+the gland and should gently massage the gland by 
+placing two fingers over the angle of the mandible 
+and gently moving upwards and forwards. Warm 
+salt mouthrinses may also help. Review should be 
+arranged and proper assessment undertaken when the 
+acute symptoms have subsided.     
+  Case history 5 
+     1 .    Sialosis (acinar hypertrophy).  
+  2 .    Drugs, alcoholism, diabetes, liver cirrhosis, metabolic 
+and hormonal disturbances, bulimia.  
+  3 .    Enlargement of secretory acinar cells with cytoplasm 
+packed with zymogen granules.     
+  Case history 6 
+     1 .    Obstructive sialadenitis owing to calculus formation. 
+Other causes of obstruction should also be 
+considered.  
+  2 .    Calculus in the submandibular duct may be visible 
+but is more often detected by bimanual palpation. The 
+floor of mouth may be dried with gauze and salivary 
+flow observed from the duct orifice. A sialogogue, 
+such as chewing a citric acid tablet, may reproduce the 
+signs and symptoms. Turbid saliva suggests infection 
+and should be sampled for microbiological analysis.  
+  3 .    Occlusal radiography with exposure adjustment 
+for soft tissue may reveal radio-opaque calculus 
+in the submandibular duct. The second imaging 
+investigation is sialography, which sometimes 
+dislodges the calculus.  
+  4 .    Obstructed glands may recover following removal of 
+calculus. In chronic obstructive sialadenitis, it may 
+be necessary to remove the submandibular gland. 
+Principal histopathological features are duct ectasia 
+with mucous metaplasia, inter- and intralobular 
+fibrosis, acinar atrophy, acinar loss and chronic 
+inflammatory infiltration. Intraglandular calculus may 
+form.      
+  Viva answers 
+     1 .    Unwanted effects of drugs, Sjögren’s syndrome, 
+anxiety, mouth breathing, dehydration, uncontrolled 
+diabetes mellitus, and generalised chronic 
+inflammatory or neoplastic disorders.  
+  2 .    Pleomorphic adenoma is the most common 
+tumour; other less-rare types are Warthin’s tumour, 
+adenoid cystic carcinoma, acinic-cell carcinoma and 
+mucoepidermoid carcinoma.  
+  3 .    These can be classified as extraductal (e.g. pressure 
+from an adjacent tumour or displaced anatomical 
+structure), ductal (e.g. fibrous stricture of the duct 
+wall) and intraductal (e.g. calculus, mucous plug).  
+
+=== PDF PAGE 234 ===
+225
+  4 .    Facial nerve weakness or palsy, loss of sensation of the 
+ear, Frey’s syndrome (gustatory sweating), salivary 
+fistula and cosmetic defect.  
+  5 .    Labial gland biopsy is taken to provide a sample for 
+histological assessment of salivary tissue, avoiding 
+parotid biopsy. It is used most often as a diagnostic 
+procedure in Sjögren’s syndrome. Under local 
+anaesthesia, a 1  cm vertical or horizontal incision is 
+made in the lower labial mucosa, and 10–12 lobules 
+removed. There must be no disease in the overlying 
+mucosa. Care must be taken to avoid damage to the 
+labial neurovascular bundles.                             
+ Self-assessment: answers
+
+=== PDF PAGE 235 ===
+This page intentionally left blank
+
+=== PDF PAGE 236 ===
+B978-0-443-06896-6.00014-X, 00014
+227
+Chapter
+          14.1      Assessment of a patient suffering from 
+orofacial pain    227
+   14.2      The neuralgias    228
+   14.3      Pain of vascular origin    230
+   14.4      Atypical orofacial pain    231
+   14.5      Burning mouth syndrome    231
+     Self-assessment: questions   233
+     Self-assessment: answers     236
+ Overview 
+     This chapter focuses on the common and significant causes 
+of orofacial pain excluding those related to dental and peri-
+odontal pathology. For many patients orofacial pain is the 
+stimulus to seek dental care, thus the treatment of patients 
+in pain is, unfortunately, going to form a significant part of 
+your practice. In terms of orofacial pain, the basis of accurate 
+diagnosis and appropriate treatment is the information that is 
+obtained from the patient. Consequently, history-taking skills 
+need to be utilised to their best effect.  
+   14.1     Assessment of a patient 
+suffering from orofacial pain 
+       Learning objectives  
+     You should:
+       know how to take an informative history  
+      know what examination to undertake.         
+   Assessment of orofacial pain requires eliciting as much 
+information from the patient as possible. The basic infor-
+mation you need must include:
+       the nature of the pain: encourage the patient to 
+describe the pain in their own words by the use of 
+open questions rather than supplying them with a list 
+of descriptors of pain from which to select; the latter 
+can be useful if a patient is finding it particularly 
+difficult to describe their pain  
+      when the pain first began  
+      the duration of each episode of pain  
+      the frequency of the painful episodes: how often do 
+episodes of pain occur; what is the longest and shortest 
+time the patient has been symptom free  
+      the site(s) affected: ask the patient to point to the 
+source of the pain and/or outline the area affected by 
+it; does the pain radiate to other areas? Is it confined 
+•
+•
+●
+●
+●
+●
+●
+to the distribution of a particular nerve(s) or does it 
+cross anatomical boundaries, for example the midline?  
+      initiating factors: anything that the patient remembers 
+occurring immediately before or at the same time as 
+the start of their symptoms  
+      precipitating factors: anything which now seems to 
+induce the patient’s symptoms  
+      exacerbating factors: anything which makes the 
+patient’s symptoms worse  
+      ameliorating factors: anything which relieves, either 
+partially or totally, the patient’s symptoms  
+      associated signs and symptoms  
+      previous investigations  
+      previous treatment  
+      relevant medical/dental/social/family history.    
+   Much of this information will emerge naturally, in most 
+cases, by simply asking the patient to tell you about their 
+pain. Verbal and non-verbal communication skills should 
+be used to encourage the patient to tell their story in a way 
+that is mutually beneficial. At the end of the consultation, 
+the patient should feel that they have been able to impart 
+information that they felt was relevant and the dentist 
+should have guided them through this process to yield up 
+the information required to reach a differential diagnosis. 
+   A thorough extra-oral (including the temporomandibu-
+lar joint and muscles of mastication) and intra-oral exam-
+ination (see  Ch. 2 ) is obviously mandatory. Additional 
+components of the examination procedure may be required 
+depending on the differential diagnosis, for example 
+assessment of cranial nerve function in patients presenting 
+with symptoms of trigeminal neuralgia. The differential 
+diagnosis will be based on a combination of the outcome 
+of the examination and history. The special investigations 
+that are carried out (these may not always be necessary) 
+will be aimed at clarifying the differential diagnosis and 
+should be carefully tailored to fulfil this purpose, not used 
+as a general screening procedure. 
+   While this chapter will not be considering those diseases 
+of the teeth and their supporting structures that give rise to 
+orofacial pain, it is important to stress that dentists need to 
+be particularly skilled in excluding such structures as the 
+source of the patient’s pain. The principal causes of pain aris-
+ing from the teeth and their supporting structures are listed 
+below, with reference to the appropriate sections of this 
+book and its companion volume ( Master Dentistry,  Vol. 2, 
+ Restorative and Paediatric Dentistry,   edited by Heasman). 
+You must know the signs of symptoms of these conditions 
+and apply this knowledge when reaching a differential 
+diagnosis in the case of a patient with orofacial pain.
+●
+●
+●
+●
+●
+●
+●
+●
+ Facial pain
+14
+
+=== PDF PAGE 237 ===
+Fourteen: Facial pain
+228
+       Dentine sensitivity (Vol. 2)  
+      Pulpitis ( Ch. 5 , this volume)  
+      Periapical periodontitis     
+      Periodontal abscess ( Ch. 5 , this volume).     
+  14.2     The neuralgias 
+       Learning objectives  
+     You should:
+       know the typical clinical presentations of the various 
+neuralgias  
+      know any special investigations  
+      understand the management options.         
+   Trigeminal neuralgia 
+   The majority of cases (> 85%) of trigeminal neuralgia are of 
+classic type (CTN). Compression of the trigeminal nerve in 
+the region of the dorsal root entry zone (DREZ) by a blood 
+vessel has emerged as the leading cause of CTN. 
+   Clinical presentation 
+    Sex . More common in females than males. 
+    Age . Predominantly affects individuals over the age 
+of 50 years. This is highly significant, as its presence in 
+younger individuals is suggestive of multiple sclerosis. 
+    Nature . A sharp, stabbing, episodic, electric shock-like 
+pain. Often the pain is so intense that the patient has to 
+stop what they are doing. 
+    Duration . Usually of seconds duration. Occasionally a 
+dull pain persists in the background after the sharp pain 
+has resolved. In severe cases, the episodes of pain may 
+be so close together that they seem continuous, but this is 
+unusual. Spontaneous remission of symptoms can occur, 
+but both this and their recurrence are unpredictable. 
+    Site . The pain is localised to one or more divisions 
+of the trigeminal nerve, most commonly the second and 
+third division. The patient outlines the distribution of the 
+appropriate division(s) when asked to indicate the area 
+affected by the pain. The pain does not usually cross the 
+midline. 
+    Initiating factors . The pain is induced when a particular 
+area of the skin or mucosa is stimulated, the so-called ‘trig-
+ger zone’. For example, washing the face, shaving, putting 
+on make-up, eating, speaking and exposure to cold may 
+all induce pain. 
+    Associated signs and symptoms . The absence of associated 
+signs and symptoms of sensory or motor deficit is impor-
+tant. Neurological assessment is mandatory to ensure that 
+the symptoms of trigeminal neuralgia are not the result of 
+a lesion (neoplastic or non-neoplastic) within the posterior 
+cranial fossa. The patient’s medical history may already 
+have revealed the existence of such a lesion or the pres-
+ence of multiple sclerosis.  
+   Special investigations 
+   Magnetic resonance imaging (MRI) is now considered 
+mandatory. In many cases it demonstrates the intimate, 
+potentially causative, relationship between the trigemi-
+nal root and an adjacent blood vessel. MRI is of particular 
+●
+●
+●
+●
+•
+•
+•
+value in excluding posterior cranial fossa lesions and, to 
+some extent, multiple sclerosis.  
+   Medical management 
+   The therapy of choice is carbamazepine. Reduction or 
+complete resolution of symptoms following its use is con-
+sidered to be virtually diagnostic of trigeminal neuralgia. 
+However, it should be prescribed cautiously, starting at a 
+dose of 100  mg twice or three times daily and increasing 
+slowly until the patient’s symptoms are controlled. This 
+is usually achieved at between 200 and 400  mg three times 
+daily. Gradual increase in dosage is important as elderly 
+patients are particularly susceptible to carbamazepine’s 
+many side-effects. Some of these, for example nausea, 
+ataxia and dizziness, make taking carbamazepine com-
+pletely unpalatable to the patient or significantly limit its 
+dose. Others, including leukopenia and skin reactions, 
+necessitate its withdrawal; patients should be informed of 
+the signs and symptoms of these conditions when the drug 
+is prescribed. Full blood count, liver and renal function tests 
+should ideally be carried out prior to its prescription and 
+at regular intervals during at least the first months of treat-
+ment. If withdrawal of carbamazepine proves to be nec-
+essary, oxcarbazepine or gabapentin provide alternatives. 
+Should the dose of carbamazepine be limited the skeletal 
+muscle relaxant baclofen or the anti-epileptic lamotrigine 
+may be added.  
+   Surgical management 
+   Although the evidence base for surgical interventions is 
+weak, microvascular decompression (MVD) appears to 
+have the best outcome and is emerging as the preferred 
+option in those patients who are fit for open surgery. In 
+this procedure the offending blood vessel is lifted away 
+from the trigeminal root and permanently repositioned. 
+In comparison to peripheral destructive procedures such 
+as neurectomy or central destructive procedures such as 
+percutaneous radiofrequency thermocoagulation, MVD 
+has a low rate of complications. It is, however, impor-
+tant that MVD is performed sooner rather than later as 
+success declines with duration of trigeminal neuralgia 
+symptoms. This is leading to a change in approach with 
+clinicians raising the awareness of patients to the possi-
+bility of surgical intervention much earlier in the med-
+ical treatment phase rather than as a last resort. Other 
+central procedures include retrogasserian glycerol injec-
+tion and gamma knife stereotactic surgery. These have 
+largely replaced peripheral procedures although local 
+anaesthetic injected into the trigger zone will provide 
+temporary relief of symptoms (bupivacaine has a lon-
+ger duration of action) and is useful in confirming the 
+diagnosis.   
+   Glossopharyngeal neuralgia 
+   Glossopharyngeal neuralgia is an extremely uncommon 
+condition. 
+   Clinical presentation 
+    Nature . There is sharp, stabbing, episodic, electric shock-
+like pain. Pain may be so severe that the patient tries to 
+keep their tongue still and avoids swallowing. 

@@ -1,0 +1,2235 @@
+=== PDF PAGE 261 ===
+Sixteen: Radiation protection
+252
+  16.2     Radiation protection 
+       Learning objectives  
+     You should:
+       know when radiography is justified and which views to 
+use  
+      know how to limit dosage to patients and staff  
+      be able to use the equipment in a manner most likely to 
+ensure useable radiographs are produced  
+      understand the administrative requirements for different 
+members of a dental team.         
+   The aim of radiation protection is to ensure all expo-
+sures are kept as low as reasonably achievable (ALARA 
+principle).  
+   Protection of patients 
+   In dental radiography, protection of patients is achieved 
+by three main means:
+      justification  
+     dose limitation  
+     quality assurance.    
+•
+•
+•
+•
+●
+●
+●
+ Fig. 196    An X-ray tube insert from a dental X-ray set (A) and a diagram (B) showing the structure and the direction of electron flow (arrow).    
+A
+� �
+��������
+������
+��������
+��������
+������ �������������
+�����������������������������������
+�������������������
+���
+�������������������
+ Fig. 197    The effect of filtration on the X-ray beam. Low-energy photons 
+predominate in the unfiltered spectrum. Filtration removes proportionately 
+more of these ‘weak X-rays’, resulting in a filtered beam with a higher 
+mean energy at the expense of a loss of intensity.    
+ Fig. 198    An X-ray set with rectangular collimation. This beam restriction 
+method results in a dose reduction to patients of about 65% compared 
+with conventional 6-cm-diameter round beams.    
+ Table 17    Estimates of dose and risk in dental radiography    
+Technique
+Effective dose 
+(microsieverts)
+Risk of cancer 
+(per million)
+Intra-oral (bitewing, 
+periapical)
+2–10 0.06–0.7
+Panoramic 7–26 0.21–1.9
+Lateral cephalogram 3 0.06–0.1
+Cone beam CT scan * 50–100 < 50
+Computed 
+tomographic scan 
+of mandible for 
+implantology
+480–3300 24–242
+      These risks are calculated for a 30-year-old adult. Risks for children are two to 
+three times greater, while for older patients risk falls until, at 80 years, they are 
+virtually negligible.  
+  *  Doses for full field view.   
+
+=== PDF PAGE 262 ===
+Sixteen
+253
+   Justification 
+   There is a legal requirement that no radiological exam-
+ination should be used unless there is likely to be a 
+benefit in terms of improved prognosis or management of 
+the patient. 
+   This implies that no X-ray examination is ever ‘routine’ 
+and that radiographic ‘screening’ is unacceptable. Instead, 
+radiographs should be prescribed according the clinical 
+needs of the patient. 
+   Selection of bitewing radiographs 
+   The nearest we come to ‘routine’ radiography in dentistry 
+is with the bitewing radiograph. For dentate patients who 
+are new to the practice (and partially dentate patients where 
+films can be supported in the mouth), most authorities agree 
+that a posterior bitewing examination is justified. Thereafter, 
+the intervals between bitewing examinations should be 
+determined by assessment of caries risk ( Table 18   ). 
+   Obviously bitewing frequency for an individual patient 
+may change if the patient changes caries risk category. 
+   If the dentist feels that a radiographic examination is 
+of help in assessment of bone loss in periodontal disease, 
+then bitewing radiographs will provide the necessary 
+information in the premolar and molar regions, providing 
+geometrically accurate images. Where periodontal probing 
+depths exceed 5  mm, then vertical bitewing radiographs 
+are appropriate.  
+   Selection of periapical radiographs 
+   Periapical radiographs are indicated in the following 
+situations:
+   1 .    When dictated by localised symptoms/signs (pain, 
+swelling and tenderness of a tooth).  
+  2 .    Prior to the extraction of third molars, lone-
+standing upper molars or where there is reasonable 
+clinical suspicion that problems may arise. The 
+fashion of routine pre-extraction radiographs has 
+arisen in the absence of any scientific evidence of 
+benefit.  
+  3 .    Prior to preparation of a tooth for a crown or bridge 
+retainer.  
+  4 .    In endodontics, where basic guidelines suggest 
+radiograph(s) at the following stages:
+    a.     preoperative  
+   b    . working length estimation  
+   c    . master cone position (precondensation)  
+   d    . postcondensation  
+   e    . At 1 year after treatment completion.     
+  5 .    Dental trauma.    
+   This list is not exhaustive. Where there is any localised 
+dental or alveolar problem, a periapical radiograph may 
+be appropriate.  
+   Selection of panoramic radiographs 
+   In terms of image quality, panoramic radiography is infe-
+rior to good intra-oral radiographs. Consequently, for 
+most dental diagnostic uses it is a ‘second best’ imag-
+ing technique. Possible situations where it may be useful 
+include:
+      where a bony lesion or unerupted tooth is of a size or 
+position that precludes its complete demonstration on 
+intra-oral radiographs  
+     in orthodontic assessment when clinically indicated 
+(no ‘screening’)  
+     preoperative assessment of third molars, unless other 
+adequate radiographs are available  
+     when mandibular fracture is suspected.    
+   Routine ‘screening’ of all new patients is never justifi-
+able; research has shown that the majority of patients who 
+receive a ‘screening’ panoramic radiograph receive no 
+diagnostic benefit from the examination.   
+   Dose limitation 
+   Doses in dental radiography can be minimised by 
+considering:
+      kilovoltage: for intra-oral radiography a minimum of 
+50  kV is set and 65–70  kV is recommended  
+     AC/DC generation of X-rays: ‘DC’ (constant potential) 
+generators lead to fewer low-energy (dose-producing) 
+X-ray photons  
+     filtration: aluminium filters absorb low-energy X-ray 
+photons  
+     collimation: on intra-oral X-ray sets, the beam can be 
+restricted to a rectangle of 4  cm by 3  cm, leading to a 
+substantial dose reduction over the conventional 
+6-cm-diameter round beam; all new equipment should 
+be fitted with rectangular collimation and it should 
+be retro-fitted on older equipment; on panoramic 
+machines, selective field size collimation facilities may 
+be available  
+     image receptor speed:
+      E-speed film needs approximately half the X-ray 
+exposure of D-speed film, with no loss of diagnostic 
+quality  
+     F-speed films are now available that offer a further 
+20% reduction in exposure  
+     digital systems may offer some reduction in exposure 
+time (and hence dose) compared with film  
+     rare-earth film/screen combinations in cassettes 
+give significant dose reduction compared with 
+calcium tungstate combinations; a combination of 
+ISO speed 400 or better is used. Digital systems for 
+extra-oral radiography offer limited, if any, dose 
+reduction compared with fast rare-earth film/screen 
+combinations     
+     lead shielding of patients: the only requirement to 
+use a lead apron is when a pregnant woman is being 
+examined using a technique involving a beam that 
+would pass through the fetus. Thyroid shielding 
+can be used if that organ lies in the primary beam of 
+X-rays.     
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+Radiation protection
+ Table 18    Intervals between bitewing examinations indicated by 
+caries risk Interval (months) by caries risk category      
+ Low Moderate High
+Child 12–18 12 6
+Adult 24 or greater 12 6
+
+=== PDF PAGE 263 ===
+Sixteen: Radiation protection
+254
+   Quality assurance 
+   A poor-quality image means that the patient receives 
+reduced, or no, benefit from the risk of the X-ray exami-
+nation. Even in the best hands, radiographs may be pro-
+duced that are ‘rejects’. A quality standard of no greater than 
+10% of radiographs being non-diagnostic has been set for 
+general dental practice. Good quality of radiographs can be 
+addressed by attention to all of the criteria listed in  Table 19   . 
+   A quality assurance programme of regular checks, 
+cleaning and servicing should be established to maintain 
+high standards and to fulfil the legal requirement.   
+   Protection for staff 
+   While practitioners rightly consider the well-being of 
+patients first, dental staff should not be ignored. Dentists 
+and ancillary staff may be exposed many times each day to 
+X-rays if staff protection is not ensured. The following are 
+the important considerations. 
+    Position 
+   For intra-oral radiography, nobody except the patient 
+should be within the controlled area ( Fig. 199   ) unless spe-
+cific guidance has been received from a medical physics 
+expert/radiation protection adviser. This controlled area 
+has a strict definition; however, safety should be adequate 
+outside an area of radius 2  m centred on the patient and, for 
+intra-oral radiography, never in line of the primary beam.  
+   Workload 
+   While it is probably impossible for a member of dental 
+staff to receive a dose approaching the limits set by law 
+for workers, radiation dose monitoring has been recom-
+mended for anyone taking more than 100 intra-oral or 50 
+panoramic radiographs per week.  
+   Local rules 
+   Every dental practice has to have a set of local rules for 
+radiation safety. By reading these and adhering to them, 
+radiation safety of staff should be assured.  
+   ‘Good practice’ guidelines 
+   Guidelines on the safe use of radiation are produced by the 
+UK Department of Health.    
+   Administration of radiation protection 
+   The process of radiology in medicine/dentistry is divided 
+into specific ‘roles’. 
+    Employer (legal person) 
+   The employer (e.g. NHS Trust, Health Authority, princi-
+pal in general dental practice) has legal responsibility to 
+ensure that regulations are followed. The employer must 
+ensure that referrers have written guidance (referral/selec-
+tion criteria) on referral of patients for X-ray examination.  
+   Referrer 
+   The referrer is a registered medical/dental practitioner. 
+The duty of the referrer is to supply adequate clinical 
+� ���
+�������
+����
+���������
+ Fig. 199    The ‘controlled area’. The primary beam would be unacceptably 
+intense for many metres and we rely on walls to attenuate the X-ray beam 
+to an acceptable level. While this diagram is two-dimensional, remember 
+that the controlled area extends above and below the patient and X-ray 
+set. Ceiling and floor materials may not provide an adequate barrier to 
+limit the controlled area.    
+Area Improving methods
+Radiographic technique Use of film-holding/beam-aiming 
+devices for intra-oral radiography
+Careful positioning for panoramic 
+radiography
+Careful selection and instruction 
+of patients
+X-ray set Regular maintenance and 
+servicing, as recommended by 
+the manufacturer
+Triennial survey of radiation safety 
+by appropriately trained person
+Film and cassettes Use film before expiry date; store 
+in cool dry conditions, handle 
+with care
+Ensure cassettes are light tight 
+and that intensifying screens are 
+cleaned
+Darkroom Must be light tight and have 
+correct safelights
+ Clean work surfaces
+Manual processing Use a thermometer and timer and 
+use time/temperature processing
+Fix and wash films adequately
+Change chemicals as advised by 
+manufacturer
+Automatic processing Clean and service regularly
+Change chemicals as advised by 
+manufacturer
+After-care Mount, name and date 
+radiographs
+  Viewing box essential: magnification extremely valuable for intra-oral 
+radiographs.  
+ Table 19    Methods of assuring good-quality radiographs       
+
+=== PDF PAGE 264 ===
+Sixteen
+255
+information to allow the practitioner to justify the 
+ examination. In general practice, the referrer is the 
+dentist.  
+   Practitioner 
+   The practitioner is an individual who is qualified to justify 
+radiological examinations. In hospitals, this is the radiol-
+ogist or, depending on local arrangements, the radiogra-
+pher. In general dental practice, it is the dentist.  
+   Operator 
+   The operator is the person who carries out the radiological 
+examination. In hospitals this is the radiographer. In gen-
+eral dental practice, it is the dentist or a  suitably qualified  
+therapist, hygienist or dental nurse.  
+   Radiation Protection Supervisor 
+   The Radiation Protection Supervisor is an individual 
+who takes the role of checking that legal requirements 
+and ‘good practice’ are being followed. In general dental 
+practice, this is usually a dentist.  
+   Radiation Protection Adviser 
+   All facilities, including general dental practices, must 
+appoint a Radiation Protection Adviser. This is a medical 
+physicist who provides expert support in ensuring that 
+regulations are followed and good practice is maintained. 
+         16.3 Further reading  
+ You are recommended to read the following to supple-
+ment this chapter: 
+   European Commission      2004     Radiation Protection No 136   
+   European Guidelines on Radiation Protection in Dental 
+Radiology   .   Luxembourg  :   Office for Official Publications 
+of the European Communities   (   http://ec.europa.
+eu/energy/nuclear/radioprotection/publication/doc/136_en.pdf   )   
+   National Radiological Protection Board (NRPB) and Royal College of 
+Radiologists      1994      Guidelines on Radiology Standards for Primary Dental 
+Care   .   Documents of the NRPB     Vol 5     (3)  .   London  :   NRPB  
+   National Radiological Protection Board      2001     Guidance notes for dental 
+practitioners on the safe use of X-ray equipment  .   London  :   Department 
+of Health   (   http://www.hpa.org.uk/radiation/publications/misc_
+publications/dental_guidance_notes.pdf   )   
+    Pendlebury     ME   ,    Horner     K   ,    Eaton     KA       2004      Selection Criteria for Dental 
+Radiography   ,   2nd edition  .   London  :   Faculty of General Dental 
+Practitioners (UK), Royal College of Surgeons of England    
+Further reading
+
+=== PDF PAGE 265 ===
+Sixteen: Radiation protection
+256
+     1 .    The following are ionising radiation:
+    a.     X-rays  
+   b .    Radiowaves  
+   c .    Microwaves  
+   d .    Gamma rays  
+   e .    Cosmic rays     
+   2 .    The following are everyday risks to patients in dental 
+radiography:
+    a .    Deterministic effects  
+   b .    Somatic stochastic effects  
+   c .    Genetic stochastic effects  
+   d .    Salivary gland cancer  
+   e .    Cataract formation     
+   3 .    The dose of radiation from a panoramic radiograph is:
+    a .    About the same as 1 to 4 days of background 
+radiation  
+   b .    Much less than the dose from a chest radiograph  
+   c .    Equivalent to that from a set of posterior bitewing 
+radiographs  
+   d .    Always 7–26   µ Sv (microsieverts)  
+   e .    Associated with a risk of cancer typically higher 
+than that from a lateral cephalogram     
+   4 .    A lower radiation dose for a periapical radiograph can 
+be achieved by:
+    a .    Using a 50  kV X-ray set rather than a 70  kV X-ray set  
+   b .    Using a constant potential (DC) X-ray set rather 
+than a pulsating potential (AC) X-ray set  
+   c .    Using a lead apron  
+   d .    Using D-speed film  
+   e .    Using a digital radiography system        
+  Extended matching items 
+  EMI 1 
+    Options: 
+   A     Old film stock  
+  B      Too low an X-ray exposure  
+  C     The radiographic cassette leaks light  
+  D     Poor patient positioning  
+  E      Light fogging during automatic processing  
+  F      Poor film/screen contact  
+  G     Incorrect processing  
+  H     Patient movement during exposure  
+  I      Static electricity discharge  
+  J      Excessive X-ray exposure    
+    Lead in:  Poor quality radiographs lead to the need for repeat 
+exposures, thus increasing radiation dose to patients. 
+Match each panoramic radiographic film fault below to 
+the ‘diagnosis’ (cause of the fault) above. There may be 
+more than one possible cause for some film faults. 
+     1 .    Localised areas of ‘black’ (high density) along the 
+edge of the radiograph.  
+   2 .    Areas of the radiograph show ‘blurring’ (reduced 
+image sharpness).  
+   3 .    Lower border of mandible is distorted (‘up and 
+down’ shape).  
+   4 .    Low density and contrast throughout the image.  
+   5 .    Wide front teeth.  
+   6 .    Uniformly dark, low contrast image.  
+   7 .    Narrow, ‘matchstick’ front teeth.  
+   8 .    A mixture of small black spots and thin zig-zag lines 
+over the image.  
+   9 .    The film steadily increases in density and loses 
+contrast from one end to the other.  
+   10 .    All radiographs show low contrast and, notably, 
+metal restorations look grey.     
+  EMI 2 
+    Options: 
+   A     Bitewing examination  
+  B      Periapical radiograph(s)  
+  C     Occlusal radiograph(s)  
+  D     Panoramic radiograph  
+  E      Lateral cephalometric radiograph  
+  F      CT or cone beam CT examination  
+  G     Magnetic resonance imaging  
+  H     Radioisotope imaging  
+  I      Ultrasound examination  
+  J      No radiological investigation needed    
+    Lead in:   One of the simplest means of radiation protec-
+tion of patients is the use of referral criteria to select 
+the appropriate radiological investigation, thus minimis-
+ing X-ray examinations that do not alter management of 
+the patient’s problem. Select the most likely radiological 
+investigation(s) from the list above that would be appro-
+priate to the case histories below. More than one investiga-
+tion may be appropriate for some cases. 
+     1 .    A patient has gingivitis and probing suggests some 
+early loss of periodontal attachment throughout the 
+mouth.  
+   2 .    A patient presents with a symptomatic internal disc 
+derangement of a temporomandibular joint that has 
+proved unresponsive to conservative treatment.  
+   3 .    A patient presents with recurrent, severe, sharp 
+toothache of 10 minutes’ duration, precipitated by 
+hot stimuli. The causative tooth is difficult to localise 
+clinically.  
+   4 .    A 14-year-old patient has a retained maxillary canine 
+and no sign of the permanent successor.  
+   5 .    A patient presents with a painless, clicking 
+temporomandibular joint.  
+   6 .    A patient presents with an acute pericoronitis on an 
+erupting wisdom tooth. This is the first occasion it 
+has occurred.  
+   7 .    A 12-year-old patient who has mild crowding, a 
+Class I malocclusion and a skeletal Class 1 pattern 
+wants and seems suitable for orthodontic treatment 
+using a simple upper removable appliance.  
+   Self-assessment: questions  
+  Multiple choice questions 
+
+=== PDF PAGE 266 ===
+257
+   8 .    A patient requires endosseous implants in the 
+posterior maxilla.  
+   9 .    A patient presents with a large, painless hard bony 
+swelling in the lower first molar region.  
+   10 .    A 12-year-old patient, with Index of Orthodontic 
+Treatment Need (Dental Health Component) > 4 and 
+a severe Class 2 skeletal pattern requires and seems 
+suitable for upper and lower fixed appliances.      
+  Essay questions 
+     1 .    The risk to patients from dental radiography is so low 
+as to be negligible. Discuss.  
+  2 .    How would you carry out radiographic quality 
+assurance in a dental practice?     
+  Viva questions 
+     1 .    When should you use a lead apron in dental 
+radiography?  
+  2 .    Where should the operator stand when exposing a 
+patient for an intra-oral radiograph?  
+  3 .    How would you respond to a patient who expressed 
+concern about the X-ray exposure from a dental 
+radiograph?  
+  4 .    How would you improve the risk/benefit when 
+exposing a patient for a panoramic radiograph?  
+  5 .    Why are X-rays considered to be dangerous?  
+  6 .    How do you assess when a patient should have a set of 
+bitewing radiographs?       
+Self-assessment: questions
+
+=== PDF PAGE 267 ===
+Sixteen: Radiation protection
+258
+      1 .     a.      True.  These are produced by bombarding a 
+positively charged target with electrons.  
+    b.      False.  Low frequency and, therefore, have 
+insufficient energy to ionise atoms.  
+    c     . False.  Low frequency and, therefore, have 
+insufficient energy to ionise atoms.  
+    d.      True.  Naturally occurring radiation from 
+radioactive materials.  
+    e.      True.  Cosmic rays come from outer space but 
+contribute a substantial part of our natural 
+background radiation.    
+   All of these radiations are electromagnetic (EM) 
+radiation. EM radiation exists as photons, tiny packets 
+of energy with a waveform (they have a frequency and 
+a wavelength). The higher the frequency, the greater the 
+energy in each photon. X-rays, gamma rays and cosmic 
+rays are all high-frequency EM radiation and can ionise 
+atoms.
+    2 .     a     . False.  These effects have threshold doses 
+considerably higher than that which might be 
+received during dental radiography. They may, 
+however, occur during radiotherapy.  
+    b.      True.  These effects (tumour induction) have no 
+threshold dose. However, the risk is believed to 
+be directly related to the dose. With low doses 
+associated with dental radiography, the risk is low.  
+    c     . False.  It is generally accepted that gonadal 
+doses in dental radiography are so low as to be 
+negligible. This is particularly plausible when 
+considering panoramic radiography (the beam 
+is highly collimated and is angled slightly 
+upwards) and intra-oral radiography using film 
+holders (paralleling techniques) and rectangular 
+collimation.  
+    d     . True.  There is published evidence of an association 
+between dental radiography and salivary gland 
+(and brain) tumours. However, this work refers 
+back to a time of higher radiation doses and it must 
+be remembered that the risks are small.  
+    e.      False.  Cataract formation is a deterministic effect 
+that should never occur as a consequence of dental 
+radiography.     
+   3 .     a.      True.  The annual average dose to the UK 
+citizen from all forms of radiation is 2500   µ Sv 
+(microsieverts). The doses from dental 
+radiography can be related to this. Using the 
+doses given in the text of this chapter, a panoramic 
+radiograph would be equivalent to approximately 
+this number of days.  
+    b.      False.  Doses from chest radiography vary but a 
+typical range is 20–40   µ Sv, in the same general range 
+as panoramic radiographs.  
+    c     . True.  Using the dose ranges given in this chapter, 
+two bitewing films is around the same level of dose 
+as a panoramic radiograph. However, the ranges 
+involved mean that this may not always be the case.  
+    d.      False.  The dose range given assumes ‘good practice’ 
+and up-to-date equipment. Many older machines 
+with higher doses are used in dental practices, and 
+the common practice of overexposing to compensate 
+for underdevelopment during processing means 
+that doses may be considerably higher.  
+    e.      True.  Looking at the figures quoted in the text 
+of this chapter, you will see that the risk from a 
+panoramic radiograph is believed to be typically 
+an order of magnitude greater than that of a lateral 
+cephalogram.     
+   4 .     a.      False.  Lower voltages give a higher proportion 
+of weaker X-rays. Weak X-rays are more likely to 
+undergo absorption (photoelectric interactions) in 
+the patient’s tissues.  
+    b.      True.  A ‘DC’ X-ray set produces a smaller 
+proportion of weak X-rays.  
+    c     . False.  Using standard ‘good practice’ technique 
+(paralleling technique and rectangular collimation) 
+none of the primary beam should be directed 
+towards the trunk of the patient. Scattered radiation 
+is principally internal and would be unobstructed 
+by a lead apron.  
+    d.      False.  This is the slower of the two intra-oral film 
+speeds usually available.  
+    e     . True.  Both types of digital intra-oral system (CCD-
+based and photostimulable phosphors) can produce 
+a periapical radiograph using a substantially lower 
+X-ray exposure.           
+  Extended matching items answers 
+  EMI 1 
+      1 .     C.  Old cassettes may get damaged during years 
+of use and start to leak light. Light fogs the film, 
+leading to irregular areas of black at the edge of the 
+radiograph in a position corresponding to the leak. 
+This fault will occur on every radiograph.  
+   2 .     F.  Radiographic cassettes contain a light-sensitive film 
+sandwiched between two intensifying screens. The 
+intensifying screens fluoresce when exposed to 
+X-rays and this produces the image on the 
+radiograph. A sharp image is only produced if the 
+components are squeezed tightly together. Poor 
+contact between films and screens (usually due to 
+cassette damage) leads to all or parts of the image 
+losing sharpness, without distortion of shape.  
+   3 .     H.  Patient movement is usually seen most easily as 
+a distortion of the line of the lower border of the 
+mandible. In some cases this can look like a sharp 
+step (like a fracture), while in others an up-and-down 
+wave effect can occur, corresponding to the timing 
+and duration of the movement.  
+   Self-assessment: answers 
+  Multiple choice answers 
+
+=== PDF PAGE 268 ===
+259
+   4 .     B  and  G.  Low density and contrast means either 
+insufficient exposure or under-development during 
+processing. If this fault occurs, you should always 
+assume the latter cause, as turning up the exposure to 
+compensate for under-development is bad radiation 
+protection practice!  
+   5 .     D.  This fault is almost always due to the patient 
+being positioned too far back in the panoramic 
+machine (or focal plane too far forward). It is one 
+of the commonest faults in panoramic radiography. 
+Occasionally the same fault could be due to the 
+patient moving, but there would probably also be 
+distortion of the lower border shape also (see answer 3). 
+The use of bite blocks and positioning lights should 
+reduce the risk of this fault.  
+   6 .     G  and  J.  High density and low contrast means either 
+excessive exposure or over-development during 
+processing.  
+   7 .     D.  This fault is always due to the patient being 
+positioned too far forward in the panoramic machine 
+(or focal plane too far back). The use of bite blocks 
+and positioning lights should reduce the risk of this 
+fault.  
+   8 .     I.  Static electricity can build up when pulling a film 
+out of the box. At some point this may discharge 
+across the film and, if this occurs before development, 
+will produce fine black lines and spots. Classically, 
+the artefacts can look like a negative version of 
+lightning in the sky.  
+   9 .     E.  This gradual change in image quality from one 
+side of the radiograph to the other invariably means 
+that there has been light fogging. As the film is fed 
+into an automatic processor, the leading edge enters 
+quickly and is not fogged, but the trailing edge is 
+left for some time outside the processor and gets 
+fogged. This often occurs with processors that have 
+are positioned under a bright light; the daylight 
+hood affords some protection, but is not perfect. If 
+the processor is in a darkroom, it suggests that there 
+may be white light leaking into the room, or that the 
+safelights are faulty or too close to the processor.  
+  10 .     A.  This description fits best with fogging of the 
+film stock. This is usually a consequence of age (all 
+film has a ‘use by’ date), although poor storage can 
+accelerate the process.     
+  EMI 2 
+      1 .     J , or possibly  A.  With such uniform, shallow, 
+periodontal probing depths, a radiograph is unlikely 
+to reveal any additional information. Bitewing 
+radiographs may, however, have already been 
+taken for caries diagnosis and can be examined for 
+periodontal bone support as an added bonus.  
+   2 .     G.  The disc position and condition can only be seen 
+using magnetic resonance imaging (or arthrography). 
+Obviously, MR does not use ionising radiation, and is 
+thus without known risk.  
+   3 .     A , and probably  B.  The symptoms fit with a clinical 
+diagnosis of acute pulpitis from an unidentified 
+tooth. In such instances, a bitewing radiograph 
+will be useful as this may demonstrate caries, or 
+a particularly deep restoration, that would help 
+identify the causative tooth. A periapical radiograph 
+would be useful if endodontic treatment is being 
+considered, as this will show the pulpal anatomy. 
+If extraction is planned, then it can be argued that 
+no periapical radiograph is needed, unless there are 
+clinical concerns about the difficulty of extraction, 
+e.g. a third molar.  
+   4 .     B  or  C  as a first-line investigation. Depending on 
+the likely treatment, D could be added to the list if a 
+complete orthodontic assessment is required and can 
+be used with C to localise the permanent canine by 
+parallax.  
+   5 .     J.  Clicking temporomandibular joints are essentially 
+normal variants. The click is due to disc displacement 
+with reduction (see Ch. 15). A plain radiograph 
+would not, of course, show the interarticular disc in 
+any case.  
+   6 .     J.  If this is the first occasion of pericoronitis, then 
+wisdom tooth removal will not be a consideration 
+(see NICE Guidelines in Ch. 6). As such, 
+radiographic examination is unlikely to alter 
+management.  
+   7 .     D.  The panoramic radiograph is ideal for viewing the 
+developing dentition and most orthodontists would 
+say they need one. Interestingly, research shows that 
+in simple cases, clinical examination supplemented 
+by study models, without radiography, is often 
+sufficient for treatment planning. British Orthodontic 
+Society Guidelines (reproduced in European 
+Guidelines, referenced in Further Reading) give clear 
+guidance as to when a cephalometric radiograph 
+is useful in orthodontic treatment. For a simple 
+orthodontic treatment such as this, it is very unlikely 
+that a cephalogram could add anything useful to 
+treatment planning.  
+   8 .     F.  In this anatomical situation, it would be sensible to 
+obtain cross-sectional images, which can be obtained 
+using either conventional CT or cone beam CT, in 
+order to define accurately the available bone quantity 
+and the anatomical relationship of the maxillary 
+sinus. Most implantologists would have already 
+taken D for such patients as part of the decision-
+making process about whether implants were 
+appropriate.  
+   9 .     D  and  C  would be the first choice radiographs. 
+The occlusal view would be a ‘true’ occlusal, 
+giving an image at a right-angle to the panoramic 
+radiograph. In a dental practice situation with 
+limited radiological facilities, B might be the only 
+radiographic option.  
+  10 .     D  and  E.  The panoramic radiograph is ideal 
+for viewing the developing dentition. British 
+Orthodontic Society Guidelines (reproduced in 
+European Guidelines, referenced in Further Reading) 
+give clear guidance as to when a cephalometric 
+radiograph is useful in orthodontic treatment. 
+This patient satisfies the criteria for cephalometric 
+examination.      
+Self-assessment: answers
+
+=== PDF PAGE 269 ===
+Sixteen: Radiation protection
+260
+  Essay answers 
+     1 .    The essay plan would cover:    
+    Define the risk . Exposure to X-rays carries with it risks. 
+X-rays are ionising radiation that cause ionisation of 
+atoms by photoelectric and Compton interactions. 
+Ionisation can damage important molecules such as 
+DNA in cells, leading to cell death or mutations. With 
+dental radiography, the risk is of somatic stochastic 
+effects (tumour induction). The chance of these effects 
+is directly related to dose; there is no threshold dose 
+below which they are sure not to occur. 
+    Quantify the risk . Risks are related to doses. Doses in 
+dental radiography are variable, depending on many 
+factors, but typical ranges are 2–10   µ Sv for intra-oral 
+radiographs and 7–26   µ Sv for extra-oral. These relate 
+to cancer risks of 0.06–0.7 per million and 0.21–1.9 per 
+million, respectively. Doses are a fraction of annual 
+average exposures to the UK population and risks are 
+less than those of dying from other causes, such as 
+accidents at work. Risks are higher in children, who 
+are, therefore, a group of greater concern. 
+    Is risk negligible?  It is important to remember that 
+radiography is not a ‘normal’ part of someone’s life. 
+It is an additional risk. It is something carried out by 
+clinicians ‘to’ a patient and a tangible benefit must be 
+demonstrable. However low the risk, every effort must 
+be made to maximise the benefit and minimise the 
+risk through justification, dose limitation and quality 
+assurance.
+   2 .    The essay plan would cover:    
+    Definition . Quality assurance (QA) can be defined as 
+the organised effort of staff to ensure the consistent 
+production of high-quality radiographs at the lowest 
+possible cost with minimum exposure of patients and 
+personnel to radiation. QA is an essential component 
+of radiation protection. 
+    Identifying problems . Begin with a staff meeting to 
+discuss issues related to radiography and try to instil 
+an appreciation of the importance of good quality in 
+diagnosis and radiation protection. Try to identify any 
+existing, known, problems by discussion. Audit film 
+quality to see whether you reach the quality standard of 
+no more than 10% unsatisfactory radiographs. Carry out 
+a ‘film reject analysis’ to identify the principal problems. 
+For example, if ‘pale’ low-contrast radiographs are a 
+problem then this could be caused by poor exposure 
+selection, a faulty X-ray machine or (most likely) 
+underdevelopment. If the main problem is ‘blurred’ 
+panoramic radiographs, then examine the films to 
+determine whether this is caused by positioning faults, 
+movement or poor intensifying screen/film contact. 
+    Action . Address first the problems identified by 
+film reject analysis. For example, if a major problem 
+was underdevelopment, make a fresh start with 
+processing by cleaning the processing tanks and using 
+fresh solutions. Monitor processing times and check 
+developer temperature. 
+    QA programme . Establish a programme of regular 
+checks. In your essay answer give a possible programme. 
+There is no ‘correct’ make-up of a QA programme as this 
+would be tailored to the particular dental practice, but 
+demonstrate that you understand the principles:
+   Daily activities 
+     Maintain a log of film quality  
+     Check developer temperature and process test film 
+using test object  
+     Clean X-ray viewer  
+     Clean darkroom work surfaces.    
+    Weekly activities 
+     Check film stock  
+     Clean intensifying screens.    
+    Two-weekly activities 
+     Change developer and process reference film.    
+    Monthly activities 
+     Check darkroom light-tightness and safelights (Coin 
+test).    
+    Annual activities 
+     Have X-ray sets serviced.    
+    Tri-annual activities 
+     Survey X-ray sets for radiation safety.     
+  Viva answers 
+     1 .    When a fetus is in the line of the primary (main) X-ray 
+beam.  
+  2 .    Outside the controlled area. This area is defined as in 
+the line of the primary beam until it is attenuated by 
+distance (well beyond the confines of any dental surgery) 
+and a space around the patient and X-ray set in all other 
+directions with a 2  m radius (see  Fig. 199 ). Strictly , the 
+dimensions are set by the Radiation Protection Adviser.  
+  3 .    First, explain that radiographs are only prescribed 
+when they are justified (when they will give a clinical 
+benefit). Second, explain that doses are kept ‘as low 
+as reasonably achievable’ by using well-maintained 
+equipment and the best materials (this should be 
+the case!). It may be worth discussing dose levels, in 
+particular relating the likely X-ray dose to the annual 
+average radiation exposure to the UK population.  
+  4 .    Reduce the risk by using up-to-date equipment and 
+a rare-earth screen/film combination. Carefully 
+select the exposure and use accurately monitored 
+processing of film. Maximise the benefit by only 
+exposing the patient when it is clinically justified and 
+by systematically examining the radiograph to identify 
+all abnormalities of relevance to treatment.  
+  5 .    X-rays are high-energy radiation that cause ionisation 
+of atoms. Ionisation can disrupt important molecules 
+in the cells of living tissue, in particular DNA. This can 
+lead to cell death or mutations. Mutation may lead to 
+tumour formation.  
+  6 .    No radiographic examination should be performed until 
+a full history and complete clinical examination have 
+been performed. Posterior bitewing examination should 
+be carried out for all new dentate/partially dentate 
+patients unless approximal surfaces can be directly 
+visualised clinically . Frequency of subsequent bitewing 
+examinations should be based upon caries risk status 
+(see  Table 18 ). Caries risk should be reassessed at each 
+course of treatment so that (for example) an individual is 
+not ‘condemned’ to a permanent high-risk category .               
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+
+=== PDF PAGE 270 ===
+ MasterDentistry
+261
+  A 
+  ABC (airways, breathing and circulation) 
+life support ,   32  ,  39Q/42A  
+  Abscess, acute alveolar ,  73 ,  80–81Q/84A  
+  Acinic-cell carcinoma ,  216  
+  Acrylic dentures ,  180  
+  Acrylic splints ,  136  
+  Actinomycosis ,  76  
+  Activated partial thromboplastin time 
+(APTT) ,  25  
+  Acyclovir ,  179  
+  Addison’s disease ,  29 ,  183  
+  Adenocarcinomas, of bowel ,  113  
+  Adenoid cystic carcinoma ,  215–216 , 
+ 219Q/222A  
+  Adenomas ,  112 ,  211 ,  215  
+  Adrenaline (epinephrine) 
+  cardiorespiratory arrest ,  35  
+  cardiovascular system disorders ,  23  
+  side effects ,  61A/63A  
+  vasoconstrictors ,  48 ,  61Q/63–64A   
+  Advanced Life Support (ALS) ,  31 ,  32 , 
+  33  ,   34   
+  Advanced Trauma Life Support (ATLS) , 
+ 31 ,  129 ,  133 ,  139  
+  AEDs (automated external deﬁ  brillators) , 
+ 36 ,  39Q/42A  
+  Age factors 
+   see also   Children ;  Elderly people   
+  general anaesthesia ,  57 ,  59  
+  NSAIDs ,  61–62Q/65A   
+  AIDS   see   HIV (human immuno-
+deficiency virus)  
+  Airway 
+  displacement of tooth into ,  91  
+  Guedal and nasopharyngeal ,   34   
+  head tilt and chin lift manoeuvre ,   34   
+  injury assessment ,  129–130  
+  obstruction of ,  129  
+  upper, dental relevance ,  23   
+  Airway management 
+  advanced, cardiorespiratory arrest ,  32  
+  injuries ,  129  
+  orthognathic surgery ,  148   
+  ALARA principle, radiation protection ,  252  
+  Alberti regime, diabetes ,  25  
+  Albright’s syndrome ,  108  
+  Alcohol consumption ,  57 ,  198  
+  Alcoholics, conscious sedation of ,  50  
+  Allergies 
+   see also   Anaphylactic shock   
+  dental relevance ,  27  
+  local anaesthesia complications ,  47–48  
+  sedation, contraindicated for ,  50   
+  Allografts, implants ,  99  
+  Alloplastic materials, alveolar bone 
+augmentation ,  99  
+  Alveolar abscess, acute ,  73 ,  80–81Q/84A  
+  Alveolar osteitis (dry socket) ,  90  
+  Alveolar remodelling, normal jaw ,  107  
+  Alveolar ridges, augmentation ,  95–96  
+  Amalgam tattoos ,  183  
+  Ameloblastoma ,  165 ,  166  
+  American College of Surgeons ,  129  
+  American Society of Anesthetists 
+(ASA) ,  51  
+  AMETOP (tetracaine) ,  48  
+  Amino-amides ,  47  
+  Amino-esters ,  47  
+  Aminophylline ,  30  
+  Amnesia, sedation techniques ,  55–56  
+  Amoxicillin ,  80Q/83A ,  133  
+  Anaemia 
+  pernicious ,  178  
+  questions and answers ,  38Q/41A  
+  sickle-cell ,  24   
+  Anaesthesia   see   General anaesthesia (GA) ; 
+ Local anaesthesia (LA)  
+  Analgesia ,  45–47 ,  61–62Q/63A 
+   see also   Local anaesthesia (LA)   
+  acute pulpitis ,  67  
+  dosing schedules ,  46  
+  drug administration route ,  46  
+  facial soft-tissue injuries ,  133  
+  nociception ,  45  
+  opioid ,  229  
+  orthognathic surgery ,  148  
+  pain system ,  45  
+  patient-controlled ,  46 ,  148  
+  pre-emptive ,  46  
+  in pregnancy ,  27  
+  preoperative patient preparation ,  46  
+  sedation techniques ,  56  
+  and upper airway disorders ,  23   
+  Anaphylactic shock ,  30–31 ,  38Q/40A 
+   see also   Allergies    
+  ANCA (antineutrophil cytoplasmic 
+antibodies) ,  185  
+  Aneurysmal bone cysts ,  163 ,  164 , 
+ 168Q/171A  
+  Angina 
+  dental implications ,  22–23  
+  emergencies ,  31  
+  questions and answers ,  38Q/41A   
+  Angina bullosa haemorrhagica ,  184  
+  Angular cheilitis ,  180–181  
+  Ankylosis 
+  dental injuries ,  139  
+  Paget’s disease of bone ,  110  
+  temperomandibular joint ,  244 , 
+ 245Q/247–248A   
+  Anosmia, facial fractures ,  140  
+  Anterior open bite ,  152Q/154A  
+  Antibiotics 
+  actinomycosis ,  76  
+  amoxcillin ,  80Q/83A  
+  endocarditis, prevention ,   23   
+  erythromycin ,  27 ,  51  
+  facial soft-tissue injuries ,  133  
+  heart disease ,  22  
+  Ludwig’s angina ,  76  
+  osteomyelitis ,  76 ,  77  
+  penicillin ,  38G/40A ,  80Q/83A  
+  pericoronal inﬂ  ammation ,  72  
+  in pregnancy ,  27  
+  prophylaxis ,  22   
+  Anticoagulants ,  25 ,  27  
+  Anticonvulsants, and cleft 
+disease ,  145  
+  Antidepressants ,  229 ,  231  
+  Antineutrophil cytoplasmic antibodies 
+(ANCA) ,  185  
+  ‘Antral halo’ ,  117  
+  Antrum   see   Maxillary sinus (antrum)  
+  Anxiety, sedation for affected patients ,  49 , 
+ 50 ,  53  
+  Apert syndrome ,  152Q/153A  
+  Aphthus stomatitis ,  177–178  
+  Apical surgery (apicectomy) ,   70  ,   71  , 
+ 80Q/83–84A  
+  Appraisal questions ,  8  
+  APTT (activated partial thromboplastin 
+time) ,  25  
+  Arch bars, ﬁ  xation of mandible , 
+ 136 ,  138  
+  Arrhythmias ,  22 ,  25  
+  Arthrography, TMJ ,  17  
+  Arthroscopy, TMJ ,  240–241  
+  Articaine, in local anaesthesia ,  47 ,  49  
+  Artiﬁ  cial ventilation ,  130–131  
+  ASA (American Society of 
+Anesthetists) ,  51  
+  Aspergillosis ,  181  
+  Aspiration biopsy, laboratory 
+investigations ,  16  
+  Aspirin ,  25 ,  38Q/41A  
+  Please note that page references relating to non-textual content such as Boxes, Figures or Tables are in  italic  print. Question and Answer 
+sections are indicated in the form of 54Q/58A.  
+ Index 
+
+=== PDF PAGE 271 ===
+Index
+  Assessment 
+  extractions ,  87–88  
+  extra-oral examination ,  12–13  
+  facial pain ,  227–228  
+  general anaesthesia ,  57–59  
+  history ,  11–12  
+  impacted teeth ,  91–93  
+  implant surgery ,  96–98  
+  intra-oral examination ,  13–15  
+  investigations   see   Investigations  
+  medical ,  21–22  
+  referral letter, writing ,  20   
+  Asthma ,  24 ,  29–30  
+  Asystole rhythm ,  32 ,  38–39G/42A  
+  ATLS (Advanced Trauma Life Support) , 
+ 31 ,  129 ,  133 ,  139  
+  Atrophic lichen planus ,  193  
+  Atropine ,  38Q/41A  
+  Auscultation, TMJ ,  240  
+  Autogenous bone ,  98  
+  Autoimmune conditions ,  184  
+  Automated external deﬁ  brillators (AEDs) , 
+ 36 ,  39Q/42A  
+  Avulsion, deﬁ  ned ,  132  
+  AVUP method, consciousness 
+assessment ,  131   
+  B 
+  Baclofen ,  228  
+  Bacterial infections 
+  laboratory investigations ,  16  
+  mucosal diseases ,  178  
+  sialodenitis ,  212   
+  Balloon dilation, salivary gland calculus 
+removal ,  217  
+  Barbiturates, abolition of ,  51  
+  Basal-cell carcinoma ,  198  
+  Basophils ,  38G/40A  
+  BDD (body dysmorphic disorder) ,  146  
+  Behçet’s disease ,  177  
+  Bell’s palsy, motor disturbance ,  13  
+  Benign mucous membrane pemphigoid , 
+ 183–184  
+  Benzocaine ,  48  
+  Benzodiazepines 
+   see also   Diazepam (Valium) ;  Midazolam   
+  cardiovascular depression ,  51  
+  conscious sedation ,  56  
+  in elderly ,  52 ,  55  
+  elimination ,  52  
+  mechanism of action ,  52  
+  mouthwash ,  184 ,  186  
+  overdose ,  31  
+  respiratory depression ,  50 ,  51  
+  sedation ,  50 ,  52–53  
+  undesirable effects ,  52   
+  Benzylpenicillin ,  76 ,  80Q/83A  
+  Beta-blockers ,  28  
+  Bias, RCTs ,  6  
+  Bilaminar zone, interarticular disc (TMJ) ,  239  
+  Biochemistry, laboratory investigations ,  16  
+  Biopsy 
+  aspiration ,  16  
+  evidence-based laboratory tests ,  15  
+  frictional keratosis ,  175  
+  incisional/excisional ,  16  
+  lichen planus ,  182  
+  salivary gland diseases ,  211  
+  Sjögren’s syndrome ,  214  
+  squamous cell carcinoma ,  199   
+  BIS (bispectral index) ,  60  
+  Bismuth Iodoform Parafﬁ  n Paste (BIPP) ,  163  
+  Bispectral index (BIS) ,  60  
+  Bisphosphonate-associated necrosis 
+of bone ,  78–79  
+  Bisphosphonates ,  97 ,  110  
+  Bitewing radiographs ,  17 ,  253  
+  Black hairy tongue ,  183  
+  Bleeding disorders ,  24–25 ,  90  
+  Blepharoplasty ,  151  
+  Blinding, RTCs ,  5  
+  Blood loss, low ferritin level ,  178  
+  BMD (bone mineral density) ,  111  
+  BM-Stix test, diabetes ,  25  
+  Body dysmorphic disorder (BDD) ,  146  
+  Body position during treatment ,  27 ,  28  
+  Body spaces, gas-containing and nitrous 
+oxide effect ,  52  
+  Body temperature, monitoring during 
+general anaesthesia ,  60  
+  Bohn’s nodules, gingival cysts ,  162 , 
+ 167Q/170A  
+  Bonded brackets, ﬁ  xation of mandible ,  138  
+  Bone 
+  augmentation ,  98–99  
+  autogenous ,  98  
+  cancers invading ,  199  
+  periosteal formation ,  80Q/83A  
+  regeneration, stimulating ,  100   
+  Bone diseases 
+   see also   Jaw   
+  benign ﬁ  bro-osseous lesions ,  107–109  
+  case histories ,  122–123Q/126A  
+  genetic disorders ,  113  
+  giant-cell granuloma ,  111–112  
+  hyperparathyroidism ,  112 ,   113   
+  osteoporosis ,  111–112  
+  tumours ,  113 ,  120Q/124A   
+  Bone grafts, for implants 
+  cleft lip and palate ,  150  
+  interpositional grafting ,  99  
+  onlay grafting ,  99  
+  postoperative care ,  100  
+  soft-tissue surgery ,  100   
+  Bone infections ,  78–79 ,  80–81Q/84A 
+    see also  Osteitis ; Osteomyelitis   
+  Bone mineral density (BMD) ,  111  
+  Botryoid cysts ,  168Q/171A  
+  Branchial cysts ,  168Q/171A  
+  Breathing 
+  anaphylactic shock ,  30  
+  in epilepsy seizures ,  29  
+  injury assessment ,  130–131  
+  mouth ,  23   
+  British General Dental Council ,  49  
+  Bronchodilators, in asthma ,  29 ,  30  
+  Brow lifts ,  151  
+  Brown tumours of hyperparathyroidism , 
+ 111 ,  112 ,   113   
+  Bruxism, TMJ ,  240  
+  Buccal advancement, oroantral 
+communication ,  118  
+  Buccal spaces, infection spread to ,  74  
+  Bullous pemphigoid ,  184  
+  Bupivacaine ,  47 ,  49 ,  61Q/65A ,  228  
+  Burning mouth syndrome ,  231–232  
+  Burns ,  132 ,  133  
+  Butterﬂ  y needles, intravenous access ,  36   
+  C 
+  Calcitonin, Paget’s disease of bone ,  110  
+  Calcium channel blockers ,  41A ,  230  
+  Calculi (sialoliths), salivary glands ,  210 , 
+ 211 ,  217 ,  219Q/222–223A  
+  Caldwell–Luc surgical procedure ,  99–100 , 
+ 116 ,  117  
+  Cancer   see   Metastatic malignancy ; 
+ Swellings/lumps ;  Tumours  
+   Candida  sp. fungal infections ,  16 ,  180  
+  Candidal leukoplakia ,  194–195  
+  Candidiasis 
+  chronic hyperplastic ,  181  
+  erythematous ,  179  
+  oral ,  180  
+  questions and answers ,  187Q/190A  
+  Sjögren’s syndrome ,  213   
+  Capsaicin ,  229  
+  Capsule, TMJ ,  239 ,  242–243  
+  Carbamazepine ,  228 ,  229 ,  233Q/236A  
+  Carbon dioxide ,  28 ,  50  
+  Carcinoma in situ ,  195  
+  Cardiac failure ,  22  
+  Cardiopulmonary resuscitation (CPR) ,   32   
+  Cardiorespiratory arrest 
+  adrenaline ,  35  
+  adult basic life support ,   32   
+  advanced airway management ,  32  
+  advanced life support ,  31 ,  32 ,   33  ,   34   
+  causes ,  32  
+  deﬁ  brillation ,  32–35  
+  management ,  32  
+  questions and answers ,  38–39Q/42A  
+  signs and symptoms ,  31  
+  treatment principles ,  32   
+  Cardiovascular system 
+  disorders, dental implications ,  22–23  
+  general anaesthesia risks ,  59  
+  medical assessment ,  21  
+  monitoring during general 
+anaesthesia ,  60  
+  physical examination ,  22   
+  Carotid artery, ligation of ,  131  
+  Carpo-pedal spasm ,  28  
+  Case reports ,  7  
+  Case-control studies ,  7  
+  CAT scanning   see   Computed tomography 
+(CT, CAT scanning)  
+  Cavernous sinus thrombosis ,  75  
+  CBCT (cone beam computed tomography) , 
+ 18 ,  98  
+  Cellulitis ,  75 ,  80–81Q/84A  
+  Cemento-ossifying ﬁ  broma ,  109  
+  Central giant-cell granuloma ,  111–112  
+  Central nervous system, and 
+benzodiazepines ,  52  
+  Cephalometric analysis ,  146  
+  Cephalosporins ,  27  
+  Ceramics, bone augmentation ,  99  
+  Cervical spine X-rays ,  58  
+  Chairside laboratory investigations ,  15–17  
+  Chemotherapy, oral cancers ,  201  
+262
+
+=== PDF PAGE 272 ===
+Index
+  Cherubism ,  80Q/83A  
+  Chest compressions ,   35  ,  38–39G/42A  
+  Chest X-rays ,  58  
+  Children 
+  dental injuries ,  132  
+  ﬁ  brous dysplasia ,  108  
+  gingival cysts ,  162  
+  lacerations, treating ,  133  
+  oral and maxillofacial injuries ,  131  
+  sedation techniques ,  53  
+  swellings/lumps ,  80–81Q/84A   
+  Chin, anomaly correction ,  148 ,   149   
+  Chlordiazepoxide, as ﬁ  rst 
+benzodiazepine ,  52  
+  Chlorhexidine, irrigation with ,  72  
+  Chlorphenamine, anaphylactic shock ,  30  
+  Chronic hyperplastic candidiasis ,  181  
+  Chronic obstructive airways disease 
+(COAD), dental relevance ,  23–24  
+  CI (conﬁ  dental interval), RTCs ,  5  
+  Circothyroidotomy ,  129  
+  Circulation, injury assessment ,  131  
+  Circumandibular wiring ,  138  
+  Cleft lip and palate ,  145 ,  149–150 , 
+ 152Q/153A  
+  Cleido-cranial dysplasia ,  120–121Q/
+124–125A  
+  Clindamycin, osteomyelitis ,  76  
+  Clinical expertise ,  3  
+  Clinical practice guidelines ,  8–9  
+  Clotting dysfunctions, hepatic 
+diseases ,  26  
+  Clotting studies ,  58  
+  Cluster headaches ,  230  
+  COAD (chronic obstructive airways 
+disease), dental relevance ,  23–24  
+  Coagulation defects, speciﬁ  c ,  25  
+  Cobalt chromium dentures ,  180  
+  Cocaine ,  48 ,  61A/63A  
+  Cochrane Collaboration, systemic 
+reviews ,  7–8  
+  Codeine ,  27  
+  Coeliac disease ,  178  
+  Cohort studies ,  7  
+  Cold sores (herpes labialis) ,  179  
+  Collagen augmentation ,  151  
+  Complaint, history taking ,  11  
+  Complications 
+  drug delivery ,  36  
+  extractions ,  89–91 ,  102Q/105A  
+  facial fractures ,  140  
+  facial injuries ,  139–140  
+  impacted teeth ,  93–94  
+  local anaesthesia ,  47–48  
+  orthognathic surgery ,  152Q/154A  
+  Paget’s disease of bone ,  109   
+  Computed tomography (CT, CAT 
+scanning) 
+  assessment ,  17–18  
+  cluster headaches ,  230  
+  cysts ,  159  
+  gunshot wounds ,  139  
+  implant surgery ,  98  
+  migraine ,  230  
+  salivary gland diseases ,  210  
+  secondary survey ,  131   
+  Concussion, deﬁ  ned ,  132  
+  Condylar hyperplasia ,  120–121Q/
+124–125A ,  245Q/247A  
+  Condylar neck, fractures ,  245Q/247–248A  
+  Condyle, mandibular ,  239  
+  Condyle erosion, TMJ ,  245Q/247A  
+  Cone beam computed tomography 
+(CBCT) ,  18 ,  98  
+  Conﬁ  dence interval (CI), RTCs ,  5  
+  Congenital anomalies 
+  aetiology ,  145  
+  cephalometric analysis ,  146  
+  cleft lip and palate surgery ,  149–150  
+  clinical examination ,  146  
+  clinical management ,  145–147  
+  diagnosis ,  146–147  
+  history taking ,  145–146  
+  imaging ,  146  
+  investigations ,  146  
+  treatment planning ,  147   
+  Congenital heart disease ,  22  
+  Connective tissue disease, neoplasms ,  176  
+  CONSORT (Consolidation of the Standards 
+of Reporting Trials) ,  8 ,   9  ,   10   
+  Contraceptives ,  27  
+  Contrast investigations ,  17  
+  Cosmetic facial surgery ,  150–151  
+  Coupland’s elevators, extractions ,  88  
+  Coxsackievirus ,  179  
+  CPR (cardiopulmonary resuscitation) ,   32   
+  Cranial arteritis, temporal ,  230  
+  Craniofacial surgery ,  150  
+  Craniosynostosis, craniofacial anomaly , 
+ 145 ,  152Q/153–154A  
+  Crohn’s disease ,  14 ,  177 ,  185  
+  Cross-infection, control ,  26  
+  Cross-over design, RCTs ,  6  
+  Cross-sectional surveys ,  7  
+  Cross-sectional tomography ,  98  
+  Crouzon syndrome ,  152Q/153A  
+  Crowned teeth ,  87 ,  90  
+  Cryer’s elevators, extractions ,  88  
+  Cryosurgery, salivary gland disease ,  217  
+  Cyclo-oxygenase, CNS ,  61–62Q/65A  
+  Cystic ﬁ  brosis ,  24  
+  Cysts 
+  adjacent structures, effect on ,  160  
+  aneurysmal bone ,  163 ,  164 ,  168Q/171A  
+  biochemical investigations ,  16  
+  botryoid ,  168Q/171A  
+  branchial ,  168Q/171A  
+  case histories, 168–169Q/171–172A  
+  classiﬁ  cation ,  157 ,   158   
+  clinical features ,  158  
+  dentigerous ,  161–162 ,  167Q/170A , 
+ 168Q/171A  
+  dermoid ,  167Q/170A ,  168Q/171A  
+  ‘eggshell cracking’, clinical sign of ,  158 , 
+ 167A/170A  
+  enucleation ,  163  
+  epidermal ,  168Q/171A  
+  epidermoid ,  73  
+  epithelial ,  158  
+  eruption ,  162 ,  164  
+  examination ,  157–160  
+  general features ,  157  
+  gingival ,  162 ,  167Q/170A ,  168Q/171A  
+  growth ,  157  
+  inﬂ  ammatory ,  168Q/171A  
+  intra-osseous, jaw ,  167Q/170A  
+  locularity ,  160  
+  lymphoepithelial ,  167A/170A  
+  mandible ,  159  
+  margins ,  160  
+  marsupialisation ,  163–164  
+  maxilla ,  159  
+  mucosal, of antrum ,  115–116 ,  121Q/
+125–126A ,  157  
+  nasolabial ,  162  
+  nasopalatine ,  162 ,  167Q/170A , 
+ 168Q/171A  
+  odontogenic ,  157 ,  167Q/170A  
+  paradental ,  167Q/171A  
+  pathology of, in oro-facial region , 
+ 168Q/171A  
+  periapical periodontitis ,  69  
+  radicular ,  160 ,  164 ,  167Q/171A  
+  radiological examination ,  158  
+  residual ,   159  ,  160–161  
+  salivary glands ,  216  
+  shape ,  160  
+  soft tissues ,  157 ,  167Q/170A , 
+ 168Q/171A  
+  solitary bone ,  162–163 ,  164 ,  168Q/171A  
+  surgical management ,  163–164  
+  types ,  160–163  
+  unerupted teeth, effect on ,  160    
+  D 
+  DBI (dense bone island) ,  80Q/83A  
+  Decision making, evidence-based 
+medicine ,  3–4  
+  Defribrillation, cardiorespiratory arrest , 
+ 32–35  
+  Delaire ﬂ  ap gaining, cleft lip and plate ,  149  
+  Dense bone island (DBI) ,  80Q/83A  
+  Dental history ,  11 ,  39Q/43A  
+  Dental injuries ,  132 ,  139  
+  Dental pain ,  46  
+  Dentigerous cysts ,  161–162 ,  167Q/170A , 
+ 168Q/171A  
+  Dento-alveolar fractures ,  135  
+  Denture irritation hyperplasia ,  95 ,  176  
+  Dentures, stomatitis, caused by ,  180  
+  Depression, facial pain ,  233Q/236A  
+  Dermabrasion ,  151  
+  Dermoid cysts ,  167Q/170A ,  168Q/171A  
+  Diabetes mellitus ,  25 ,  28–29  
+  Diagnostic ultrasound, CT/CAT 
+scanning ,  18  
+  Diamorphine, angina/MI ,  31  
+  Diazemuls ,  53  
+  Diazepam (Valium) ,  52–53  
+  Diet, squamous cell carcinoma ,  198  
+  Digit sucking, consequences ,  152Q/154A  
+  Digitial volume tomography (cone beam 
+CT) ,  18  
+  Disability, injury assessment ,  131  
+  Dislocation, TMJ ,  244  
+  Distraction osteogenesis ,  150 ,  152A/155A  
+  DNA (genetic material) ,  50 ,  251  
+  Documentation, injuries ,  131  
+  Domestic violence ,  131–132 ,  134  
+  Dorsal root entry zone (DREZ), trigeminal 
+nerve ,  228  
+263
+
+=== PDF PAGE 273 ===
+Index
+264
+  ‘Double-blind’ trials, RCTs ,  5 ,  6  
+  Down syndrome, surgery for ,  147  
+  Drugs 
+  abuse of ,  57  
+  administration route ,  36 ,  37 ,  46  
+  antibiotics   see   Antibiotics  
+  anticoagulants ,  25 ,  27  
+  anticonvulsants ,  145  
+  asthma ,  30  
+  benzodiazepines   see   Benzodiazepines  
+  beta-blockers ,  28  
+  bisphosphonates ,  97 ,  110  
+  common, in dentistry ,  49  
+  contraceptives ,  27  
+  emergency ,  27 ,  38Q/41A  
+  hepatic diseases ,  26  
+  interactions, sedation 
+contraindicated ,  51  
+  intramuscular delivery ,  36 ,   37   
+  intravenous access ,  36  
+  leakage into subcutaneous tissues ,  36  
+  local anaesthesia   see   Local anaesthesia (LA)  
+  monoamine oxidase inhibitors ,  27  
+  neuralgias ,  228  
+  non-prescribed ,  51  
+  NSAIDs   see   Non-steroidal anti-
+inﬂ  ammatory drugs (NSAIDs)  
+  oral administration ,  36  
+  pain killing   see   Analgesia  
+  preoperative ,  59  
+  routine medication ,  27  
+  sedatives ,  51–53  
+  side effects ,  26 ,  228  
+  steroids ,  27 ,  38G/40A ,  152Q/153A  
+  subcutaneous delivery ,  37  
+  ulcers ,  177   
+  Dry mouth ,  210 ,   213  ,  214 ,  219Q/222A  
+  Dry socket (alveolar osteitis) ,  90  
+  Dyskeratosis congenita, genetic disorder ,  194  
+  Dysphagia, sideropenic ,  193  
+  Dysplasia 
+  cemento-osseous ,  77  
+  ﬁ  brous, 107–109, 120–121Q/124–125A  
+  grading ,  195  
+  lichenoid ,  193  
+  Sjögren’s syndrome ,  213    
+  E 
+  Ectopic teeth, deﬁ  ned ,  91  
+  Effectiveness/efﬁ  cacy, RCTs ,  5  
+  Effusion, TMJ ,  244 ,  245Q/247–248A  
+  Elderly people 
+  adenoid cystic carcinoma ,  215–216  
+  angina/MI ,  31  
+  benzodiazepines ,  52 ,  55  
+  Paget’s disease of bone ,  109   
+  Electrocardiogram (ECG), investigations ,  58  
+  Elevators ,  88 ,  135  
+  Emergency conditions and treatment 
+  acute asthma ,  29–30  
+  anaphylactic shock ,  30–31 ,  38Q/40A  
+  benzodiazepine overdose ,  31  
+  bleeding ,  25  
+  cardiorespiratory arrest   see  
+ Cardiorespiratory arrest  
+  diabetic ,  28–29  
+  drugs and equipment ,  27  
+  epilepsy ,  29  
+  fainting ,  27–28  
+  ﬁ  rst-line ,  27 ,   29  ,   31   
+  hyperventilation ,  28  
+  hypoadrenalism ,  29  
+  preloaded syringes ,   28   
+  preoperative starvation ,  59  
+  psychiatric disorders ,  31  
+  questions and answers ,  38Q/41–42A  
+  stroke ,  31  
+  tracheostomy ,  129–130   
+  EMLA (lidocaine and prilocaine) ,  48  
+  Emphysema, surgical ,  91  
+  Employers, administration of radiation 
+protection ,  254  
+  Endarteritis obliterans ,  82Q/86A  
+  Endocarditis, prevention ,  22 ,   23   
+  Endocrine diseases ,  25  
+  Endodontic therapy 
+  hypercementosis ,  71  
+  periapical periodontitis ,  70  
+  pulpitis ,  67  
+  questions and answers ,  80Q/84A   
+  Endotracheal intubation ,  32 ,  129  
+  Enucleation, of cysts ,  163  
+  Eosinophil sedimentation rate (ESR) ,  230  
+  Epidermal cysts ,  168Q/171A  
+  Epilepsy ,  26 ,  29 ,  30 ,  50  
+  Epithelial cysts ,  158  
+  Epithelial dysplagia ,  195 ,  202Q/205A  
+  Epstein–Barr virus ,  179  
+  Epstein’s pearls, gingival cysts ,  162 , 
+ 167Q/170A  
+  Epulides ,  186  
+  Eruption cysts ,  162 ,  164  
+  Erythema migrans (geographic 
+tongue) ,  186  
+  Erythema multiforme ,  184  
+  Erythematous candidiasis ,  179  
+  Erythromycin ,  27 ,  51  
+  Erythroplakia ,  195  
+  ESR (eosinophil sedimentation rate) ,  230  
+  Essays ,  2  
+  Estimate of effect, RCTs ,  5  
+  Ethyl chloride ,  75  
+  Evidence-based medicine ,  3–10 
+  appraisal questions ,  8  
+  beneﬁ  ts and limitations ,  4  
+  best research evidence ,  3  
+  clinical expertise ,  3  
+  clinical practice guidelines ,  8–9  
+  decision making ,  3–4  
+  laboratory investigations ,  15–16  
+  papers, reading ,  8  
+  patient values ,  3  
+  randomised controlled trials ,  4–6   
+  Examination 
+  congenital anomalies ,  146  
+  cysts ,  157–160  
+  extractions ,  87  
+  extra-oral   see   Extra-oral examination  
+  facial fractures ,  135  
+  implant surgery ,  97  
+  intra-oral   see   Intra-oral examination  
+  physical   see   Physical examination  
+  temperomandibular joint ,  239–241   
+  Excisional biopsy ,  16  
+  Extending matching items (EMIs) ,  2  
+  Extractions, dental ,  87–91 
+  amalgam tattoos ,  183  
+  assessment ,  87–88  
+  case histories ,  103Q/105–106A  
+  complications ,  89–91 ,  102Q/105A  
+  heart disease ,  22  
+  indications for ,  87  
+  instrumental ,  88–89  
+  Paget’s disease of bone ,  109  
+  periapical periodontitis ,  70  
+  postoperative care ,  89  
+  primary teeth ,  102Q/104A  
+  pulpitis ,  67  
+  root apex, retention ,  90  
+  sockets ,  107  
+  surgical techniques ,  88–89 ,  102Q/104A  
+  treatment planning ,  88   
+  Extra-oral craniomandibular ﬁ  xation ,  138  
+  Extra-oral examination, problem-speciﬁ  c , 
+ 12–13  
+  Eyelet wiring, ﬁ  xation of mandible ,  136   
+  F 
+  Face, cysts of soft tissues ,  157 ,  167Q/170A , 
+ 168Q/171A  
+  Face-lifts ,  151  
+  Facial fractures ,  133–139 
+   see also   Fractures   
+  aetiology ,  134  
+  biodegradable plates and screws ,  139  
+  bone screws ,  139  
+  clinical presentation ,  134–135  
+  complications ,  140  
+  dento-alveolar ,  135  
+  management principles ,  135–136  
+  management techniques ,  136–139  
+  mandible ,  135 ,  136 ,  138  
+  maxillary ,  136 ,  138  
+  nasal/nasoethmoidal ,  136  
+  open reduction and direct ﬁ  xation in 
+mandible/maxilla ,  138–139  
+  orbital ,  136  
+  plating, with mini- and micro-plating 
+systems ,  139  
+  questions and answers ,  141Q/143A  
+  radiological examination ,  135  
+  titanium mesh ,  139  
+  transosseous and intra-osseous wiring ,  139  
+  zygoma ,  135 ,   136–137    
+  Facial infections ,  73–76 
+  chronic ,  76  
+  drainage ,  75–76  
+  management ,  75–76  
+  maxillary ,  74  
+  orofacial ,  80Q/83A  
+  spread to tissues ,  73–74 ,  82Q/86A  
+  tooth, sited at ,  73   
+  Facial injuries ,  139 ,  141Q/143A 
+   see also   Oral and maxillofacial injuries    
+  Facial pain 
+  assessment ,  227–228  
+  atypical orofacial ,  231 ,  233Q/236A  
+  burning mouth syndrome ,  231–232  
+  case histories, 234Q/235Q ,  237A/238A  
+  neuralgias ,  228–230  
+  vascular origin ,  230   
+
+=== PDF PAGE 274 ===
+Index
+265
+  Fainting ,  27–28 ,  47  
+  Famcyclovir ,  179  
+  Familial adenomatous polyposis 
+(Gardner’s syndrome) ,  113  
+  Family history ,  11  
+  Felypressin (octapressin) ,  48 ,  61Q/64A  
+  Fibroblasts, osteoradionecrosis ,  78  
+  Fibroepithelial polyp ,  176  
+  Fibroma, cemento-ossifying ,  109  
+  Fibroma, juvenile ossifying ,  120–121Q/
+124–125A  
+  Fibro-osseous lesions, benign ,  107–109  
+  Fibrosis, chronic pulpitis ,  67  
+  Fibrous dysplasia ,  107–109 ,  120–121Q/
+124–125A  
+  Fibrous epulis ,  186  
+  Fibrous hyperplasia ,  176  
+  Fillings ,  17  
+  Fine needle aspiration biopsy (FNAB) , 
+ 16 ,  211  
+  Fixation 
+  direct ,  138–139  
+  extra-oral craniomandibular ,  138  
+  indirect, in mandible/maxilla ,  136 ,  138  
+  intermaxillary ,  135 ,  136 ,  138  
+  mandibular surgery ,  148  
+  pin ,  138   
+  Floor of mouth ,  74 ,  202Q/205A  
+  Flow meters, inhalation sedation ,   54   
+  Flucloxacillin ,  133  
+  Fluctuation, in swelling ,  13  
+  Fluid balance, renal disease ,  26  
+  Flumazenil ,  52 
+  conscious sedation ,  61A/64A   
+  Fluoroscopic imaging, salivary gland 
+disorders ,  210  
+  FNAB (ﬁ  ne needle aspiration biopsy) ,  16  
+  Forceps, extractions ,  88  
+  Foreign-body granulomas ,  185  
+  Fossa, mandibular ,  239  
+  Fractures 
+  bone ,  107  
+  condylar neck ,  245Q/247–248A  
+  of condyle ,  135  
+  facial   see   Facial fractures  
+  jaw ,  91  
+  mandible ,  134  
+  maxillary tuberosity ,  91 ,  119  
+  needle ,  36  
+  of teeth ,  89–90   
+  Fraenectomy 
+  deﬁ  ned ,  95  
+  techniques ,   96    
+  Fraenoplasty 
+  deﬁ  ned ,  95  
+  prominent lingual fraenum ,   96    
+  Fragment of tooth, loss during 
+extractions ,  91  
+  Fresh frozen plasma ,  26 ,  38Q/41A  
+  Frictional keratosis ,  175–176  
+  Fungal infections 
+  conditions ,  180–181  
+  laboratory investigations ,  16    
+  G 
+  GA   see   General anaesthesia (GA)  
+  GABA (gamma-aminobutyric acid) ,  52  
+  Gabapentin ,  229  
+  Gagging, anxiety-induced ,  50  
+  Gamma knife stereotactic surgery ,  228  
+  Gamma rays, radioisotope imaging , 
+ 19 ,  211  
+  Gamma-aminobutyric acid (GABA) ,  52  
+  Gardner’s syndrome (familial 
+adenomatous polyposis) ,  113  
+  Garrés osteomyelitis ,  77–78 ,  80–81Q/84A  
+  Gastrointestinal system 
+  disorders, dental implications ,  26  
+  medical assessment ,  21   
+  GCG (giant-cell granuloma) ,  111  
+  Gelofusine (plasma expander) ,  90  
+  Gender differences, Paget’s disease 
+of bone ,  109  
+  General anaesthesia (GA) ,  56–60 
+  anxiety ,  50  
+  assessment ,  57–59  
+  cardiovascular system disorders ,  22  
+  chronic obstructive airways disease ,  24  
+  conduct ,  60  
+  day cases ,   57   
+  depth of, monitoring ,  60  
+  drainage of facial infections ,  75  
+  endocrine diseases ,  25  
+  extractions ,  89  
+  heart disease ,  22  
+  hereditary problems ,  57  
+  induction ,  60  
+  investigations ,  57–58  
+  maintenance ,  60  
+  monitoring during ,  60  
+  pregnancy ,  38G/40A  
+  previous anaesthetic history ,  57  
+  recovery ,  60  
+  risk assessment ,  58–59  
+  social history ,  57  
+  techniques ,  60   
+  Genetic disorders 
+  bone diseases ,  113  
+  premalignant conditions ,  193 ,  194  
+  vesiculo-bullous lesions ,  184   
+  Genioplasty, orthognathic surgery ,  148 ,   149   
+  Geographic tongue ,  186  
+  GFR (glomerular ﬁ  ltration rate) ,  26  
+  Giant-cell arteritis (cranial arteritis, 
+temporal) ,  230 ,  233Q/236A  
+  Giant-cell epulis ,  186  
+  Giant-cell granuloma (GCG) ,  111–112  
+  Gillies’ approach, zygoma fractures ,  135  
+  Gingival cysts ,  162 ,  167Q/170A , 
+ 168Q/171A  
+  Gingivitis 
+  desquamative ,  184  
+  gingival enlargements ,  187Q/190A  
+  HIV-related ,  180   
+  Glasgow Coma Scale (GCS) ,  131  
+  Glomerular ﬁ  ltration rate (GFR) ,  26  
+  Glossopharyngeal neuralgia ,  228–229  
+  Glucagon ,  38Q/41A  
+  Glucose ,  38Q/41A 
+  concentration in blood ,  58  
+  monitoring in diabetes ,  25   
+  Glyceryl trinitrate, angina patients ,  23 ,  31 , 
+ 38Q/41A  
+  GNAS1 gene, ﬁ  brous dysplasia ,  107  
+  Gram’s staining method 
+  actinomycosis ,  76  
+  laboratory investigations ,  16   
+  Grand mal epileptic seizure ,  29  
+  Granuloma 
+  giant-cell ,  111–112  
+  periapical ,  69–70  
+  vegetable pulse ,  79   
+  Granulomatous disorders ,  185  
+  Grommets ,  152Q/153A  
+  GTN (glyceryl trinitrate), angina patients , 
+ 23 ,  31 ,  38Q/41A  
+  Guedal and nasopharyngeal 
+airway ,   34   
+  Gunning-type splints ,  138  
+  Gunshot wounds ,  139   
+  H 
+  Haemaccel (plasma expander) ,  90  
+  Haematology 
+  disorders ,  24–25  
+  laboratory investigations ,  16 ,   17    
+  Haemogloblin concentration, 
+investigations in GA ,  57  
+  Haemogloblin S ,  41A  
+  Haemorrhage 
+  extractions ,  90  
+  facial fractures ,  140  
+  injuries ,  131  
+  in stroke ,  31  
+  subconjunctival ,   134    
+  Haemostasis ,  24 ,  90  
+  Hairy leukoplakia ,  179  
+  Hallucinations, benzodiazepine 
+sedation ,  53 ,  56  
+  Hard palate, infection spread to ,  74  
+  Head, squamous cell carcinoma ,  198  
+  Head tilt and chin lift airway manoeuvre , 
+  34  ,  39Q/42A  
+  Headaches ,  230  
+  Heart disease, congenital/rheumatic ,  22  
+  Heart rate, monitoring of sedated 
+patients ,  56  
+  Hemimandibular hyperplasia ,  152Q/154A  
+  Hemiplegia, in stroke ,  31  
+  Hepatic diseases ,  25–26 
+  lichen planus ,  182  
+  sedation, contraindicated for ,  50   
+  Herpes labialis (cold sores) ,  179  
+  Herpes simplex virus (HSV) ,  178–180 , 
+ 187Q/190A  
+  Herpes zoster ,  179 
+  preherpetic neuralgia ,  229   
+  Herpetiform RAU ,  177  
+  Hertwig’s root sheath, remnants in 
+periapical periodontitis ,  70  
+  High blood pressure   see   Hypertension  
+  History taking 
+  anaesthetics ,  57  
+  assessment ,  11  
+  atypical facial pain ,  231  
+  bleeding, excessive ,  90  
+  congenital anomalies ,  145–146  
+  extractions ,  87  
+  oral implant surgery, assessment for ,  97  
+  social history ,  22 ,  57  
+  ulcers ,  14   
+
+=== PDF PAGE 275 ===
+Index
+266
+  HIV (human immunodeﬁ  ciency virus) 
+  cardiorespiratory arrest, transmission 
+in case of ,  32  
+  conditions related to ,  179–180  
+  laboratory investigations ,  15 ,  17  
+  parotid cysts ,  216  
+  patient assessment ,  57  
+  questions and answers ,  187Q/190A  
+  recurrent aphthous ulceration ,  177   
+  Hodgkin’s disease 
+  dental implications ,  24  
+  examination of swelling/lump ,  12   
+  Home circumstances, general anaesthesia , 
+ 57 ,  87  
+  Hospital setting, physical examination ,  22 
+  bleeding disorders ,  24   
+  Hounsﬁ  eld scale, CT ,  17  
+  Howship’s lacunae, Paget’s disease ,  110  
+  HSV (herpes simplex virus) ,  178–180  
+  Human immunodeﬁ  ciency virus   see   HIV 
+(human immunodeﬁ  ciency virus)  
+  Human papillomavirus ,  179 ,  198  
+  Hydrocortisone ,  27 ,  30 ,  38Q/41A  
+  Hypercementosis 
+  Paget’s disease of bone ,  110  
+  periapical inﬂ  ammation ,  71   
+  Hyperparathyroidism 
+  biochemical investigations ,  16  
+  bone diseases, 112,  113 , 120–121Q/
+124–125A  
+  brown tumours of ,  111 ,  112 ,   113   
+  dental relevance ,  25  
+  giant-cell granuloma distinguished ,  111   
+  Hyperplasia ,  114 ,  152Q/154A 
+  condylar ,  245Q/247A  
+  ﬁ  brous ,  176   
+  Hypersalivation ,  210  
+  Hypersensitivity ,  15 ,  48  
+  Hypertension 
+  dental implications ,  22  
+  general anaesthesia risks ,  59  
+  sedation (conscious) ,  50   
+  Hyperthyroidism ,  25  
+  Hyperventilation ,  28 ,  41A  
+  Hypoadrenalism ,  29  
+  Hypoglycaemia ,  25 ,  28–29 ,  38G/41A  
+  Hypoparathyroidism ,  25  
+  Hypoplasia ,  114 ,  150  
+  Hypotension, postural ,  28  
+  Hypothyroidism ,  25   
+  I 
+  IASP (International Association for the 
+Study of Pain) ,  45  
+  Idiopathic osteosclerosis ,  80Q/83A  
+  Imaging 
+  assessment ,  17–20  
+  computed tomography   see   Computed 
+tomography (CT, CAT scanning)  
+  congenital anomalies ,  146  
+  cross-sectional tomography ,  98  
+  gunshot wounds ,  139  
+  implant surgery ,  97–98  
+  lateral cephalometric radiograph ,  98  
+  MRI   see   Magnetic resonance 
+imaging (MRI)  
+  oral cancers ,  200  
+  panoramic view ,  98 ,  253 ,  256Q/258A  
+  periapical view ,  97  
+  radiography   see   Radiography  
+  radioisotope   see   Radioisotope imaging  
+  squamous cell carcinoma ,  199   
+  IMF (intermaxillary ﬁ  xation) ,  135 ,  136 , 
+ 138 ,  148  
+  Immune-mediated conditions ,  183–184  
+  Immunology , laboratory investigations ,  16–17  
+  Impacted teeth 
+  assessment ,  91–93  
+  complications ,  93–94  
+  diagnosis ,  92  
+  surgical techniques ,  93  
+  treatment options ,  92   
+  Implant surgery ,  96–101 ,  102–103Q/105A 
+  assessment ,  96–98  
+  bone augmentation ,  98–99  
+  clinical examination ,  97  
+  indications for implant treatment ,  96–97  
+  presurgical investigations ,  97–98  
+  techniques ,  98–101   
+  Implants 
+  cleft lip and palate ,  152Q/153A  
+  exposure ,  100  
+  immediate loading ,  100  
+  osseointegrated ,  95 ,  96 ,  101  
+  placement ,  100 ,   101   
+  success of ,  101  
+  timing of placement ,  100–101   
+  Incisional biopsy ,  16  
+  Inclusion and exclusion criteria, RCTs ,  5  
+  Infections 
+   see also   Viruses   
+  bacterial   see   Bacterial infections  
+  case histories ,  81Q/85–86A  
+  cross-infection ,  25 ,  26  
+  fungal   see   Fungal infections  
+  postoperative ,  90  
+  respiratory tract ,  24   
+  Inferior alveolar nerve block, 
+complications ,  48  
+  Inﬂ  ammation 
+   see also   Pulpitis   
+  antral response ,  117  
+  case histories ,  81Q/85–86A  
+  cysts ,  168Q/171A  
+  pain ,  46  
+  periapical ,  68–71  
+  pericoronal ,  71–72  
+  sinusitis   see   Sinusitis   
+  Injections 
+  intramuscular ,  25 ,  37 ,  38Q/40A  
+  intravascular ,  36 ,  48   
+  Injuries   see   Oral and maxillofacial 
+injuries ;  Trauma  
+  INR (international normalised ratio) ,  25 , 
+ 39Q/42A  
+  Interarticular disc, TMJ ,  239  
+  Interdental wiring, ﬁ  xation of mandible ,  136  
+  Intermaxillary ﬁ  xation (IMF) ,  135 ,  136 , 
+ 138 ,  148  
+  Intermittent positive pressure ventilation 
+(IPPV) ,  58  
+  Internal jugular lymph nodes ,  12  
+  International Association for the Study 
+of Pain (IASP) ,  45  
+  International normalised ratio (INR) ,  25 , 
+ 39Q/42A  
+  Interpositional grafting, bone ,  99  
+  Intra-epithelial blister ,  184  
+  Intramuscular delivery of drugs ,  25 ,  36 ,   37  , 
+ 38Q/40A  
+  Intra-oral examination ,  13–15 
+  extractions ,  87  
+  facial fractures ,  134  
+  maxillary sinus ,  114   
+  Intra-oral surfaces, squamous cell 
+carcinoma ,  198  
+  Intra-osseous cysts, jaw ,  167Q/170A  
+  Intra-osseous wiring, facial fractures ,  139  
+  Intravascular delivery of drugs, 
+complications ,  36 ,  48  
+  Intravenous access, drugs delivery ,  36  
+  Intravenous sedation ,  55–56  
+  Investigations 
+  atypical facial pain ,  231  
+  burning mouth syndrome ,  232  
+  chairside laboratory ,  15–17  
+  congenital anomalies ,  146  
+  contrast ,  17  
+  general anaesthesia ,  57–58  
+  granulomatous disorders ,  185  
+  imaging   see   Imaging  
+  presurgical, implant surgery ,  97–98  
+  salivary gland diseases ,  209–211   
+  Ionising radiation, effects ,  251  
+  IPPV (intermittent positive pressure 
+ventilation) ,  58  
+  Ipratropium ,  30  
+  Iron-deﬁ  ciency anaemia ,  41A  
+  Ischaemia, cerebral ,  31   
+  J 
+  Jaw 
+  fractures of ,  91  
+  genetic disorders, bone ,  113  
+  giant-cell lesions ,  120Q/124A  
+  hyperparathyroidism ,  112  
+  intra-osseous cysts in ,  167Q/170A  
+  normal ,  107  
+  osteoporosis ,  112  
+  Paget’s disease of bone ,  109   
+  Jaw thrust airway manoeuvre ,   34  , 
+ 38–39G/42A ,  129  
+  ‘Jorgensen technique’, sedative drugs ,  51  
+  Juvenile chronic rheumatoid arthritis, TMJ , 
+ 243 ,  245Q/247–248A   
+  K 
+  Kaposi’s sarcoma ,  179  
+  Keratin pearls, squamous cell carcinoma ,  199  
+  Keratocysts ,  164  
+  Keratosis 
+  frictional ,  175–176  
+  sublingual ,  194    
+  L 
+  LA   see   Local anaesthesia (LA)  
+  Lacerations 
+  facial soft-tissue injuries ,  132  
+  surgical management ,  133   
+  Lamina dura, loss of in periodontitis ,  68 , 
+  69  ,  82Q/86A  
+
+=== PDF PAGE 276 ===
+Index
+267
+  Laminin V  ,  184  
+  Lamotrigine ,  228  
+  Langerhans cell histiocytosis ,  80Q/83A  
+  Laryngeal mask airway (LMA) ,  32  
+  Laryngeal reﬂ  ex, impairment ,  54  
+  Laser resurfacing and ablation ,  151  
+  Latex, allergy to ,  27  
+  Laugier–Hunziker syndrome ,  183  
+  Le Fort I, II and III fractures, maxilla ,  136  
+  Lepromas ,  178  
+  Leukaemias ,  24 ,  197  
+  Leukoedema ,  175  
+  Leukoplakia ,  194 
+  candidal ,  194–195  
+  histology ,  194  
+  syphilitic ,  195   
+  Levobupivacaine, in local anaesthesia ,  47  
+  LFTs (liver function tests) ,  26 ,  58  
+  Lichen planus 
+  aetiology ,  182  
+  atrophic ,  193  
+  clinical features ,  181–182  
+  erosive/non-erosive ,  182  
+  histopathological features ,  182  
+  lichenoid mucositis ,  182  
+  management ,  182–183  
+  oral lesions ,  181  
+  questions and answers ,  187Q/190A  
+  skin lesions ,  182   
+  Lichenoid dysplasia ,  193  
+  Lichenoid mucositis ,  182 ,  193  
+  Lidocaine (lignocaine) ,  48 
+  in local anaesthesia ,  47  
+  local anaesthesia ,  49  
+  postherpetic neuralgia ,  229   
+  Ligaments, TMJ ,  239  
+  Lignocaine   see   Lidocaine (lignocaine)  
+  Lip 
+  carcinoma of ,  202Q/205A  
+  squamous cell carcinoma ,  198   
+  Liposuction ,  151  
+  Lithotripsy, salivary gland calculus 
+removal ,  217  
+  Liver diseases   see   Hepatic diseases  
+  Liver function tests (LFTs) ,  26 ,  58  
+  LMA (laryngeal mask airway) ,  32  
+  Local anaesthesia (LA) ,  61Q/63A , 
+ 61Q/65A 
+  amino-amides ,  47  
+  amino-esters ,  47  
+  application methods ,  48  
+  asthma ,  24  
+  cardiovascular system disorders ,  22  
+  chronic obstructive airways disease ,  24  
+  common drugs ,  49  
+  complications ,  47–48  
+  description ,  47  
+  dose ,  49  
+  drug types ,  48–49  
+  duration of action ,  47  
+  excretion ,  47  
+  extractions ,  89  
+  failure of ,  47  
+  intra-oral application ,  48  
+  mechanism of action ,  47  
+  metabolism ,  47  
+  misplacement ,  13  
+  postherpetic neuralgia ,  230  
+  potency ,  47  
+  skin ,  48  
+  speed of onset ,  47  
+  topical anaesthetics ,  48  
+  vasoconstrictors ,  48–49   
+  Locked-in syndrome, in stroke ,  31  
+  Lower respiratory tract infections ,  24  
+  Ludwig’s angina ,  75–76  
+  Lung volumes, physiological ,   54   
+  Luxation, deﬁ  ned ,  132  
+  Lymph nodes 
+  enlarged, in lymphomas ,  24  
+  examination ,  12   
+  Lymphadenitis ,  73  
+  Lymphadenopathy 
+  abscess, alveolar ,  73  
+  periocoronal inﬂ  ammation ,  72   
+  Lymphangitis ,  73  
+  Lymphoepithelial cysts ,  167A/170A  
+  Lymphomas ,  24 ,  197   
+  M 
+  Magnetic resonance imaging (MRI) 
+  assessment ,  19–20  
+  cluster headaches ,  230  
+  migraine ,  230  
+  salivary gland diseases ,  210  
+  trigeminal neuralgia ,  228   
+  Malassez, cell rests of ,  70  
+  Malignant hyperpyrexia, general 
+anaesthesia ,  57–58  
+  Malignant hyperthermia, general 
+anaesthesia ,  57  
+  Malignant melanoma ,  183 ,  196–197  
+  Malocclusion 
+  ﬁ  brous dysplasia ,  108  
+  orthognathic surgery ,  150   
+  Mandible 
+  anatomy ,  107  
+  atrophy of ,  96  
+  closed reduction and indirect ﬁ  xation in , 
+ 136 ,  138  
+  condyles of ,  134  
+  cysts ,  159  
+  development ,  152Q/154A  
+  dislocation of ,  91  
+  facial infections ,  74–75  
+  fractures of ,  134  
+  radiological examination ,  135   
+  Mandibular (glonoid) fossa, TMJ ,  239  
+  Mandibular condyle, TMJ ,  239  
+  Mandibular fractures ,  135  
+  Mandibular prognathism ,  152Q/154A  
+  Mandibular surgery ,  148  
+  Mandibular teeth, root morphology, 
+variability ,  87  
+  MAOIs (monoamine oxidase inhibitors) ,  27  
+  Marble bone disease (osteopetrosis) ,  113 , 
+ 120Q/124A  
+  Marsupialisation, of cysts ,  163–164  
+  Masseter muscles, TMJ ,  240  
+  Mast cells ,  38G/40A  
+  Maxilla 
+  cysts ,  159  
+  facial infections ,  74  
+  Paget’s disease of bone ,  109   
+  Maxillary canines, impacted ,  91 ,  93  
+  Maxillary canines, infections ,  74  
+  Maxillary fractures ,  131 ,  136 
+  questions and answers ,  141Q/143A  
+  radiological examination ,  135   
+  Maxillary sinus (antrum) ,  120Q/124A 
+  anatomy ,  114  
+  anomalies ,  114  
+  case histories ,  122–123Q/126A  
+  histology ,  114  
+  hypoplasia ,  121Q/125–126A  
+  inﬂ  ammation ,  114–115  
+  mucosal cysts of ,  115–116 ,  121Q/
+125–126A ,  157  
+  normal jaw ,  107  
+  opening of ,  91  
+  osteoma ,  121Q/125–126A  
+  sinusitis   see   Sinusitis  
+  squamous cell carcinoma ,  121Q/
+125–126A   
+  Maxillary surgery ,  148  
+  Maxillary tuberosity, fractures of ,  91 ,  119  
+  Median rhomboid glossitis ,  181  
+  Medical conditions, dental relevance 
+  allergies ,  27  
+  cardiovascular system ,  22–23  
+  endocrine diseases ,  25  
+  gastrointestinal diseases ,  26  
+  haematological disorders ,  24–25  
+  hepatic diseases ,  25–26  
+  neurological disorders ,  26  
+  pregnancy ,  27  
+  psychiatric disorders ,  26  
+  renal diseases ,  26  
+  respiratory system ,  23–24   
+  Medical history ,  11–12 ,  21  
+  Medical Research Council trials ,  4  
+  MEDLINE database, research evidence ,  3  
+  Melanin pigmented lesions ,  183  
+  Melanosis, diffuse oral ,  183  
+  Melanotic lesions ,  183  
+  Meniscoplasty, TMJ ,  242  
+  Menisectomy (disc removal), TMJ ,  243  
+  Mepivacaine, in local anaesthesia ,  47  
+  Mesenchymal odontogenic tumours ,  166  
+  Metals, bone augmentation ,  99  
+  Metastatic malignancy 
+   see also   Oral cancers ;  Tumours   
+  bone tumours ,  113  
+  deposits ,  197  
+  examination of swelling/lump ,  12  
+  new bone formation ,  80Q/83A  
+  salivary gland diseases ,  216  
+  squamous cell carcinoma ,  199–200   
+  Metronidazole ,  80Q/83A 
+  osteomyelitis ,  76  
+  and warfarin ,  25   
+  Microbiology, laboratory investigations ,  16  
+  Microvascular decompression (MVD) ,  228  
+  Midazolam ,  52 ,  61Q/64A 
+  conscious sedation ,  53 ,  55  
+  in pregnancy ,  50  
+  side effects ,  61A/64A   
+  Migraine ,  230  
+  Millard rotation advancement ﬂ  ap, cleft lip 
+and palate ,  149 ,  152A/155A  
+  Mind, and pain ,  46–47  

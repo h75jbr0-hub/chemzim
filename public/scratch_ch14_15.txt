@@ -1,0 +1,2049 @@
+=== PDF PAGE 237 ===
+Fourteen: Facial pain
+228
+       Dentine sensitivity (Vol. 2)  
+      Pulpitis ( Ch. 5 , this volume)  
+      Periapical periodontitis     
+      Periodontal abscess ( Ch. 5 , this volume).     
+  14.2     The neuralgias 
+       Learning objectives  
+     You should:
+       know the typical clinical presentations of the various 
+neuralgias  
+      know any special investigations  
+      understand the management options.         
+   Trigeminal neuralgia 
+   The majority of cases (> 85%) of trigeminal neuralgia are of 
+classic type (CTN). Compression of the trigeminal nerve in 
+the region of the dorsal root entry zone (DREZ) by a blood 
+vessel has emerged as the leading cause of CTN. 
+   Clinical presentation 
+    Sex . More common in females than males. 
+    Age . Predominantly affects individuals over the age 
+of 50 years. This is highly significant, as its presence in 
+younger individuals is suggestive of multiple sclerosis. 
+    Nature . A sharp, stabbing, episodic, electric shock-like 
+pain. Often the pain is so intense that the patient has to 
+stop what they are doing. 
+    Duration . Usually of seconds duration. Occasionally a 
+dull pain persists in the background after the sharp pain 
+has resolved. In severe cases, the episodes of pain may 
+be so close together that they seem continuous, but this is 
+unusual. Spontaneous remission of symptoms can occur, 
+but both this and their recurrence are unpredictable. 
+    Site . The pain is localised to one or more divisions 
+of the trigeminal nerve, most commonly the second and 
+third division. The patient outlines the distribution of the 
+appropriate division(s) when asked to indicate the area 
+affected by the pain. The pain does not usually cross the 
+midline. 
+    Initiating factors . The pain is induced when a particular 
+area of the skin or mucosa is stimulated, the so-called ‘trig-
+ger zone’. For example, washing the face, shaving, putting 
+on make-up, eating, speaking and exposure to cold may 
+all induce pain. 
+    Associated signs and symptoms . The absence of associated 
+signs and symptoms of sensory or motor deficit is impor-
+tant. Neurological assessment is mandatory to ensure that 
+the symptoms of trigeminal neuralgia are not the result of 
+a lesion (neoplastic or non-neoplastic) within the posterior 
+cranial fossa. The patient’s medical history may already 
+have revealed the existence of such a lesion or the pres-
+ence of multiple sclerosis.  
+   Special investigations 
+   Magnetic resonance imaging (MRI) is now considered 
+mandatory. In many cases it demonstrates the intimate, 
+potentially causative, relationship between the trigemi-
+nal root and an adjacent blood vessel. MRI is of particular 
+●
+●
+●
+●
+•
+•
+•
+value in excluding posterior cranial fossa lesions and, to 
+some extent, multiple sclerosis.  
+   Medical management 
+   The therapy of choice is carbamazepine. Reduction or 
+complete resolution of symptoms following its use is con-
+sidered to be virtually diagnostic of trigeminal neuralgia. 
+However, it should be prescribed cautiously, starting at a 
+dose of 100  mg twice or three times daily and increasing 
+slowly until the patient’s symptoms are controlled. This 
+is usually achieved at between 200 and 400  mg three times 
+daily. Gradual increase in dosage is important as elderly 
+patients are particularly susceptible to carbamazepine’s 
+many side-effects. Some of these, for example nausea, 
+ataxia and dizziness, make taking carbamazepine com-
+pletely unpalatable to the patient or significantly limit its 
+dose. Others, including leukopenia and skin reactions, 
+necessitate its withdrawal; patients should be informed of 
+the signs and symptoms of these conditions when the drug 
+is prescribed. Full blood count, liver and renal function tests 
+should ideally be carried out prior to its prescription and 
+at regular intervals during at least the first months of treat-
+ment. If withdrawal of carbamazepine proves to be nec-
+essary, oxcarbazepine or gabapentin provide alternatives. 
+Should the dose of carbamazepine be limited the skeletal 
+muscle relaxant baclofen or the anti-epileptic lamotrigine 
+may be added.  
+   Surgical management 
+   Although the evidence base for surgical interventions is 
+weak, microvascular decompression (MVD) appears to 
+have the best outcome and is emerging as the preferred 
+option in those patients who are fit for open surgery. In 
+this procedure the offending blood vessel is lifted away 
+from the trigeminal root and permanently repositioned. 
+In comparison to peripheral destructive procedures such 
+as neurectomy or central destructive procedures such as 
+percutaneous radiofrequency thermocoagulation, MVD 
+has a low rate of complications. It is, however, impor-
+tant that MVD is performed sooner rather than later as 
+success declines with duration of trigeminal neuralgia 
+symptoms. This is leading to a change in approach with 
+clinicians raising the awareness of patients to the possi-
+bility of surgical intervention much earlier in the med-
+ical treatment phase rather than as a last resort. Other 
+central procedures include retrogasserian glycerol injec-
+tion and gamma knife stereotactic surgery. These have 
+largely replaced peripheral procedures although local 
+anaesthetic injected into the trigger zone will provide 
+temporary relief of symptoms (bupivacaine has a lon-
+ger duration of action) and is useful in confirming the 
+diagnosis.   
+   Glossopharyngeal neuralgia 
+   Glossopharyngeal neuralgia is an extremely uncommon 
+condition. 
+   Clinical presentation 
+    Nature . There is sharp, stabbing, episodic, electric shock-
+like pain. Pain may be so severe that the patient tries to 
+keep their tongue still and avoids swallowing. 
+
+=== PDF PAGE 238 ===
+Fourteen
+229
+    Duration . Usually of seconds duration. Spontaneous 
+remission of symptoms can occur but both this and their 
+recurrence are unpredictable. 
+    Site . The pain is localised to the postero-lateral 
+tongue and fauces but felt within the ear on the affected 
+side. 
+    Initiating factors  . The pain is induced by stimuli 
+such as eating, drinking, swallowing, speaking and 
+coughing. 
+    Associated signs and symptoms . The absence of associated 
+signs and symptoms of sensory or motor deficit is impor-
+tant. Neurological assessment is mandatory to ensure that 
+the symptoms of glossopharyngeal neuralgia are not the 
+result of a lesion (neoplastic or non-neoplastic) within the 
+posterior cranial fossa or jugular foramen. The patient’s 
+medical history may already have revealed the existence 
+of such a lesion.  
+   Special investigations 
+   Special investigations do not contribute directly to the 
+diagnosis of glossopharyngeal neuralgia but are impor-
+tant in excluding posterior cranial fossa or jugular foramen 
+lesions. MRI or CT are both appropriate.  
+   Medical management 
+   The therapy of choice is carbamazepine. The same consid-
+erations apply with respect to dose and side-effects as for 
+trigeminal neuralgia.  
+   Surgical management 
+   The principles of surgical management are the same as 
+those for trigeminal neuralgia: that is, chemical, thermal 
+or physical damage to the appropriate nerve. However, it 
+is usually not possible to use local injections or cryother-
+apy. Surgical section of the glossopharyngeal nerve can be 
+effective as can other central surgical techniques but these 
+are not without significant side effects.   
+   Preherpetic neuralgia 
+   Development of the classic vesicles of herpes zoster ( Ch. 
+11;   Fig. 186   ) is, in some cases, preceded by facial pain. This 
+leads to the diagnosis being made retrospectively in many 
+cases. 
+   Clinical presentation 
+    Nature . An aching or burning pain, which can mimic 
+chronic pulpitis. 
+    Duration . Continuous. 
+    Site . The pain is limited to the distribution of the 
+division(s) of the trigeminal nerve in which the lesions of 
+herpes zoster subsequently develop. It may be localised by 
+the patient to a particular tooth or teeth. 
+    Associated signs and symptoms . The development of clin-
+ical signs of herpes zoster within a few days of the onset of 
+the pain confirms the diagnosis.  
+   Special investigations 
+   Vitality testing, bitewing and periapical radiographs 
+should be carried out when the pain is localised to the 
+teeth to exclude dental pathology.  
+   Medical management 
+   Appropriate treatment of herpes zoster ( Ch. 11 ).   
+   Postherpetic neuralgia 
+   Postherpetic neuralgia occurs in about 10% of patients 
+who have had herpes zoster infection and it persists in 
+approximately 5%. 
+   Clinical presentation 
+    Sex . More common in females than males. 
+    Age . Usually over 50 years. 
+    Nature . An intense, unpleasant, burning pain. 
+    Duration . May be present continually. 
+    Site . The pain is localised to the area of the distribution 
+of the division(s) of the trigeminal nerve involved in the 
+preceding episode of herpes zoster. 
+    Accompanying signs and symptoms . History and possibly 
+scars of herpes zoster. The severity of the pain may lead to 
+anxiety and depression.  
+   Special investigations 
+   Investigations may have been carried out previously to 
+confirm the diagnosis of herpes zoster but infection is 
+often diagnosed on clinical grounds alone.  
+   Medical management 
+   There is evidence that prevention or amelioration of 
+postherpetic neuralgia can be achieved by the use of 
+antiviral drugs such as famciclovir to treat the preceding 
+herpes zoster infection. If postherpetic neuralgia devel-
+ops, its medical management is difficult. Conventional 
+non-steroidal anti-inflammatory agents are largely inef-
+fective, as is carbamazepine. There is some evidence base 
+for the use of tricyclic antidepressants and these along 
+with gabapentin, pregabalin and opioid analgesics have 
+been advised as first-line treatment. Topical therapies 
+such as lidocaine patches and capsaicin may also be of 
+benefit.  
+The neuralgias
+ Fig. 186    Vesicles of herpes zoster.    
+
+=== PDF PAGE 239 ===
+230
+   Surgical management 
+   Local anaesthetic blockade of the stellate ganglion using 
+bupivacaine may produce short-term relief in some 
+patients.    
+  14.3     Pain of vascular origin 
+       Learning objective  
+     You should:
+       know the clinical presentation and management of 
+migraine cluster headaches and giant-cell arteritis.         
+   Migraine 
+   Clinical presentation 
+    Sex . Migraine is more common in females than males. 
+    Age . Wide age range from childhood onwards. 
+    Nature . Intense, severe, persistent aching pain. 
+    Duration . Usually of hours or days. 
+    Site . The pain is usually unilateral but may not always 
+affect the same side of the head. Certain variants are 
+ centred on the eye. 
+    Initiating factors  . A variety of stimuli may induce the 
+headache, for example certain foodstuffs (e.g. chocolate, 
+bananas), alcohol, stress, hormonal changes during the 
+menstrual cycle, the contraceptive pill or noise. 
+    Associated signs and symptoms  . In classic migraine, the 
+headache is preceded by an aura, which may include nausea, 
+vomiting, visual disturbances (photophobia, flashing lights) 
+and other disturbances of sensory and/or motor function.  
+   Special investigations 
+   CT and MRI do not contribute directly to the diagnosis 
+of migraine but, where signs and symptoms are atypical, 
+are important in excluding the presence of intracranial 
+lesions.  
+   Medical management 
+   Analgesics such as paracetamol or aspirin are effective, 
+particularly when used in combination with an antiemetic 
+such as metoclopramide. If such drugs are ineffective the 
+use of serotonin 5HT 1  agonists, for example sumatrip-
+tan, is appropriate. In terms of prophylaxis, useful drugs 
+include pizotifen, beta-blockers, tricyclic antidepressants 
+or sodium valproate.   
+   Cluster headaches 
+   Clinical presentation 
+    Sex . More common in males than females. 
+    Age . Predominantly affects individuals under the age 
+of 50 years. 
+    Nature . An intense aching pain that disturbs sleep; 
+attacks may occur at the same time each day. 
+    Duration . Typically, there are intermittent episodes 
+of pain of between 15 and 180 minutes’ duration on a 
+daily basis for several weeks, interspersed with pain-free 
+periods of months rather than days in duration. 
+•
+    Site . The pain is localised to one side of the face, typi-
+cally affecting the cheek, orbit, forehead and temple. The 
+pain does not cross the midline. 
+    Initiating factors . Alcohol, vasodilators, high altitude. 
+    Associated signs and symptoms  . Flushing of the cheeks, 
+watering of the eyes and nasal congestion on the affected 
+side.  
+   Special investigations 
+   CT and MRI do not contribute directly to the diagnosis 
+of cluster headaches but are important in excluding intra-
+cranial lesions.  
+   Medical management 
+   The most widely used treatments once an attack com-
+mences is sumatriptan. Drugs effective in preventing 
+attacks of cluster headaches such as calcium channel 
+ blockers (e.g. verapamil) may be taken as prophylaxis.   
+   Giant-cell arteritis (cranial arteritis, 
+temporal arteritis) 
+   Giant-cell arteritis may occur alone or as a component of 
+polymyalgia rheumatica. 
+   Clinical presentation 
+    Sex . More common in females than males. 
+    Age . Usually over 50 years. 
+    Nature . Severe, throbbing headache. 
+    Duration . Usually of hours or days. 
+    Site . The pain is unilateral and most frequently affects 
+the temple. 
+    Initiating factors . None. 
+    Associated signs and symptoms  . The temporal artery 
+throbs and is prominent and tender to the touch. Eating 
+may result in pain in the muscles of mastication. If the 
+lingual artery is affected, pain may be experienced in the 
+tongue; ultimately ulceration as a result of necrosis sec-
+ondary to ischaemia can occur. More generalised signs and 
+symptoms include fever, general malaise and weight loss. 
+If pain and stiffness affecting the shoulders, upper arms 
+and pelvis are present in addition to the characteristic uni-
+lateral headache, a diagnosis of  polymyalgia rheumatica  
+should be considered.  
+   Special investigations 
+   The eosinophil sedimentation rate (ESR) is normally 
+grossly elevated as are serum interleukin 6 levels. Biopsy of 
+the temporal artery reveals skip lesions interspersed with 
+areas of apparently normal vessel wall. In affected areas, 
+the media and intima are infiltrated by inflammatory cells, 
+amongst which giant cells are prominent. The lumen of the 
+vessel is narrowed secondary to thrombosis and fibrosis.  
+   Medical management 
+   Treatment with high-dose prednisolone (40–60  mg daily) 
+should be commenced promptly to ensure that blind-
+ness secondary to ischaemia of the optic nerve does 
+not occur. As the ESR falls, this dose can be reduced to 
+7.5–10  mg. Long-term therapy is required (3 to 6 years) to 
+limit relapse.    
+Fourteen: Facial pain
+
+=== PDF PAGE 240 ===
+Fourteen
+231
+  14.4     Atypical orofacial pain 
+       Learning objectives  
+     You should:
+       understand that atypical facial pain is a diagnosis of a 
+particular set of symptoms  
+      know the features of atypical odontalgia  
+      understand the relevance of a history of stress in some 
+patients.         
+   Atypical facial pain 
+   The term atypical facial pain can foster the belief that this 
+diagnosis is reached simply by excluding other causes of 
+facial pain. However, atypical facial pain results in a par-
+ticular constellation of symptoms, which form the basis of 
+its diagnosis. 
+   Clinical presentation 
+    Sex . More common in females than males. 
+    Age . Usually over 50 years. 
+    Nature . A gripping, vice-like, aching pain. Patients 
+sometimes describe a feeling of pressure. 
+    Duration . Usually present continually and has often 
+been so for months or years with intermittent increases in 
+severity. 
+    Site . The pain more commonly affects the maxilla 
+than the mandible; it may be uni- or bilateral and crosses 
+ anatomical boundaries. 
+    Initiating/ameliorating factors . There are no clear initiat-
+ing, ameliorating or exacerbating factors. Analgesics are 
+usually ineffective. 
+    Duration . Many patients give a history of consulting 
+several general dental and medical practitioners, specialist 
+physicians and surgeons. Teeth may have been extracted 
+in an attempt to alleviate the patient’s symptoms to no 
+benefit.  
+   Clinical examination 
+   A careful clinical examination is important to exclude other 
+causes of facial pain. 
+    Medical history  . The medical history may reveal other 
+conditions such as irritable bowel syndrome, back pain, 
+pelvic pain and fibromyalgia. In some patients, there may 
+be a history of depression and/or anxiety; patients may be 
+reluctant to disclose these conditions directly, if at all, but 
+the patient’s drug history can be informative. 
+    Social history . The patient’s social history is a significant 
+but difficult area. The fruitfulness of this area of inquiry 
+depends very much on the quality of the dentist’s com-
+munication skills: the ability to create the appropriate 
+conditions for disclosure of such information. A patient 
+may well expect to be asked about their smoking habits 
+but be less willing to divulge details concerning their per-
+sonal circumstances during a consultation with their den-
+tist. Sources of stress and distress should be identified: 
+for example bereavement, significant illness of, or anxiety 
+about, family or friends, job loss, breakdown of relation-
+ships, an unhappy home and/or work life, fear of serious 
+illness.  
+•
+•
+•
+   Special investigations 
+   Special investigations are intended to exclude any causes 
+of facial pain that remain following the history and exam-
+ination phase of the consultation. An assessment of the 
+patient’s mental state may be made, where appropriate, 
+using an instrument such as the Hospital Anxiety and 
+Depression Scale.  
+   Medical management 
+   In a proportion of patients with atypical facial pain, resolu-
+tion or reduction in symptoms occurs following confirma-
+tion and discussion of their diagnosis. This should include 
+reassurance with respect to the non-neoplastic nature of 
+the cause of their symptoms and, if relevant, exploration 
+of their possible relationship to stress, anxiety and depres-
+sion. In other cases, symptoms persist and pharmacother-
+apy may be of benefit. There is evidence to support the use 
+of various antidepressant drugs drawn from the tricyclic 
+antidepressant (e.g. dothiepin, amitriptyline) and selec-
+tive serotonin reuptake inhibitor (e.g. fluoxetine) groups. 
+However, the benefits of such drugs do not appear to be 
+related to their antidepressant properties as they are of 
+benefit in individuals free from depression. Encouraging 
+results have also been obtained using psychothera peutic 
+approaches such as cognitive behavioural therapy. 
+Therefore, for some patients, involvement of a psycholo-
+gist and/or psychiatrist in their assessment and manage-
+ment may be appropriate.   
+   Atypical odontalgia 
+   Atypical odontalgia can be thought of as the dental equiv-
+alent of atypical facial pain. The characteristics of the pain 
+and those patients who experience it are broadly identical; 
+all that differs is the site of the pain. The patient localises 
+the pain to a tooth or group of teeth that are clinically and 
+radiographically normal. In some cases, the patient may 
+have already insisted on the extraction of one or more 
+teeth by another dental practitioner with no or only tem-
+porary relief of symptoms, which now affect the extraction 
+site and/or adjacent teeth. It is clearly important to resist 
+extracting healthy teeth in such patients.   
+  14.5     Burning mouth syndrome 
+       Learning objectives  
+     You should:
+       know the clinical presentation of burning mouth syndrome  
+      know which conditions have similar symptoms and need 
+to be excluded  
+      understand the link with stress and anxiety in some patients.         
+   Burning mouth syndrome (BMS; glossodynia, glossopyro-
+sis, oral dysaesthesia) is characterised by a burning sensa-
+tion affecting the oral mucosa present in an individual in 
+whom other local and systemic causes of such a sensation 
+have been excluded as far as is possible (e.g. xerostomia, 
+incorrectly designed dentures, diabetes, anaemia). The 
+aetiology and pathogenesis of burning mouth syndrome 
+•
+•
+•
+Burning mouth syndrome
+
+=== PDF PAGE 241 ===
+Fourteen: Facial pain
+232
+remain uncertain; changes in the oral environment, abnor-
+malities of the peripheral (including neuropathy) and/or 
+central nervous systems and psychosocial issues have all 
+been implicated and are supported by varying degrees of 
+evidence. 
+    Clinical presentation 
+    Sex . More common in females than males. 
+    Age . Usually over 50 years. 
+    Nature . A burning sensation. The patient may describe 
+the mucosa as feeling as if it has been scalded or sprinkled 
+with pepper. 
+    Duration . Present on a daily basis often for a consid-
+erable period of time (months or years). Several different 
+patterns have been described and a classification system 
+suggested:
+   type 1:     not present on waking, severity increases as the day 
+goes on  
+  type 2:     present on waking and throughout the day  
+  type 3:     intermittent, unpredictable pattern of occurrence.    
+   The patient’s symptoms do not disturb their sleep. 
+    Site . The burning sensation most commonly affects the 
+tongue, lips and hard palate either singly or in combina-
+tion. In terms of single sites, the tongue is most commonly 
+affected. Type 3 BMS often affects unusual sites such as the 
+throat or floor of mouth. 
+    Initiating/ameliorating factors  . There are no clear ini-
+tiating, ameliorating or exacerbating factors. However, 
+patients may report that the burning sensation is not pres-
+ent when they are eating or occupied and is noticed more 
+when they are at rest. Analgesics are usually ineffective. 
+    Associated symptoms  . Alterations in taste sensation 
+(dysgeusia), dry mouth. 
+    Duration . Many patients give a history of consulting 
+several general dental and medical practitioners, specialist 
+physicians and surgeons.  
+   Clinical examination 
+   Significant findings in the patient’s medical and social 
+ history might be similar to those discussed above under 
+atypical facial pain. 
+   A careful clinical examination is important to detect any 
+local causes for the patient’s symptoms, for example signs 
+of conditions such as erythema migrans, glossitis, lichen 
+planus and candidiasis; evidence of parafunctional hab-
+its such as bruxism, tooth clenching or tongue thrusting; 
+assessment of the design of the patient’s dentures, particu-
+larly with respect to adequacy of freeway space and posi-
+tioning of the teeth with respect to the tongue space; and 
+xerostomia.  
+   Special investigations 
+   Investigations are targeted at detecting any causes of burn-
+ing sensations affecting the oral mucosa. A full blood count 
+and haematinics to diagnose anaemia and/or deficiency of 
+iron, folate or vitamin B 12  should be carried out. The pres-
+ence of candidal infection should be excluded by the use, 
+at the very least, of swabs and smears but ideally by a more 
+quantitative method such as oral rinse or saliva sample. 
+The presence and degree of xerostomia should be assessed 
+by sialometry. Blood glucose and glycosylated haemo-
+globin should be measured for possible diabetes. While 
+patients may attribute their symptoms to allergic reac-
+tions, most commonly to dental materials, in the absence 
+of a clear history or clinical signs current evidence does not 
+justify the use of allergy testing, such as patch tests, in this 
+group of patients.  
+   Medical management 
+   Any possible local and systemic causes of burning sensa-
+tions affecting the mouth detected on examination or fol-
+lowing special investigations should be treated. Where no 
+such causes are detected or where their successful treat-
+ment does not bring about resolution of symptoms the 
+diagnosis of burning mouth syndrome is confirmed. In a 
+proportion of patients with BMS, resolution or reduction 
+in symptoms occurs following confirmation and discus-
+sion of their diagnosis, including reassurance with respect 
+to the non-neoplastic nature of the cause of their symp-
+toms, exploration of their possible relationship to stress 
+and anxiety, and exclusion of local and systemic causes. In 
+other cases, symptoms persist but patients are able to come 
+to terms with them once they are convinced of the absence 
+of a serious underlying cause. Unfortunately many of the 
+treatments currently in use for burning mouth syndrome 
+have not been subjected to randomised controlled trials. 
+For example, in terms of systemic therapies, antidepres-
+sants drawn from the tricyclic group (e.g. nortriptyline) are 
+widely used to good effect but stronger evidence exists for 
+the use of serotonin reuptake inhinbitors (e.g. paroxetine). 
+In contrast, cognitive–behavioural therapy does provide 
+an evidence-based alternative to systemic drug treatment.     
+
+=== PDF PAGE 242 ===
+233
+    Multiple choice questions 
+     1 .    In irreversible pulpitis the pain normally
+    a.     Is exacerbated by biting down on the affected tooth  
+   b.     Is poorly localised  
+   c.     Is of short, less than 10 minutes, duration  
+   d.     Does not respond to simple analgesics such as 
+paracetamol     
+  2 .    Trigeminal neuralgia
+    a.     Is normally treated with carbamazepine  
+   b.     Can be a presenting symptom of multiple sclerosis  
+   c.     Usually crosses the midline of the face  
+   d.     Only occurs in response to touching a ‘trigger 
+point’  
+   e.     Does not wake the affected individual from sleep     
+  3 .    Giant-cell arteritis normally
+    a.     Occurs most commonly in men  
+   b.     Affects only the temporal artery  
+   c.     Results in a slightly elevated ESR  
+   d.     Can be treated successfully with systemic steroids  
+   e.     Causes blindness     
+  4 .    Postherpetic neuralgia
+    a.     Is the only type of facial pain associated with herpes 
+zoster infections  
+   b.     Is well controlled by the use of carbamazepine  
+   c.     Is an invariable consequence of herpes zoster 
+infections  
+   d.     Is never accompanied by facial palsy     
+  5 .    Atypical facial pain
+    a.     Is more strongly associated with depression than 
+anxiety  
+   b.     May be alleviated by simple reassurance  
+   c.     May be caused by anaemia  
+   d.     Is a diagnosis of exclusion        
+  Extended matching items 
+    Options: 
+    A.      Trigeminal neuralgia (classical trigeminal neuralgia – 
+CTN)  
+   B.     Atypical facial pain  
+   C.     Giant-cell arteritis  
+   D.     Post-herpetic neuralgia  
+   E.     Cluster headache  
+   F.      Short-lasting unilateral neuralgiform headache 
+attacks with conjunctival injection and tearing 
+(SUNCT)  
+   G.     Classical migraine without aura  
+  H.     Glossopharyngeal neuralgia  
+   I.      Trigeminal neuralgia (symptomatic trigeminal 
+neuralgia – STN)  
+   J.     Burning mouth syndrome    
+    Lead in:  Match the case history from the list below that is 
+most appropriate for each diagnosis above. 
+    1 .    A 33-year-old man complains of an intense aching 
+pain which occurs once a day and lasts for about an 
+hour. He outlines the affected area which extends 
+upwards from his right cheek to his forehead. The 
+episodes of intense pain have been going on for 
+about a week. His nose feels blocked and runs 
+when the pain is present. He experienced similar 
+symptoms about 3 months ago which lasted for a 
+couple of weeks and resolved spontaneously.  
+   2 .    A 36-year-old woman gives a 2-week history of a 
+sharp pain lasting for a few seconds which comes on 
+when she touches the left-hand side of her upper lip. 
+One burst of pain can follow immediately after the 
+preceding one. When you are taking her history she 
+mentions that about a month ago she consulted her 
+GMP about a deterioration in hearing affecting her 
+left ear.  
+   3 .    A 58-year-old man gave a history of a stabbing pain 
+affecting his left temple. Each burst of pain lasts for 
+about 4 minutes, he can experience three of these 
+each waking hour. He is concerned that he may have 
+developed an infection in his left eye, which looks red.  
+   4 .    A 62-year-old woman gives a history of a sharp pain 
+lasting for a few seconds whenever she touches the 
+skin over her lower jaw. It is making it difficult for 
+her to carry out daily activities like washing her face 
+or eating. The pain is confined to the left-hand side. 
+Once an episode of pain is complete she can be pain 
+free for about an hour even if she touches her face 
+in the area affected by the pain. She has been taking 
+paracetamol at regular intervals but this has made no 
+difference to the pain.  
+   5 .    A 65-year-old woman complained of a deep-seated 
+aching sensation affecting the right-hand side 
+of her face from her top jaw up to her forehead. 
+She has suffered from the pain on a more or less 
+continuous basis for about 4 years. There are no 
+exacerbating or ameliorating factors. Analgesics 
+have proved ineffective. Her GMP referred her 
+to an ENT consultant who carried out an MRI to 
+check for sinus problems. She has also been seen 
+by two other dentists and had root canal treatment 
+on several teeth, two of which have subsequently 
+been extracted. On examination you detect no 
+abnormalities.  
+   6 .    A 25-year-old woman complains of episodes of 
+aching pain affecting her right or left forehead, 
+temple and cheek. She experiences these a couple of 
+times each month and gives a 6-month history. The 
+pain is normally present for between 12 and 48 hours 
+and makes it very difficult for her to concentrate on 
+anything. She occasionally feels nauseous when the 
+pain is present and tries to avoid situations that she 
+knows will be noisy.  
+   7 .    A 71-year-old woman attends your surgery 
+complaining of a sharp pain which affects the back of 
+her tongue and the area just beneath the angle of her 
+   Self-assessment: questions 
+Self-assessment: questions
+
+=== PDF PAGE 243 ===
+Fourteen: Facial pain
+234
+jaw always on the left-hand side alone. The pain lasts 
+for about a minute and comes on when she swallows 
+or chews. Her lower left first and second molar teeth 
+are present and restored but they appear sound, are 
+vital and are not tender to percussion.  
+   8 .    A 65-year-old woman presents with a throbbing 
+pain affecting her left temple. The headache began 
+about a week ago and is accompanied by pain in the 
+muscles around her jaw joint on eating. She has no 
+previous history of facial pain or headache. Intra-oral 
+examination is unremarkable. There is no evidence of 
+dental pathology or parafunctional habits.  
+   9 .    An 80-year-old woman who moved into residential 
+care 3 months ago is brought to your surgery. The 
+elderly lady is complaining of an intense burning 
+sensation affecting the right-hand side of her 
+face which has been present for at least the past 
+3 months. The lower part of her face is spared. 
+Nothing seems to make it better or worse. The 
+patient is a poor historian and the carer knows little 
+of her history before she came to live at the care 
+home. On examination you notice some scarring of 
+the skin of her right cheek and forehead but nil else 
+of note. The patient was recently prescribed a low 
+dose of amitriptyline for anxiety by her GMP and 
+this seems to have helped a little with the pain.  
+   10 .    A 56-year-old woman complains of a burning 
+sensation affecting her tongue. It is present on a 
+more or less continuous basis and gets worse as the 
+day goes on. Her GMP prescribed a mouthwash 
+for her but this has not been of any benefit. She is 
+edentulous but leaving her dentures out makes 
+no difference to the pain. Her medical history is 
+unremarkable and on examination her tongue 
+appears completely normal.    
+  Case history questions 
+  Case history 1 
+    1 .    What is a likely diagnosis?  
+  2 .    What elements in the patient’s history indicate this 
+diagnosis?  
+  3 .    What would be the relevant findings on examination?  
+  4 .    Are further investigations appropriate and if so what?  
+  5 .    What would be a treatment plan?    
+  Case history 2 
+    1 .    What is a likely diagnosis?  
+  2 .    What elements in the patient’s history indicate this 
+diagnosis?  
+  3 .    What would be the relevant findings on examination?  
+  4 .    Are further investigations appropriate and if so what?  
+  5 .    What would be a treatment plan?    
+  Case history 3 
+    1 .    What is a likely diagnosis?  
+  2 .    What elements in the patient’s history indicate this 
+diagnosis?  
+  3 .    What would be the relevant findings on examination?  
+  4 .    Are further investigations appropriate and if so 
+what?  
+  5 .    What would be a treatment plan?    
+  Case history 4 
+    1 .    What is a likely diagnosis?  
+  2 .    What elements in the patient’s history indicate this 
+diagnosis?  
+  3 .    What would be the relevant findings on examination?  
+  4 .    Are further investigations appropriate and if so 
+what?  
+  5 .    What would be a treatment plan?    
+   A 50-year-old partially dentate male experiences a sharp    A 50-year-old partially dentate male experiences a sharp 
+pain from his teeth whenever he consumes cold foods pain from his teeth whenever he consumes cold foods 
+and on exposure to cold air. The pain lasts only for as long and on exposure to cold air. The pain lasts only for as long 
+as the stimulus is present. On examination, generalised as the stimulus is present. On examination, generalised 
+gingival recession is present.gingival recession is present.
+   A 70-year-old lady is referred to the dentist by her    A 70-year-old lady is referred to the dentist by her 
+medical practitioner. She gives a 5-year history of facial medical practitioner. She gives a 5-year history of facial 
+pain affecting her maxilla. Various upper teeth had been pain affecting her maxilla. Various upper teeth had been 
+extracted over this period with no sustained benefit but extracted over this period with no sustained benefit but 
+now the pain was not localised to a particular tooth. She now the pain was not localised to a particular tooth. She 
+describes a relentless dull ache that varies in severity but describes a relentless dull ache that varies in severity but 
+is always present. Overall it has not changed much since is always present. Overall it has not changed much since 
+its onset. Nothing really made it better or worse; she its onset. Nothing really made it better or worse; she 
+has tried various analgesics but nothing was effective. has tried various analgesics but nothing was effective. 
+She had recently been seen by an otolaryngologist to She had recently been seen by an otolaryngologist to 
+have her sinuses checked; no abnormalities had been have her sinuses checked; no abnormalities had been 
+detected. In addition, a previous dentist had referred detected. In addition, a previous dentist had referred 
+her to a local oral and maxillofacial surgeon, who had her to a local oral and maxillofacial surgeon, who had 
+not detected any abnormality but had arranged for her not detected any abnormality but had arranged for her 
+to be seen by a neurologist who had carried out a CT to be seen by a neurologist who had carried out a CT 
+scan, which was normal. On extra-oral examination, there scan, which was normal. On extra-oral examination, there 
+was no tenderness of the muscles of mastication and was no tenderness of the muscles of mastication and 
+no abnormality intra-orally. The patient’s remaining teeth no abnormality intra-orally. The patient’s remaining teeth 
+appeared sound.appeared sound.
+   A 65-year-old man complains of a sharp pain affecting his    A 65-year-old man complains of a sharp pain affecting his 
+right cheek. The pain is of short duration but extremely right cheek. The pain is of short duration but extremely 
+severe, like being stabbed with a needle or an electric severe, like being stabbed with a needle or an electric 
+shock. When he was at rest, the pain rarely occurred. It shock. When he was at rest, the pain rarely occurred. It 
+was more likely to come on when he was speaking or was more likely to come on when he was speaking or 
+eating. Washing his face and shaving were particularly eating. Washing his face and shaving were particularly 
+problematical. The pain never crosses the midline. The problematical. The pain never crosses the midline. The 
+patient is generally fit and well although he gave a history patient is generally fit and well although he gave a history 
+of a recent deep-vein thrombosis and now takes warfarin. of a recent deep-vein thrombosis and now takes warfarin. 
+On examination, the pain is induced when the patient’s left On examination, the pain is induced when the patient’s left 
+cheek is touched. The patient is edentulous.cheek is touched. The patient is edentulous.
+   A 25-year-old female attends the surgery complaining    A 25-year-old female attends the surgery complaining 
+of pain on eating or clenching her teeth. She localises of pain on eating or clenching her teeth. She localises 
+the pain to her upper right first permanent molar. On the pain to her upper right first permanent molar. On 
+examination intra-orally, this tooth appears sound; however, examination intra-orally, this tooth appears sound; however, 
+the lower right first permanent molar has a large the lower right first permanent molar has a large 
+mesial-occlusal-distal (MOD)    amalgam. The latter tooth mesial-occlusal-distal (MOD)    amalgam. The latter tooth 
+is tender to percussion (TTP).is tender to percussion (TTP).
+
+=== PDF PAGE 244 ===
+235
+  Case history 5 
+    1 .    What is a likely diagnosis?  
+  2 .    What elements in the patient’s history indicate this 
+diagnosis?  
+  3 .    What would be the relevant findings on examination?  
+  4 .    Are further investigations appropriate and if so what?  
+  5 .    What would be a treatment plan?     
+  Essay question 
+   You are given the following history. Using this case as a 
+basis, discuss the aetiology of a burning sensation affecting 
+the oral mucosa, demonstrating how you would reach a 
+diagnosis of burning mouth syndrome (BMS). 
+    
+   A 36-year-old male complains of an aching pain affecting    A 36-year-old male complains of an aching pain affecting 
+the right-hand side of his maxilla. The pain seems to arise the right-hand side of his maxilla. The pain seems to arise 
+from his teeth, particularly those towards the back of his from his teeth, particularly those towards the back of his 
+mouth in his upper jaw. About 2 years previously he had mouth in his upper jaw. About 2 years previously he had 
+experienced some discomfort in the same area but this experienced some discomfort in the same area but this 
+had only come on after eating cold foods and had lasted had only come on after eating cold foods and had lasted 
+for about 15 minutes. His current symptoms do not seem for about 15 minutes. His current symptoms do not seem 
+to be brought on by anything. Each episode of pain lasts to be brought on by anything. Each episode of pain lasts 
+for about an hour and is relieved by taking paracetamol. for about an hour and is relieved by taking paracetamol. 
+On examination intra-orally, the patient’s upper and lower On examination intra-orally, the patient’s upper and lower 
+molars on the right-hand side are heavily restored but molars on the right-hand side are heavily restored but 
+not tender to percussion. Electric pulp testing shows a not tender to percussion. Electric pulp testing shows a 
+reduced response from his upper right first permanent reduced response from his upper right first permanent 
+molar compared with the corresponding tooth on the left-molar compared with the corresponding tooth on the left-
+hand side.hand side.
+   A 55-year-old woman visits your surgery complaining of    A 55-year-old woman visits your surgery complaining of 
+a burning sensation affecting her palate that had started a burning sensation affecting her palate that had started 
+a couple of months ago. This is not present on waking a couple of months ago. This is not present on waking 
+but increases in severity as the day goes on. She suffers but increases in severity as the day goes on. She suffers 
+from non-insulin-dependent diabetes controlled by diet from non-insulin-dependent diabetes controlled by diet 
+alone and hypertension for which she is taking lisinopril; alone and hypertension for which she is taking lisinopril; 
+she is otherwise fit and well. The patient is edentulous; she is otherwise fit and well. The patient is edentulous; 
+her current dentures are 2 months old and replaced the her current dentures are 2 months old and replaced the 
+previous set, which she had used for the past 20 years. previous set, which she had used for the past 20 years. 
+She has recently taken early retirement and lives with She has recently taken early retirement and lives with 
+her husband, who continues to work. She is a lifelong her husband, who continues to work. She is a lifelong 
+non-smoker. Since her diabetes was diagnosed 5 years non-smoker. Since her diabetes was diagnosed 5 years 
+ago, she has not drunk any alcohol; prior to this she had ago, she has not drunk any alcohol; prior to this she had 
+consumed between 4 and 5 units per week. There was consumed between 4 and 5 units per week. There was 
+a family history of non-insulin-dependent diabetes. She a family history of non-insulin-dependent diabetes. She 
+expresses concern that her symptoms might indicate that expresses concern that her symptoms might indicate that 
+she was developing oral cancer.she was developing oral cancer.
+Self-assessment: questions
+
+=== PDF PAGE 245 ===
+Fourteen: Facial pain
+236
+  Multiple choice answers 
+     1 .     a.      False . The pain associated with irreversible 
+pulpitis normally arises spontaneously and is not 
+induced or exacerbated by applying pressure to 
+the affected tooth. However, lying down and hot 
+stimuli may induce/exacerbate the pain.  
+    b.      True . As with reversible pulpitis the pain of 
+irreversible pulpitis is usually poorly localised by 
+the affected individual but does not normally cross 
+the midline unless upper or lower anterior teeth 
+are affected.  
+    c.      False . The pain of irreversible pulpitis is usually 
+long lasting and present for hours rather than 
+minutes.  
+    d.      False . Non-opiate analgesics such as paracetamol 
+are normally effective in controlling the pain 
+associated with irreversible pulpitis.     
+  2 .     a.      True . Carbamazepine is the drug of choice for 
+the medical management of trigeminal neuralgia 
+but the role of surgery in the treatment of this 
+condition should not be overlooked. The latter 
+provides a valuable alternative in those patients 
+where pharmacotherapy is precluded, ineffective 
+or poorly tolerated.  
+    b.      True . Trigeminal neuralgia predominantly affects 
+individuals over the age of 50 years. Its occurrence 
+in a younger individual raises the possibility of 
+multiple sclerosis. Similarly this association should 
+also be borne in mind when investigating the 
+cause of facial pain in a person known to suffer 
+from multiple sclerosis.  
+    c.      False . One of the diagnostic features of trigeminal 
+neuralgia is the anatomical distribution of the pain 
+which is confined to the area innervated by the 
+affected division(s) of the trigeminal nerve.  
+    d.      False . Whilst pain triggered by touching a 
+particular area of the face/oral mucosa is a 
+classical feature of trigeminal neuralgia, episodes 
+of pain may also occur spontaneously. The clinical 
+presentation of trigeminal neuralgia does not 
+always meet the typical diagnostic criteria.  
+    e .     False . Patients suffering from trigeminal neuralgia 
+may give a history of being woken from sleep by 
+their pain.     
+   3 .     a.      False . Giant-cell arteritis affects females more 
+commonly than males.  
+    b.      False . Whilst the term temporal arteritis is often 
+used, the vasculitis which it describes has the 
+capacity to affect large, medium-sized and small 
+arteries in the craniofacial region in general and 
+is believed to form part of a spectrum of disease 
+culminating in polymyalgia rheumatica.  
+    c.      False . Giant-cell arteritis is normally characterised 
+by the presence of an elevated ESR of the order of 
+40  mm h −1  or greater, although in 20% of cases the 
+ESR may be within normal limits.  
+    d.      True . Systemic steroids are initially prescribed 
+at high dose, typically 40–60  mg prednisolone 
+daily. Maintenance therapy at a lower dose, e.g. 
+7.5–10  mg may be continued for several years to 
+prevent relapse.  
+    e.      True . Ischaemia of the optic nerve secondary to 
+involvement of the ciliary arteries may lead to 
+blindness if treatment is not commenced promptly.     
+   4 .     a.      False . In some individuals pre-herpetic neuralgia, 
+which may mimic dental pain, precedes the 
+development of the vesiculo-bullous lesions which 
+characterise herpes zoster.  
+    b.      False . Post-herpetic neuralgia is a difficult 
+condition to treat effectively. Carbamazepine is 
+largely ineffective, however some benefit may be 
+derived from the use of tricyclic antidepressants.  
+    c.      False . Post-herpetic neuralgia has a variable 
+incidence, the likelihood of its occurrence increases 
+with age, and it is more likely to affect women 
+than men. Approximately 50% of those affected 
+will continue to experience symptoms for longer 
+than three months.  
+    d.      False . Ramsay Hunt syndrome is characterised 
+by herpes zoster affecting the external auditory 
+meatus and pharynx accompanied by an ipsilateral 
+facial palsy.     
+   5 .     a.      True . Depression is more strongly associated 
+with atypical facial pain than anxiety; the reverse 
+appears to be the case in burning mouth syndrome.  
+    b.      True . Just as in burning mouth syndrome simple 
+reassurance accompanied by supportive listening 
+plays a significant role in the management of 
+atypical facial pain.  
+    c.      False . There is no evidence to support an 
+association between anaemia and atypical facial 
+pain.  
+    d.      False . Whilst the exclusion of other causes 
+of facial pain is important when making a 
+diagnosis of atypical facial pain, the latter does 
+have characteristic features which contribute to 
+its diagnosis, e.g. non-anatomical distribution; 
+description of a gripping, vice-like relentless 
+pain; maxilla affected more commonly then the 
+mandible.        
+  Extended matching items answers 
+       1 .     E.  Pain is unilateral, severe and has occurred previously 
+but age and duration of pain make CTN unlikely , 
+however could be atypical variant or STN. Associated 
+nasal congestion and rhinorrhea is significant and not 
+usually associated with TN. Therefore on balance E, 
+but MRI scan indicated in view of suspicion atypical 
+or STN.  
+    2 .     I.  The clinical features are strongly suggestive of 
+TN. The patient’s age is a cause for concern, CTN 
+would be extremely unusual in someone of her age. 
+   Self-assessment: answers  
+
+=== PDF PAGE 246 ===
+237
+The absence of a refractory period after triggering of 
+the pain is also somewhat atypical. Therefore STN 
+should be seriously considered. The presence of 
+ipsilateral hearing loss raises further concerns as to 
+the possibility of a central lesion being present. Even 
+if the patient were in the usual age group for CTN 
+this would raise the possibility of STN.  
+    3 .     F.  On first reading this case has many of the features 
+of trigeminal neuralgia. The 4-minute duration 
+of the pain is possibly longer than one might 
+normally expect for TN and the ophthalmic is the 
+least commonly affected division of the trigeminal 
+nerve. The presence of conjunctival injection shifts 
+the balance in favour of SUNCT but an overlap 
+is recognised between the two conditions. MRI 
+indicated.  
+    4 .     A.  The patient gives a classic description including 
+distribution of pain, trigger zone and a refractory 
+period after stimulation. Whilst CTN is highly 
+likely, MRI is obligatory to exclude STN and assess 
+possibility of DREZ compression.  
+    5 .     B.  Although the pain is unilateral the patient’s 
+description of a continuous aching pain which is has 
+been present and stable for several years; without 
+exacerbating or ameliorating factors; unresponsive 
+to analgesics is strongly suggestive of atypical facial 
+pain. The absence of positive findings on examination 
+and investigation is characteristic. MRI is often 
+performed although rationale for this is unclear; 
+its prime purpose is to provide reassurance to both 
+clinician and patient of the absence of significant 
+associated pathology. However, the history of this 
+patient at this stage makes that extremely unlikely.  
+    6 .     G.  This pain is episodic but episodes have a long 
+duration compared to all the other conditions and are 
+not clustered. It has affected either side of the face/
+head. Accompanying nausea and phonophobia are 
+indicative of migraine.  
+    7 .     H.  Whilst the tongue is commonly affected in burning 
+mouth syndrome the pain is of too short a duration 
+and is described as sharp. The involvement of the 
+area just below the angle of the jaw and pain on 
+chewing might suggest dental pathology but the 
+teeth are sound and not TTP . Similarly, were it not 
+for the involvement of the tongue, a diagnosis of TN 
+might be considered. However, taking into account 
+the sites affected, the nature of the pain and when 
+it is experienced the diagnosis is glossopharyngeal 
+neuralgia.  
+    8 .     C.  The recent onset of unilateral pain of this nature 
+in this site without any previous history should 
+immediately raise the possibility of giant-cell arteritis. 
+The patient is in the right age group (usually = 50  y). 
+The accompanying pain in the muscles of mastication 
+on chewing could represent temporo-mandibular 
+joint dysfunction but is entirely consistent with giant-
+cell arteritis.  
+    9 .     D.  Some elements of the history – continuous pain, 
+no exacerbating or ameliorating factors, some benefit 
+from amitriptyline – are compatible with a diagnosis 
+of atypical facial pain. The pain does, however, have 
+a reasonably well-defined anatomical distribution 
+apparently sparing the area innervated by the 
+mandibular division of the trigeminal nerve. The 
+intense burning quality of the pain is also suggestive 
+of post-herpetic neuralgia and the presence of 
+scarring on the skin of the patient’s face reinforces 
+this by providing evidence of previous skin lesions 
+possibly related to herpes zoster.  
+   10 .     J.  The duration and nature of the pain exclude H. The 
+absence of mucosal abnormality and the fact that the 
+symptoms persist even when the denture is not worn 
+point to J. The lack of response to topical agents is 
+not unusual. The patient’s normal medical history 
+seems to rule out systemic factors such as anaemia 
+and diabetes but it would be prudent to carry out 
+appropriate blood tests. Candidal infection can be 
+excluded by performing appropriate microbiological 
+investigations and xerostomia by sialometry, 
+although the normal findings on examination make 
+both of these unlikely.     
+  Case history answers 
+  Case history 1 
+     1 .    Dentine sensitivity.  
+  2 .    Sharp pain, tooth related, cold stimuli, lasts for as long 
+as the stimulus is present.  
+  3 .    Gingival recession.  
+  4 .    No further investigations.  
+  5 .    Advise use of a toothpaste for sensitive teeth. Apply 
+a sealant to exposed cervical dentine. Check tooth-
+brushing technique.     
+  Case history 2 
+     1 .    Periapical periodontitis affecting the lower right first 
+permanent molar.  
+  2 .    Pain on eating and clenching teeth together. The pain 
+is well localised but there may be confusion over 
+whether the pain is coming from an upper or a lower 
+tooth.  
+  3 .    Suggested tooth is sound, but the opposing tooth is 
+heavily restored and TTP .  
+  4 .    Vitality testing and periapical radiograph of lower 
+right first permanent molar.  
+  5 .    Endodontic treatment or extraction.     
+  Case history 3 
+     1 .    Trigeminal neuralgia.  
+  2 .    Severe pain, like being stabbed with a needle or an 
+electric shock; provoked by movement of the face and 
+touching the face; confined to the left cheek and never 
+crosses the midline.  
+  3 .    Pain is induced by touching the patient’s left cheek; 
+patient is edentulous.  
+  4 .    No other investigations.  
+  5 .    Consider prescription of carbamazepine but check for 
+possible drug interactions. Metabolism of warfarin 
+is accelerated by carbamazepine, reducing its 
+anticoagulant effects. Contact the patient’s medical 
+Self-assessment: answers
+
+=== PDF PAGE 247 ===
+Fourteen: Facial pain
+238
+practitioner and inform of the diagnosis; liaise with 
+respect to treatment and referral to a neurologist. 
+Monitoring and adjustment of anticoagulant therapy 
+will be necessary if carbamazepine is prescribed.     
+  Case history 4 
+     1 .    Atypical facial pain.  
+  2 .    Long history but non-progressive; extraction of 
+teeth in the affected area; relentless, some variation 
+in severity but always present; no exacerbating or 
+ameliorating factors; analgesics ineffective; extensively 
+investigated (otolaryngology, oral and maxillofacial 
+and neurology referrals).  
+  3 .    No abnormality was detected at examination 
+including the temporomandibular joint and the 
+muscles of mastication.  
+  4 .    Vitality testing of remaining teeth should be carried 
+out, following up any significant findings with 
+bitewing and periapical radiography.  
+  5 .    The diagnosis should be discussed with the patient: 
+cause uncertain ‘medically unexplained symptoms’; 
+further dental treatment of no benefit; suggest referral 
+to oral medicine consultant for confirmation of 
+diagnosis.    
+    T reatment options:  leave things as they are, pharmaco therapy 
+(e.g. tricyclic antidepressants), psychotherapy (helping the 
+patient to live with the pain).  
+  Case history 5 
+     1 .    Possible reversible (acute) pulpitis 2 years previously 
+and now irreversible (chronic) pulpitis.  
+  2 .    Initial symptoms induced by cold stimuli and of 
+relatively short (15 minutes) duration; the onset of the 
+current symptoms is spontaneous and they have a 
+long duration (more than 1 hour).  
+  3 .    Heavily restored teeth; reduced vitality but not tender 
+to percussion.  
+  4 .    Bitewing radiograph of right-hand side shows 
+recurrent caries in the upper right first permanent 
+molar.  
+  5 .    Removal of the restoration in the upper right first 
+permanent molar, excavation of caries and placement 
+of temporary dressing.      
+  Essay answer 
+   Your essay should include the following information. 
+     1 .    Definition of BMS. A burning sensation affecting the 
+oral mucosa in the absence of clinically detectable 
+lesions.  
+  2 .    History of the complaint. The age and sex of the 
+patient, the affected site and the pattern of pain are 
+all appropriate to this diagnosis. Brief discussion of 
+the usual sites affected in BMS and the different pain 
+patterns experienced.  
+  3 .    Clinical examination. No abnormality is detected 
+extra- or intra-orally. Various oral mucosal disorders 
+can give rise to a burning sensation; good examples 
+would be lichen planus, erythema migrans, 
+candidiasis, glossitis.  
+  4 .    Medical history. Non-insulin-dependent diabetes 
+controlled by diet alone? Is control adequate? Poorly 
+controlled diabetes may result in xerostomia and an 
+increased susceptibility to oral candidiasis. Both of 
+these may give rise to a burning sensation. There is no 
+suggestion of anaemia or nutritional deficiency in the 
+medical history but it has been suggested that these 
+may cause BMS-like symptoms. 
+  Medication.  The patient is taking lisinopril, an angiotensin-
+converting enzyme, the side-effects of which can include 
+xerostomia and a burning sensation affecting the oral 
+mucosa. Explore the temporal relationship between the 
+onset of symptoms and the commencement of medication.  
+  5 .    Further investigations. Suggest special investigations 
+to exclude issues arising from the medical history: 
+sialometry, isolation and quantification of  Candida  
+species, full blood count, haematinics, random blood 
+sugar and glycosylated haemoglobin.  
+  6 .    Dental history. Provision of a new full set of dentures 
+coincides with the onset of symptoms. Do the 
+symptoms resolve/improve if she leaves her dentures 
+out? Allergy to dental materials has been suggested 
+as a cause of BMS-like symptoms but evidence to 
+support this is weak. It is accepted that denture design 
+faults (e.g. adequacy of freeway) can result in such 
+symptoms. There is no evidence of denture stomatitis 
+on clinical examination.  
+  7 .    Social history. Onset of BMS symptoms may be 
+associated with ‘stressful’ events or changes of 
+lifestyle. Patient has recently retired.  
+  8 .    Additional information. The patient expresses anxiety 
+concerning the possibility of oral cancer. Such anxieties 
+may exacerbate or cause BMS.          
+  
+
+=== PDF PAGE 248 ===
+B978-0-443-06896-6.00015-1, 00015
+239
+Chapter
+          15.1      Anatomy and examination 239   
+   15.2      Disorders of the joint    241
+   15.3      Conditions affecting the joint    243
+       Self-assessment: questions    245
+       Self-assessment: answers      247
+ Overview 
+     The temporomandibular joint occurs between the mandible 
+and the temporal bone. The joint itself can show pain/dysfunc-
+tion and internal displacement of the disc. It is also affected 
+by trauma and by systemic diseases such as rheumatoid 
+arthritis.  
+   15.1     Anatomy and examination 
+       Learning objectives  
+     You should:
+         understand the anatomy of the joint  
+        know the clinical examination and radiological 
+appearance of the joint  
+      be aware of the technique of arthroscopy.          
+   Anatomy 
+   The temporomandibular joints (TMJs) are the two joints 
+between the mandible and the temporal bone. They are 
+unique in the body in that they contain two joint spaces 
+separated by a fibrocartilage disc ( Fig. 187   ). 
+   Components 
+   The mandibular condyle 
+   The mandibular condyle is a bony ellipsoid structure 
+attached to the mandibular ramus by an elongated neck. 
+Its mediolateral dimension (around 20  mm) is larger than 
+the antero-posterior dimension (8–10  mm). Its articulating 
+surface is covered in a thin layer of fibrocartilage. There is 
+usually a clearly demarcated ridge running mediolaterally 
+along its anterior surface. This is the edge of the articulat-
+ing surface. Below the ridge is a hollow, marking an attach-
+ment of the lateral pterygoid muscle.  
+   The mandibular (glenoid) fossa 
+   The mandibular fossa is a hollow on the inferior surface 
+of the squamous temporal bone. The fossa is bounded 
+•
+•
+•
+ anteriorly by a ridge of bone, the articular eminence, 
+which forms the anterior margin of the joint. The fossa is 
+covered in a thin layer of fibrocartilage. The mastoid air 
+cells often extend into the bone of the articular eminence 
+and the bone of the fossa.  
+   Interarticular disc 
+   The interarticular disc is a biconcave sheet of avascular 
+fibrous connective tissue that divides the joint into a supe-
+rior and inferior joint space. At its anterior margin, it blends 
+with fibres of the lateral pterygoid muscle. Posteriorly, 
+it attaches to looser connective tissue (bilaminar zone) 
+ containing nerves and lined with synovial membrane.  
+   Capsule 
+   The TMJ has a fibrous capsule attached to the rim of the 
+mandibular fossa and the neck of the condyle. The disc 
+attaches to it medially and laterally. The lateral aspects of 
+the capsule are thickened by the lateral (temporomandibular) 
+ligament.  
+   Ligaments 
+   The lateral ligament lies lateral to the TMJ and runs from 
+the root of the zygoma to the posterior aspect of the con-
+dylar neck. It limits antero-posterior joint movement. The 
+sphenomandibular and stylomandibular ligaments are 
+also part of the joint complex and probably also serve to 
+limit movement.   
+   Joint movement 
+   The joint has a combination of rotatory movement of the 
+condyle in the lower joint space and anterior translation 
+of the condyle, with sliding of the disc forwards along the 
+articular eminence ( Fig. 188   ).   
+   Examination 
+   Clinical examination 
+   The dental examination should be systematic and include 
+the TMJ and the masticatory muscles. 
+   Joint examination 
+    Movement . Face the patient and ask him/her to open 
+slowly to maximum. Normal range (inter-incisal) is 35 to 
+40  mm. If opening is thought to be reduced, ask whether 
+the  limiting factor is pain or an obstruction. Note the path 
+of opening and any lateral deviation. 
+    Pain on palpation . Palpate in front of the ear and within 
+the external auditory meatus. 
+ Disorders of the 
+temporomandibular joint 15
+
+=== PDF PAGE 249 ===
+Fifteen: Disorders of the temporomandibular joint
+240
+    Auscultation . This needs a stethoscope to be done prop-
+erly. However, clicks may well be audible without a stetho-
+scope. A click implies a disc displacement that reduces into 
+a normal position on opening. Crepitus (cracking/grating 
+noise) implies degenerative change or, sometimes, acute 
+inflammation.  
+   Muscle examination 
+   Muscle tenderness suggests some abnormal function 
+(clenching, bruxism). Masseter and temporalis muscles 
+are assessed by direct palpation. The lateral pterygoid is 
+indirectly examined by noting the response (in terms of 
+any preauricular pain) to attempted opening against the 
+restriction of the examiner’s hand below the chin. The 
+medial pterygoid cannot be examined.   
+   Radiology 
+   Most clinical problems related to the TMJ are caused by 
+muscular parafunction (e.g. bruxism) or internal disc 
+derangements. Neither is likely to be associated with 
+any relevant bony abnormalities. Consequently, radi-
+ography is not normally indicated unless there is any 
+suggestion of bony abnormality, such as might be the 
+case in rheumatoid arthritis or osteoarthrosis. Many 
+panoramic X-ray machines allow specific images of the 
+condyles to be taken without unnecessary radiography 
+of the rest of the jaws. The only radiographic projection 
+to show the whole joint is the transcranial oblique lat-
+eral view. 
+   A clinical diagnosis of suspected internal derangement 
+might lead to a requirement for imaging of the disc. This 
+is done by either magnetic resonance imaging ( Fig. 189   ) or 
+TMJ arthrography ( Fig. 190   ).  
+   Arthroscopy 
+   Arthroscopy allows visual examination of the upper 
+joint space and an opportunity for minor surgical treat-
+ment. A small arthroscope can be used to facilitate lavage 
+and division of joint adhesions. The lower joint space is 
+difficult to access without risk of damage to the articu-
+lar disc. Arthroscopy is undertaken under local anaes-
+thesia;  however, if lengthy arthroscopic surgery is to be 
+�
+�
+�
+�
+�
+�
+�
+�
+�
+ Fig. 187    The structure of the temporomandibular joint. a. Upper joint 
+space; b. lower joint space; c. interarticular disc; d. condylar head; e. lateral 
+pterygoid muscle superior head; f. lateral pterygoid muscle inferior head; 
+g. mandibular fossa; h. articular eminence; i. external auditory canal.    
+�������� � ����������
+ Fig. 188    Movement of the temporomandibular joint.    
+ Fig. 189    Magnetic resonance image of a TMJ. The disc can be seen as 
+the darker structure between the condylar head and the temporal bone.    
+ Fig. 190    TMJ arthrogram. Contrast is injected into the joint spaces below 
+and, sometimes, above the disc. Consequently, the disc is outlined rather 
+than directly seen.    
+
+=== PDF PAGE 250 ===
+Fifteen
+241
+ undertaken, then a conscious sedation technique would be 
+appropriate or even general anaesthesia.   
+  15.2     Disorders of the joint 
+       Learning objectives  
+     You should:
+        know the symptoms of TMJ pain/dysfunction and its 
+management  
+       know the features of disc displacement with and without 
+reduction  
+      know the management of displaced discs.          
+   Pain/dysfunction 
+   The most common TMJ disorder is pain or dysfunction. 
+    Clinical features 
+   Symptoms are a combination of:
+      headache  
+     limitation/deviation of jaw opening  
+     joint sounds  
+     pain on palpation of the TMJ  
+     pain on palpation of the associated muscles.    
+   Joint sounds alone, or with headache, are not diagnostic of 
+TMJ pain/dysfunction.  
+   Radiology 
+   There is no abnormality visible.  
+   Management 
+        Reassurance and explanation to patients  
+     Jaw rest and soft diet  
+     Analgesics/anti-inflammatory drugs  
+     Occlusal splints to interfere with parafunction may 
+offer some help  
+     Physiotherapy  
+     Muscle relaxants.       
+•
+•
+•
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+   Internal derangement 
+   The articular disc normally sits above the anterior 
+aspect of the condylar head, with the disc posterior 
+attachment lying within 10  ° of the vertical ( Fig. 191   ). 
+A disc may be anterior to this ‘normal’ position in 
+asymptomatic individuals, suggesting that an ante-
+rior disc position is a normal variant. Thus an internal 
+derangement is best thought of as an abnormality in 
+position that interferes with function and that may be 
+associated with other symptoms. An anterior disc ‘dis-
+placement’ is the most common internal derangement, 
+but antero-medial, medial, and antero-lateral displace-
+ments are all seen. 
+   Disc displacement with reduction 
+   Reduction means that a displaced disc ‘reduces’ into a 
+ normal position on opening but reverts to an abnormal 
+position on closing (reciprocal click) ( Fig. 192A   ). 
+   Clinical features 
+        Clicking on opening  
+     Clicking on closing  
+     Transient jaw deviation during opening/closing.     
+   Radiology 
+   No abnormalities are apparent on plain radiographs. Disc 
+imaging shows the displaced disc in a closed/rest position 
+( Fig. 192B ).  
+   Management 
+        Consider no treatment other than reassurance and 
+explanation  
+     Occlusal splints to interfere with parafunction may 
+offer some help  
+     Physiotherapy.    
+   It should be emphasised that treatment should only be 
+considered where the abnormality is affecting the patient’s 
+quality of life; a clicking joint may be considered as 
+normal.   
+●
+●
+●
+●
+●
+●
+Disorders of the joint
+ Fig. 191    The normal articular disc in the closed and open positions (A) and in an arthogram showing the maximum opening (B).    
+������ ����
+�
+ B
+
+=== PDF PAGE 251 ===
+Fifteen: Disorders of the temporomandibular joint
+242
+   Disc displacement without reduction 
+   If there is no reduction, a displaced disc remains in 
+a displaced position regardless of the stage of open-
+ing. This interferes with movement and may cause pain 
+( Fig. 193A   ). 
+   Clinical features 
+        Reduction in opening  
+     In unilateral cases, lasting deviation on opening  
+     No click  
+     Pain may be present in front of the ear.     
+   Radiology 
+   Plain films usually show nothing. In long-standing cases 
+there may be signs of osteoarthrosis (see below). 
+   Disc imaging shows an abnormal disc position in all 
+movements ( Fig. 193B ). In long-standing cases, perfora-
+●
+●
+●
+●
+tion of the disc may be seen and joint space  adhesions 
+inferred.  
+   Management 
+        Explanation of the condition and reassurance  
+     Muscle relaxants and physiotherapy  
+     Manipulation under anaesthetic  
+     TMJ surgery.      
+   Surgical treatment of internal derangement 
+   Surgery is only indicated where non-surgical methods have 
+failed and symptoms are severe. Meniscoplasty is a proce-
+dure to reposition the disc. Access to the joint is gained via 
+a vertical incision in front of the ear (preauricular incision) 
+most commonly, although some favour an incision behind 
+or within the ear. Various techniques have been devised 
+to avoid damage to the facial nerve. The capsule is then 
+●
+●
+●
+●
+ Fig. 192    A displaced disc with reduction showing the movement diagrammatically and arthrographically in open and closed positions.    
+������ ����
+���������������� ���
+�
+B
+ Fig. 193    A displaced disc without reduction showing the movement diagrammatically ( A ) and on arthrography ( B ).    
+������ ����
+�
+ B
+
+=== PDF PAGE 252 ===
+Fifteen
+243
+opened, the disc visualised, repositioned and sutured in 
+place. Studies suggest various success rates such as 90% 
+of patients show improvement in symptoms, 5% no better 
+and 5% worse. 
+   The disc may be removed (menisectomy) if it cannot be 
+repositioned because of deformity or degeneration. It may 
+have been replaced with an alloplastic material in the past 
+but is more likely to be replaced now with an autogenous 
+tissue such as temporalis muscle or auricular cartilage.   
+  15.3     Conditions affecting the joint 
+       Learning objectives  
+     You should:
+       know the effects of trauma on the joint  
+      know what systemic diseases will also affect the TMJ.          
+   Osteoarthrosis 
+   Osteoarthrosis is a non-inflammatory disorder of joints in 
+which there is joint deterioration with bony proliferation. 
+The deterioration leads to loss of articular cartilage and 
+bone erosions. The proliferation manifests as new bone 
+formation at the joint periphery and subchondrally. It has 
+an unknown aetiology, but previous trauma, parafunction 
+and internal derangements are all suggested as aetiologi-
+cal factors. 
+    Clinical features 
+        Pain localised to the TMJ region  
+     Limitation of opening, worse with prolonged function  
+     Crepitus  
+     Tender on palpation of TMJ.     
+   Radiology 
+   Plain films show erosions of the articular surfaces of the 
+condyle and, less commonly seen, of the mandibular fossa. 
+Sclerosis of the bone and marginal bony proliferation (‘lip-
+ping’ or osteophytes) are seen ( Fig. 194   ) and narrowing 
+of the radiographic joint space. Bony proliferations may 
+break away and be seen as loose bodies in the joint space.  
+   Management 
+        Explanation and reassurance  
+     Anti-inflammatory drugs  
+     Physiotherapy  
+     Restore deficiencies in the posterior occlusion to 
+reduce loading on TMJs  
+     Intra-articular steroid injections (advanced disease)  
+     Surgery (advanced disease; final option) to smooth 
+irregular condylar head where there are osteophytes or 
+irregularities.       
+   Rheumatoid arthritis 
+   Rheumatoid arthritis is a disorder associated with syno-
+vial membrane inflammation in several joints. The TMJs 
+are involved in approximately half of affected individuals. 
+•
+•
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+Villous synovitis leads to the formation of synovial granu-
+lomatous tissue (pannus) that involves fibrocartilage and 
+the underlying bone. The pannus releases enzymes that 
+cause cartilage/bone destruction. 
+    Clinical features 
+        Pain over TMJs  
+     Tenderness over TMJs  
+     Swelling over TMJs  
+     Stiffness and limitation of opening  
+     Crepitus  
+     Developing anterior open bite and retrusion of chin in 
+advanced disease  
+     Joints of hands, wrists, knees and feet commonly 
+involved.     
+   Radiology 
+   Radiology demonstrates reduction in bone density in the 
+TMJ. There is marked erosion of the condylar head and 
+articular fossa and narrowing of the joint space. 
+   In long-standing disease, there is:
+      destruction of entire condyle  
+     anterior open bite  
+     secondary osteoarthrosis  
+     ankylosis.     
+   Management 
+        Analgesics/anti-inflammatory drugs  
+     Steroids  
+     Physiotherapy.      
+   Juvenile chronic (rheumatoid) arthritis 
+   Juvenile chronic rheumatoid arthritis differs from rheuma-
+toid arthritis in the age of onset (mean age 5 years), the 
+severe systemic involvement and the absence (in some 
+cases) of rheumatoid factor. 
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+ Fig. 194    Radiograph of osteoarthrosis showing marginal bony 
+proliferation (‘lipping’).    
+Conditions affecting the joint
+
+=== PDF PAGE 253 ===
+Fifteen: Disorders of the temporomandibular joint
+244
+   While it shares clinical and radiological features with 
+rheumatoid arthritis, the age of onset means that there is 
+often a severe effect on mandibular growth, leading to a 
+‘bird face’ appearance owing to the mandibular retrusion, 
+often accompanied by an anterior open bite. The disease 
+often has periods of remission/quiescence, during which 
+time the erosions of the joint may ‘smooth over’ with 
+ formation of a new cortex. Ankylosis may occur.   
+   Trauma 
+   Trauma may have a number of effects upon the TMJ. 
+Fractures are discussed in  Chapter 8 . 
+   Effusion 
+   Effusion is influx of fluid into the joint, usually either 
+bleeding following trauma or inflammatory exudate. It 
+is important to differentiate this from septic (infective) 
+arthritis. 
+   Clinical features 
+        Pain over joint  
+     Swelling over joint  
+     Limitation of movement  
+     Sensation of a blocked ear  
+     Difficulty in occluding posterior teeth.     
+   Radiology 
+   There is a widened joint space.  
+   Management 
+        Anti-inflammatory drugs  
+     Rarely, surgical drainage may be needed.      
+   Dislocation 
+   In dislocation of the TMJ, the condyle is abnormally posi-
+tioned outside the mandibular fossa but within the joint 
+capsule. Dislocation may occur during trauma or be caused 
+by failure of muscular coordination. 
+   Clinical features 
+        Inability to close the jaw  
+     Pain  
+     Muscle spasm.     
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+   Radiology 
+   Radiography confirms a clinical diagnosis. The condyle 
+may translate beyond the articular eminence normally, 
+without a dislocation, so clinical information is essential. 
+The condyle will be anterior and superior to the ‘summit’ 
+of the articular eminence.  
+   Management 
+   Manual manipulation to reduce the dislocation ( Fig. 
+195   ). Intravenous sedation with midazolam provides 
+muscle relaxation and greatly facilitates this manoeu-
+vre. The patient should avoid wide mouth opening 
+for some days and use the hand to prevent this when 
+yawning.    
+   Ankylosis 
+   Fusion across a TMJ may occur as a result of trauma, mas-
+toid infection or juvenile chronic arthritis. Surgical treat-
+ment is by joint replacement with a prosthetic joint unless 
+the patient’s facial development is not yet complete, when 
+a costochondral (rib) graft is used in an attempt to provide 
+a bony replacement that may grow.   
+ Fig. 195    Manual manipulation to reduce a dislocated jaw.    
+
+=== PDF PAGE 254 ===
+245
+  Multiple choice questions 
+     1 .    The following contribute to mouth opening:
+    a.     Medial pterygoid muscle  
+   b.     Lateral pterygoid muscle  
+   c.     Masseter muscle  
+   d.     Temporalis muscle  
+   e.     Stylomandibular ligament     
+   2 .    The following radiographs/imaging methods can be 
+used to measure joint space width:
+    a .    Panoramic radiograph  
+   b .    Transpharyngeal radiograph  
+   c .    Transcranial oblique lateral radiograph  
+   d .    Transorbital (Zimmer) radiograph  
+   e .    Computed tomography (CT)     
+   3 .    Condylar hyperplasia:
+    a .    Is a developmental disorder  
+   b .    Is an inflammatory disorder  
+   c .    Is assessed using radioisotope imaging  
+   d .    Is usually self-limiting  
+   e .    Causes ankylosis     
+   4 .    Erosion of the condyle may occur in:
+    a .    Pain/dysfunction  
+   b .    Internal derangement  
+   c .    Psoriasis  
+   d .    Synovial chondromatosis (SC)  
+   e .    Dislocation     
+   5 .    Deviation to the left side on opening could be caused 
+by:
+    a .    Right TMJ disc anterior displacement without 
+reduction  
+   b .    Left TMJ disc anterior displacement without 
+reduction  
+   c .    Right TMJ effusion  
+   d .    Left TMJ effusion  
+   e .    Bony ankylosis        
+  Extended matching items 
+  EMI 1 
+    Options: 
+    A     Osteoarthrosis  
+  B      Pain/dysfunction syndrome  
+  C     Joint effusion  
+  D     Fracture of condylar neck  
+  E      Ankylosis  
+  F      Juvenile chronic arthritis  
+  G     Internal derangement: anterior displacement with 
+reduction  
+  H     Internal derangement: anterior displacement without 
+reduction  
+  I      Rheumatoid arthritis  
+  J      Joint dislocation    
+    Lead in:  Match the case history given below that is most 
+appropriate for the diagnosis listed above. 
+     1 .    An 11-year-old patient, following trauma to the 
+jaw as an infant, developed a worsening facial 
+asymmetry and now has extreme limitation of 
+opening. He has no other joint problems in the 
+body.  
+   2 .    A 25-year-old male has just had a blow to the face 
+playing rugby. He complains of pain over his 
+right TMJ and limitation of jaw movement. On 
+examination there is no gross facial asymmetry. 
+There is a tender swelling over the affected joint and 
+the ipsilateral posterior teeth don’t seem to occlude 
+completely.  
+   3 .    A 25-year-old woman complains of an annoying 
+‘click’ in her left TMJ on opening and closing. On 
+examination, there is no facial asymmetry when the 
+jaw is closed, but a transient deviation of the jaw 
+during opening and closing the mouth. Maximal 
+opening is normal.  
+   4 .    A 45-year-old woman with a long history of ‘TMJ 
+trouble’ complains of dull pain and grating sounds 
+over her right TMJ. The symptoms are sometimes 
+worse after a meal, but her jaw is also stiff in the 
+morning with some difficulty in opening.  
+   5 .    A 35-year-old woman with a long history of clicking 
+and occasional pain from her right TMJ presents 
+with an acute event, consisting of limited opening, 
+deviation of the jaw towards the affected side on 
+attempted opening and pain localised to the joint 
+region. These symptoms were present upon waking 
+up in the morning and have been unchanged since. 
+She mentions that the click that has always been there 
+is no longer present.  
+   6 .    An 18-year-old male student complains of aching 
+jaw joints, headaches and limitation of mouth 
+opening over the previous 2 weeks. There is no 
+history of trauma or of previous TMJ-related 
+symptoms. On examination, the reduced opening 
+is confirmed, with a path of opening that is rather 
+irregular. There is tenderness over the TMJ regions 
+and of the muscles of mastication bilaterally. There 
+are inconsistent jaw sounds but no predictable ‘click’ 
+in either joint.  
+   7 .    A 9-year-old boy has a 3-year history of right TMJ pain 
+and tenderness. Recently , symptoms have developed 
+bilaterally . On examination the mandible appears 
+rather underdeveloped, there is an asymmetry with 
+the right side appearing relatively small and there is 
+an anterior open bite. Enquiry indicates that he has 
+symptoms in other joints in the body .  
+   8 .    A 50-year-old woman presents with an inability 
+to bring her teeth together properly and pain over 
+the TMJs bilaterally. This occurred suddenly after 
+yawning widely. There is a history of this occurring 
+once before, a few years ago. On examination there 
+is an obvious anterior open bite, with an occlusion 
+limited to her most posterior teeth. There is marked 
+tenderness over the TMJ regions.  
+    Self-assessment: questions  
+Self-assessment: questions
+
+=== PDF PAGE 255 ===
+Fifteen: Disorders of the temporomandibular joint
+246
+   9 .    A 30-year-old man who has been assaulted 
+complains of pain over his left TMJ and an inability 
+both to open his mouth fully and to bring his 
+teeth together properly. On examination, there is a 
+deviation towards the affected side on attempted 
+opening. Intra-orally there is a posterior open bite on 
+the contralateral side. There is tenderness over the 
+affected joint.  
+   10 .    A 55-year-old woman presents with swelling, pain 
+and tenderness over her TMJs. She says that her 
+mouth opening is limited and there is a feeling of 
+stiffness when she tries. This has been going on for 
+some months, gradually getting worse, and she also 
+has ‘joint trouble’ in her hands and feet. She also 
+mentions that her ‘bite’ doesn’t feel right. Enquiry 
+reveals no history of joint clicking or trismus prior to 
+the current problem.     
+  EMI 2 
+    Options: 
+   A     Panoramic radiograph (collimated to TMJ regions)  
+  B      Transpharyngeal radiograph  
+  C     Transcranial oblique lateral radiograph  
+  D     Reverse Towne’s radiograph  
+  E      Lateral cephalometric radiograph  
+  F      No imaging needed  
+  G     Axial CT with parasagittal reconstruction  
+  H     Cone beam CT  
+  I      Arthrography  
+  J      Magnetic resonance imaging    
+    Lead in:   Select the appropriate imaging technique from 
+the above list for the investigation of patients with the 
+following provisional clinical diagnoses. Some con-
+ditions may require more than one kind of imaging 
+investigation. 
+     1 .    Osteoarthrosis  
+   2 .    Pain/dysfunction syndrome  
+   3 .    Joint effusion  
+   4 .    Fracture of condylar neck  
+   5 .    Ankylosis  
+   6 .    Juvenile chronic arthritis  
+   7 .    Internal derangement: anterior displacement with 
+reduction  
+   8 .    Internal derangement: anterior displacement without 
+reduction  
+   9 .    Rheumatoid arthritis  
+   10 .    Joint dislocation      
+  Case history questions 
+  Case history 1 
+     1 .    What diagnosis is suggested?  
+  2 .    What would be the management?     
+  Case history 2 
+     1 .    What diagnosis is suggested?  
+  2 .    What would be the management?     
+  Case history 3 
+     1 .    What diagnosis is suggested?  
+  2 .    What would be the management?     
+  Case history 4 
+     1 .    What diagnosis is suggested?  
+  2 .    What would be the management?      
+  Viva questions 
+     1 .    Is a clicking temporomandibular joint (TMJ) abnormal?  
+  2 .    What clinical signs would suggest that a patient was a 
+bruxist?  
+  3 .    Are TMJ disorders a manifestation of mental illness?  
+  4 .    Should you take a panoramic radiograph for patients 
+with TMJ disorders?  
+  5 .    What are the indications and contraindications for TMJ 
+arthrography?  
+  6 .    How would you examine the lateral pterygoid muscle 
+when assessing a patient with a TMJ disorder?  
+  7 .    What are the uses of arthroscopy in managing TMJ 
+disorders?  
+  8 .    When might you use a soft bite guard for a patient 
+with TMJ problems?       
+
+=== PDF PAGE 256 ===
+247
+      1 .      a.      False.  It helps in closing the mouth.  
+    b.      True.  Only the lateral pterygoid muscle is a 
+‘mouth opener’. In fact it has two parts; its lower 
+head is active in opening, protrusion and lateral 
+movements, while its upper head has activity 
+during mouth closing.  
+    c .     False.  It helps in closing the mouth.  
+    d .     False.  It helps in closing the mouth.  
+    e .     False.  The stylomandibular ligament extends 
+from the styloid process on the skull base to the 
+angle of the mandible; its role is probably to limit 
+movement of the mandible but it has no active role 
+to play.     
+   2 .      a.      False.  Panoramic radiographs are taken with the 
+jaw protruded and, therefore, cannot show any 
+information about joint space width.  
+    b .     False.  The transpharyngeal radiograph is taken 
+with the mouth open.  
+    c .     True.  A ‘closed’ transcranial oblique lateral 
+radiograph is the only radiograph that shows joint 
+space width. However, the angulation used means 
+that it is the joint space width in the lateral part of 
+the joint that is demonstrated.  
+    d .     False.  This rarely used antero-posterior radiograph 
+is taken with the mouth open. The X-ray 
+source has to be positioned close to the eye and 
+consequently gives a high dose to the lens.  
+    e .     True.  CT can give measurements of joint space 
+width. However, conventional axial scans must be 
+reassembled in a two-dimensional reconstruction 
+to make measurement easier, so fine sections are 
+best. Direct sagittal scanning is preferable.    
+ Joint space narrowing is a sign of osteoarthrosis. 
+However, it is important to remember that imaging 
+should not be carried out just to ensure that all 
+pathological findings have been demonstrated. The 
+purpose of imaging is to aid in diagnosis and to make 
+a contribution to management. If you have established 
+the diagnosis clinically and know what treatment you 
+are going to do, then the presence/absence of joint space 
+narrowing is irrelevant!  
+   3 .      a.      True.  Condylar hyperplasia is a developmental 
+anomaly causing excessive growth of the 
+condyle, leading to a developing facial 
+asymmetry, enlargement of the condyle and 
+sometimes deformity of the condylar head. 
+It usually arises before age 20 years and is 
+commoner in males.  
+    b     . False.   
+    c     . True.  Radioisotope bone scanning (using  99  m Tc-
+labelled methylene bisphosphonate as the 
+radiopharmaceutical) is used to assess activity in 
+the condyle; ideally surgery is carried out when 
+the activity is reduced to background level.  
+    d     . True.  The jaw on the affected side often shows an 
+increase in height of the ramus and body. There 
+may be a posterior open bite on the affected side 
+but often there is compensatory maxillary alveolar 
+overgrowth. Treatment is ideally by orthognathic 
+surgery, but this should be delayed until the 
+condition has stopped developing.  
+    e.      False.  Ankylosis is not associated with the 
+condition.     
+   4 .      a.      False.  Erosion of the condylar head is a fairly 
+non-specific feature. It is most commonly seen in 
+osteoarthrosis.  
+    b .     True.  Erosion in internal derangements 
+represents advanced disease with progression to 
+osteoarthrosis.  
+    c .     True.  Psoriasis is a seronegative systemic arthritis. 
+Radiologically and clinically it is similar to 
+rheumatoid arthritis.  
+    d .     True.  SC is a rare disorder where there is formation 
+of multiple cartilagenous and osseocartilagenous 
+nodules in the synovial membrane of joints. These 
+nodules can detach and become loose in the joint 
+spaces. Patients with SC have variable symptoms 
+ranging from none to pain, swelling, joint noises 
+and trismus. Treatment is by surgery to remove 
+the nodules and resect the abnormal synovial 
+membrane.  
+    e .     False.  There is no association with erosions.     
+   5 .      a.      False.  Deviation occurs towards the affected side.  
+    b .     True.  Any limitation on TMJ movement will lead 
+to deviation of the jaw towards the affected side.  
+    c .     False.  This would cause deviation to the right.  
+    d .     True.  Effusion will limit movement, causing 
+deviation to the left.  
+    e     . False.  Bony ankylosis would not show this sign 
+because true ankylosis will prevent all but a tiny 
+degree of jaw movement.        
+  Extended matching items answers 
+  EMI 1 
+       1 .     E.  The problem is localised to a single joint in the 
+body and has a clear relationship to trauma when 
+an infant, so ankylosis seems a likely diagnosis 
+and juvenile chronic arthritis seems unlikely. Bony 
+ankylosis means that mandibular movement is 
+essentially non-existent, although a few millimetres 
+of movement may be observed through flexing of 
+the bone. Sometimes, however, the ankylosis is due 
+to fibrous union of the joint components, and a little 
+greater movement may be possible. Radiography 
+should be able to differentiate the two types.  
+    2 .     C.  Trauma has precipitated this problem, so the 
+differential diagnosis is essentially between C, D and 
+J. In this case the occlusion is a helpful clue. If there 
+   Self-assessment: answers  
+  Multiple choice answers 
+Self-assessment: answers
+
+=== PDF PAGE 257 ===
+Fifteen: Disorders of the temporomandibular joint
+248
+was a unilateral fracture of the condylar neck, then 
+there would probably be a posterior open bite on 
+the contralateral side. Dislocation is usually bilateral 
+and gives an anterior open bite. Effusion, apart from 
+other local signs of inflammation, tends to produce 
+difficulty in bringing the posterior teeth together, but 
+no dramatic change in the occlusion. Of course, if there 
+is any doubt, radiography should be used as a help.  
+    3 .     G.  Reciprocal clicking is the essential sign of anterior 
+disc displacement with reduction. In the absence of 
+other symptoms, such as pain, difficulty in eating 
+etc., this can be seen as normal variation rather than 
+disease.  
+    4 .     A.  This condition is more common in older patients 
+and in women. It may follow on from an internal 
+derangement or after trauma. The condition comes 
+and goes and may gradually burn out. Management 
+should, therefore, be aimed at symptomatic relief. In 
+some respects, the symptoms in this patient could be 
+consistent with rheumatoid arthritis, but the absence 
+of other joints with disease makes this most unlikely.  
+    5 .     H.  Patients with a reducing disc (disc displacement 
+with reduction) sometimes present with a sudden 
+event of inability to open their mouth (disc 
+displacement without reduction). The event usually 
+arises suddenly, during eating, yawning or, as here, 
+appears on waking from sleep.  
+    6 .     B.  The muscle tenderness, the headaches and jaw 
+limitation all fit with this diagnosis. The absence of 
+any ‘click’, either current or historical, goes against a 
+diagnosis of internal derangement.  
+    7 .     F.  The age of the patient tends to give this one away, 
+as does the evidence of multiple joint involvement. 
+Almost half of patients with this condition will have 
+TMJ involvement and most will ultimately have 
+bilateral disease. Retrognathia and anterior open 
+bite are prominent features because of destruction of 
+the normal condylar growth centre. Asymmetry is 
+also fairly common, reflecting differential degrees of 
+involvement of the joints.  
+    8 .     J.  The features are certain to be dislocation, because 
+of the sudden onset during yawning and the occlusal 
+effects. Patients who dislocate their jaw in this way 
+may suffer recurrent events, as in this case. The 
+anterior open bite, with ‘gagging’ on the posterior 
+teeth, is also seen in bilateral condylar fractures, but 
+in the absence of trauma this would not be in the 
+differential diagnosis here. The only other possible 
+diagnosis would be an acute internal derangement 
+problem, where the condylar head had passed 
+anterior to a lax interarticular disc and could not 
+reduce back to allow closure; such an event would be 
+unlikely to occur bilaterally.  
+    9 .     D.  This scenario fits well with a fractured neck of 
+condyle. The key factor that helps differentiate this 
+case from other trauma-associated TMJ problems is 
+the occlusion. As discussed in  Chapter 8 , a fracture 
+at this site will lead to an altered occlusion due to the 
+likely displacement of the condylar fragment and the 
+consequent upward movement of the ipsilateral ramus.  
+   10 .     I.  The symptoms might suggest pain/dysfunction or 
+anterior disc displacement without reduction. The 
+absence of a previous click, however, would tend to 
+exclude the latter diagnosis. The clues here are the 
+problems with other joints and the complaint about 
+the ‘bite’. In rheumatoid arthritis, destruction of 
+the articulating surface of the condyles may occur, 
+leading to a superior position of the condyles in the 
+fossae. This may lead to an altered occlusion and 
+anterior open bite.     
+  EMI 2 
+      1 .     A  is the simplest choice. Radiological findings 
+in osteoarthrosis include sclerosis, joint space 
+narrowing, flattening of the articulating surfaces and 
+osteophyte formation. B is of historical interest, while 
+C needs special equipment that dentists would not 
+have.  
+   2 .     F.  As there is nothing to image in this condition, and 
+as the provisional diagnosis is reached on clinical 
+evidence, no imaging is required.  
+   3 .     F  or  A.  This diagnosis is often reached on clinical 
+evidence and radiology can do nothing to improve 
+the treatment. In reality, however, some imaging may 
+be needed to confirm that there is no fracture and, in 
+such cases, a panoramic radiograph may be sufficient.  
+   4 .     A  and  D.  When evaluating fractures, it is  de rigueur  
+to have two images at different angulations, and 
+this pair offers a 90  ° difference. It is becoming 
+increasingly common for G or H to be used in this 
+situation; while either provide excellent images of 
+the TMJ, they also deliver higher radiation doses 
+than A and D, and relative cost/benefit has not been 
+evaluated.  
+   5 .     A  followed by  G  or  H.  Once the diagnosis has 
+been made using clinical information and A, cross-
+sectional imaging is appropriate to aid the surgeon in 
+planning intervention.  
+   6 .     A  and  E.  The lateral cephalometric radiograph will 
+be important as a means of recording objectively the 
+facial changes associated with this condition.  
+   7 .     F.  So long as no treatment is needed and the clinical 
+features so clear, imaging is not going to change 
+management.  
+   8 .     I  or  J.  Here, intervention is likely, so imaging if the 
+meniscus position is required. Magnetic resonance 
+imaging is the preferred method for this, although a 
+few centres will still perform arthrography.  
+   9 .     A  and possibly  E.  A may show the characteristic 
+erosion of the condylar heads and assist in confirming 
+diagnosis. E would be appropriate if there is evidence 
+of a changing occlusion, as was the case with juvenile 
+chronic arthritis.  
+  10 .     A.  The radiograph is used to confirm that the 
+condylar heads lie anterior to the articular eminences.      
+  Case history answers 
+  Case history 1 
+    Amanda is a 22-year-old dental receptionist who 
+complains of sharp pain in the right preauricular region 

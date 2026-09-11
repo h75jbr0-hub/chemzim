@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 290" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#070f1e" />
+      <stop offset="100%" stop-color="#0b1b35" />
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+  
+  <rect width="100%" height="100%" fill="url(#bgGrad)" rx="12" stroke="#1e293b" stroke-width="2"/>
+  
+  <!-- Title -->
+  <text x="20" y="35" font-family="system-ui, sans-serif" font-size="14" font-weight="bold" fill="#38bdf8">Carbon Monoxide (CO)</text>
+  <text x="20" y="55" font-family="system-ui, sans-serif" font-size="11" fill="#94a3b8">Triple bond: 2 covalent and 1 dative bond (O➔C)</text>
+
+  <!-- Legend -->
+  <rect x="290" y="20" width="90" height="45" fill="#1e293b" opacity="0.6" rx="4" />
+  <line x1="298" y1="32" x2="318" y2="32" stroke="#475569" stroke-width="2" />
+  <text x="324" y="35" font-family="system-ui, sans-serif" font-size="9" fill="#94a3b8">Covalent</text>
+  
+  <path d="M 298,48 L 312,48" stroke="#10b981" stroke-width="2" />
+  <polygon points="318,48 312,44 312,52" fill="#10b981" />
+  <text x="324" y="51" font-family="system-ui, sans-serif" font-size="9" fill="#10b981" font-weight="bold">Dative (O➔C)</text>
+
+  <g transform="translate(0, 40)">
+    <!-- Carbon Atom -->
+    <circle cx="140" cy="130" r="28" fill="#1c1917" stroke="#78716c" stroke-width="2" />
+    <text x="140" y="135" font-family="system-ui, sans-serif" font-size="16" font-weight="bold" fill="#f5f5f4" text-anchor="middle">C</text>
+    
+    <!-- Lone Pair on Carbon -->
+    <ellipse cx="95" cy="130" rx="6" ry="10" fill="#a8a29e" opacity="0.3" />
+    <circle cx="95" cy="125" r="2" fill="#d6d3d1" />
+    <circle cx="95" cy="135" r="2" fill="#d6d3d1" />
+
+    <!-- Oxygen Atom -->
+    <circle cx="260" cy="130" r="28" fill="#581c87" stroke="#a855f7" stroke-width="2" />
+    <text x="260" y="135" font-family="system-ui, sans-serif" font-size="16" font-weight="bold" fill="#fae8ff" text-anchor="middle">O</text>
+
+    <!-- Lone Pair on Oxygen -->
+    <ellipse cx="305" cy="130" rx="6" ry="10" fill="#c084fc" opacity="0.3" />
+    <circle cx="305" cy="125" r="2" fill="#f3e8ff" />
+    <circle cx="305" cy="135" r="2" fill="#f3e8ff" />
+
+    <!-- Bonds in the middle -->
+    <!-- Top Covalent Bond -->
+    <line x1="172" y1="115" x2="228" y2="115" stroke="#475569" stroke-width="2.5" />
+    
+    <!-- Middle Dative Bond (O -> C) -->
+    <rect x="178" y="128.5" width="50" height="3" fill="#10b981" />
+    <polygon points="168,130 178,125 178,135" fill="#10b981" />
+
+    <!-- Bottom Covalent Bond -->
+    <line x1="172" y1="145" x2="228" y2="145" stroke="#475569" stroke-width="2.5" />
+  </g>
+</svg>

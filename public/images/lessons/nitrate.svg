@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 290" width="100%" height="100%">
+  <!-- Background with dark gradient to match project styling -->
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#070f1e" />
+      <stop offset="100%" stop-color="#0b1b35" />
+    </linearGradient>
+  </defs>
+  
+  <rect width="100%" height="100%" fill="url(#bgGrad)" rx="12" stroke="#1e293b" stroke-width="2"/>
+  
+  <!-- Title -->
+  <text x="20" y="35" font-family="system-ui, sans-serif" font-size="14" font-weight="bold" fill="#38bdf8">Nitrate Ion (NO₃⁻)</text>
+  <text x="20" y="55" font-family="system-ui, sans-serif" font-size="11" fill="#94a3b8">Dative (N➔O), double, and single covalent bonds</text>
+
+  <!-- Key / Legend -->
+  <rect x="290" y="20" width="90" height="45" fill="#1e293b" opacity="0.6" rx="4" />
+  <line x1="298" y1="32" x2="318" y2="32" stroke="#475569" stroke-width="2" />
+  <text x="324" y="35" font-family="system-ui, sans-serif" font-size="9" fill="#94a3b8">Covalent</text>
+  
+  <path d="M 298,48 L 312,48" stroke="#10b981" stroke-width="2" />
+  <polygon points="318,48 312,44 312,52" fill="#10b981" />
+  <text x="324" y="51" font-family="system-ui, sans-serif" font-size="9" fill="#10b981" font-weight="bold">Dative (N➔O)</text>
+
+  <g transform="translate(0, 40)">
+    <!-- Central Nitrogen Atom -->
+    <circle cx="200" cy="135" r="26" fill="#1e1b4b" stroke="#6366f1" stroke-width="2" />
+    <text x="200" y="140" font-family="system-ui, sans-serif" font-size="14" font-weight="bold" fill="#e0e7ff" text-anchor="middle">N</text>
+
+    <!-- Top Oxygen (Dative Covalent Bonded) -->
+    <!-- Highlighted Dative Arrow pointing from N to O -->
+    <line x1="200" y1="109" x2="200" y2="78" stroke="#10b981" stroke-width="2.5" />
+    <polygon points="200,68 195,78 205,78" fill="#10b981" />
+    <circle cx="200" cy="50" r="16" fill="#064e3b" stroke="#10b981" stroke-width="2" />
+    <text x="200" y="54" font-family="system-ui, sans-serif" font-size="12" font-weight="bold" fill="#ecfdf5" text-anchor="middle">O</text>
+
+    <!-- Top Oxygen Lone Pairs (3 pairs) -->
+    <g transform="rotate(-90, 200, 50)">
+      <ellipse cx="223" cy="50" rx="7" ry="4" fill="#10b981" opacity="0.25" />
+      <circle cx="223" cy="47" r="1.2" fill="#ecfdf5" />
+      <circle cx="223" cy="53" r="1.2" fill="#ecfdf5" />
+    </g>
+    <g transform="rotate(-45, 200, 50)">
+      <ellipse cx="223" cy="50" rx="7" ry="4" fill="#10b981" opacity="0.25" />
+      <circle cx="223" cy="47" r="1.2" fill="#ecfdf5" />
+      <circle cx="223" cy="53" r="1.2" fill="#ecfdf5" />
+    </g>
+    <g transform="rotate(-135, 200, 50)">
+      <ellipse cx="223" cy="50" rx="7" ry="4" fill="#10b981" opacity="0.25" />
+      <circle cx="223" cy="47" r="1.2" fill="#ecfdf5" />
+      <circle cx="223" cy="53" r="1.2" fill="#ecfdf5" />
+    </g>
+
+    <!-- Left Oxygen (Double Covalent Bonded) -->
+    <line x1="180" y1="148" x2="142" y2="171" stroke="#475569" stroke-width="2" />
+    <line x1="186" y1="156" x2="148" y2="179" stroke="#475569" stroke-width="2" />
+    <circle cx="130" cy="185" r="16" fill="#0f172a" stroke="#94a3b8" stroke-width="1.5" />
+    <text x="130" y="189" font-family="system-ui, sans-serif" font-size="12" fill="#f8fafc" text-anchor="middle">O</text>
+
+    <!-- Left Oxygen Lone Pairs (2 pairs) -->
+    <g transform="rotate(180, 130, 185)">
+      <ellipse cx="153" cy="185" rx="7" ry="4" fill="#94a3b8" opacity="0.2" />
+      <circle cx="153" cy="182" r="1.2" fill="#f8fafc" />
+      <circle cx="153" cy="188" r="1.2" fill="#f8fafc" />
+    </g>
+    <g transform="rotate(90, 130, 185)">
+      <ellipse cx="153" cy="185" rx="7" ry="4" fill="#94a3b8" opacity="0.2" />
+      <circle cx="153" cy="182" r="1.2" fill="#f8fafc" />
+      <circle cx="153" cy="188" r="1.2" fill="#f8fafc" />
+    </g>
+
+    <!-- Right Oxygen (Single Covalent Bonded with negative charge) -->
+    <line x1="220" y1="152" x2="258" y2="175" stroke="#475569" stroke-width="2" />
+    <circle cx="270" cy="185" r="16" fill="#0f172a" stroke="#94a3b8" stroke-width="1.5" />
+    <text x="270" y="189" font-family="system-ui, sans-serif" font-size="12" fill="#f8fafc" text-anchor="middle">O</text>
+
+    <!-- Right Oxygen Lone Pairs (3 pairs) -->
+    <g transform="rotate(0, 270, 185)">
+      <ellipse cx="293" cy="185" rx="7" ry="4" fill="#94a3b8" opacity="0.2" />
+      <circle cx="293" cy="182" r="1.2" fill="#f8fafc" />
+      <circle cx="293" cy="188" r="1.2" fill="#f8fafc" />
+    </g>
+    <g transform="rotate(90, 270, 185)">
+      <ellipse cx="293" cy="185" rx="7" ry="4" fill="#94a3b8" opacity="0.2" />
+      <circle cx="293" cy="182" r="1.2" fill="#f8fafc" />
+      <circle cx="293" cy="188" r="1.2" fill="#f8fafc" />
+    </g>
+    <g transform="rotate(-90, 270, 185)">
+      <ellipse cx="293" cy="185" rx="7" ry="4" fill="#94a3b8" opacity="0.2" />
+      <circle cx="293" cy="182" r="1.2" fill="#f8fafc" />
+      <circle cx="293" cy="188" r="1.2" fill="#f8fafc" />
+    </g>
+
+    <!-- Overall Negative Charge brackets -->
+    <path d="M 70,30 L 55,30 L 55,220 L 70,220" stroke="#94a3b8" stroke-width="1.5" fill="none" />
+    <path d="M 330,30 L 345,30 L 345,220 L 330,220" stroke="#94a3b8" stroke-width="1.5" fill="none" />
+    <text x="355" y="40" font-family="system-ui, sans-serif" font-size="20" font-weight="bold" fill="#38bdf8">-</text>
+  </g>
+</svg>
